@@ -1,0 +1,91 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-19T18:32:12Z",
+  "domain": "instagram.com",
+  "icons": [
+    {
+      "file": "instagram.com-favicon.180.webp",
+      "origin": "html",
+      "url": "https://static.cdninstagram.com/rsrc.php/yw/r/icwX0xAk0pz.webp",
+      "sizes": [180]
+    },
+    {
+      "file": "instagram.com-favicon.167.webp",
+      "origin": "html",
+      "url": "https://static.cdninstagram.com/rsrc.php/y9/r/MptwNl-B2pS.webp",
+      "sizes": [167]
+    },
+    {
+      "file": "instagram.com-favicon.152.webp",
+      "origin": "html",
+      "url": "https://static.cdninstagram.com/rsrc.php/yY/r/5OCV_xUyQ5h.webp",
+      "sizes": [152]
+    },
+    {
+      "file": "instagram.com-favicon.120.webp",
+      "origin": "html",
+      "url": "https://static.cdninstagram.com/rsrc.php/yL/r/mMvhX4currF.webp",
+      "sizes": [120]
+    },
+    {
+      "file": "instagram.com-favicon.76.webp",
+      "origin": "html",
+      "url": "https://static.cdninstagram.com/rsrc.php/yj/r/f01UdNyJjJj.webp",
+      "sizes": [76]
+    },
+    {
+      "file": "instagram.com-favicon.32.png",
+      "origin": "html",
+      "url": "https://static.cdninstagram.com/rsrc.php/y4/r/QaBlI0OZiks.ico",
+      "sizes": [32],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://instagram.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "instagram.com-favicon.32.webp",
+      "origin": "html",
+      "url": "https://static.cdninstagram.com/rsrc.php/yr/r/rzWiSjZRxk5.webp",
+      "sizes": [32]
+    },
+    {
+      "file": "instagram.com-gstatic.180.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Finstagram.com&size=256",
+      "sizes": [180]
+    },
+    {
+      "file": "instagram.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Finstagram.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "instagram.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Finstagram.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "instagram.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Finstagram.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "instagram.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Finstagram.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "instagram.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Finstagram.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

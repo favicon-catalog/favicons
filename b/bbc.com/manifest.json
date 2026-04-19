@@ -1,0 +1,115 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-19T18:31:51Z",
+  "domain": "bbc.com",
+  "icons": [
+    {
+      "file": "bbc.com-favicon.svg",
+      "origin": "html",
+      "url": "https://static.files.bbci.co.uk/bbcdotcom/web/20260407-092955-f3cfe0ee04-web-3.0.0-2/safari-pinned-tab.svg",
+      "sizes": [512]
+    },
+    {
+      "file": "bbc.com-favicon.180.png",
+      "origin": "html",
+      "url": "https://static.files.bbci.co.uk/bbcdotcom/web/20260407-092955-f3cfe0ee04-web-3.0.0-2/apple-touch-icon.png",
+      "sizes": [180]
+    },
+    {
+      "file": "bbc.com-favicon.ico",
+      "origin": "html",
+      "url": "https://static.files.bbci.co.uk/bbcdotcom/web/20260407-092955-f3cfe0ee04-web-3.0.0-2/favicon.ico",
+      "sizes": [16, 32, 48]
+    },
+    {
+      "file": "bbc.com-favicon.ico.48.png",
+      "origin": "html",
+      "url": "https://static.files.bbci.co.uk/bbcdotcom/web/20260407-092955-f3cfe0ee04-web-3.0.0-2/favicon.ico",
+      "sizes": [48]
+    },
+    {
+      "file": "bbc.com-favicon.32.png",
+      "origin": "html",
+      "url": "https://static.files.bbci.co.uk/bbcdotcom/web/20260407-092955-f3cfe0ee04-web-3.0.0-2/favicon-32x32.png",
+      "sizes": [32]
+    },
+    {
+      "file": "bbc.com-favicon.ico.32.png",
+      "origin": "html",
+      "url": "https://static.files.bbci.co.uk/bbcdotcom/web/20260407-092955-f3cfe0ee04-web-3.0.0-2/favicon.ico",
+      "sizes": [32]
+    },
+    {
+      "file": "bbc.com-favicon.16.png",
+      "origin": "html",
+      "url": "https://static.files.bbci.co.uk/bbcdotcom/web/20260407-092955-f3cfe0ee04-web-3.0.0-2/favicon-16x16.png",
+      "sizes": [16]
+    },
+    {
+      "file": "bbc.com-favicon.ico.16.png",
+      "origin": "html",
+      "url": "https://static.files.bbci.co.uk/bbcdotcom/web/20260407-092955-f3cfe0ee04-web-3.0.0-2/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "bbc.com-favicon.9e0220ab.ico",
+      "origin": "root",
+      "url": "https://bbc.com/favicon.ico",
+      "sizes": [16, 32, 48]
+    },
+    {
+      "file": "bbc.com-favicon.ico.48.9e0220ab.png",
+      "origin": "root",
+      "url": "https://bbc.com/favicon.ico",
+      "sizes": [48]
+    },
+    {
+      "file": "bbc.com-favicon.ico.32.9e0220ab.png",
+      "origin": "root",
+      "url": "https://bbc.com/favicon.ico",
+      "sizes": [32]
+    },
+    {
+      "file": "bbc.com-favicon.ico.16.9e0220ab.png",
+      "origin": "root",
+      "url": "https://bbc.com/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "bbc.com-gstatic.180.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fbbc.com&size=256",
+      "sizes": [180]
+    },
+    {
+      "file": "bbc.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fbbc.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "bbc.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fbbc.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "bbc.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fbbc.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "bbc.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fbbc.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "bbc.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fbbc.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-19T18:32:02Z",
+  "domain": "daum.net",
+  "icons": [
+    {
+      "file": "daum.net-favicon.ico",
+      "origin": "html",
+      "url": "https://t1.daumcdn.net/top/favicon/20260220/daum.ico",
+      "sizes": [16, 32]
+    },
+    {
+      "file": "daum.net-favicon.ico.32.png",
+      "origin": "html",
+      "url": "https://t1.daumcdn.net/top/favicon/20260220/daum.ico",
+      "sizes": [32]
+    },
+    {
+      "file": "daum.net-favicon.ico.16.png",
+      "origin": "html",
+      "url": "https://t1.daumcdn.net/top/favicon/20260220/daum.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "daum.net-gstatic.120.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdaum.net&size=128",
+      "sizes": [120],
+      "aliases": [
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdaum.net&size=256"
+        }
+      ]
+    },
+    {
+      "file": "daum.net-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdaum.net&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "daum.net-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdaum.net&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "daum.net-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdaum.net&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "daum.net-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdaum.net&size=16",
+      "sizes": [16]
+    }
+  ]
+}

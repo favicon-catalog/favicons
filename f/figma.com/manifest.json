@@ -1,0 +1,115 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-19T18:32:06Z",
+  "domain": "figma.com",
+  "icons": [
+    {
+      "file": "figma.com-favicon.256.png",
+      "origin": "html",
+      "url": "https://static.figma.com/app/icon/2/icon-256.png",
+      "sizes": [256]
+    },
+    {
+      "file": "figma.com-favicon.192.png",
+      "origin": "html",
+      "url": "https://static.figma.com/app/icon/2/icon-192.png",
+      "sizes": [192]
+    },
+    {
+      "file": "figma.com-favicon.180.png",
+      "origin": "html",
+      "url": "https://static.figma.com/app/icon/2/touch-180.png",
+      "sizes": [180]
+    },
+    {
+      "file": "figma.com-favicon.167.png",
+      "origin": "html",
+      "url": "https://static.figma.com/app/icon/2/touch-167.png",
+      "sizes": [167]
+    },
+    {
+      "file": "figma.com-favicon.152.png",
+      "origin": "html",
+      "url": "https://static.figma.com/app/icon/2/touch-152.png",
+      "sizes": [152]
+    },
+    {
+      "file": "figma.com-favicon.128.png",
+      "origin": "html",
+      "url": "https://static.figma.com/app/icon/2/icon-128.png",
+      "sizes": [128]
+    },
+    {
+      "file": "figma.com-favicon.120.png",
+      "origin": "html",
+      "url": "https://static.figma.com/app/icon/2/touch-120.png",
+      "sizes": [120]
+    },
+    {
+      "file": "figma.com-favicon.76.png",
+      "origin": "html",
+      "url": "https://static.figma.com/app/icon/2/touch-76.png",
+      "sizes": [76]
+    },
+    {
+      "file": "figma.com-favicon.ico",
+      "origin": "html",
+      "url": "https://static.figma.com/app/icon/2/favicon.ico",
+      "sizes": [64]
+    },
+    {
+      "file": "figma.com-favicon.ico.64.png",
+      "origin": "html",
+      "url": "https://static.figma.com/app/icon/2/favicon.ico",
+      "sizes": [64]
+    },
+    {
+      "file": "figma.com-favicon.svg",
+      "origin": "html",
+      "url": "https://static.figma.com/app/icon/2/favicon.svg",
+      "sizes": [64]
+    },
+    {
+      "file": "figma.com-favicon.32.png",
+      "origin": "html",
+      "url": "https://static.figma.com/app/icon/2/favicon.png",
+      "sizes": [32]
+    },
+    {
+      "file": "figma.com-gstatic.256.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ffigma.com&size=256",
+      "sizes": [256]
+    },
+    {
+      "file": "figma.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ffigma.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "figma.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ffigma.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "figma.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ffigma.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "figma.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ffigma.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "figma.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ffigma.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

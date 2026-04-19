@@ -1,0 +1,79 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-19T18:32:26Z",
+  "domain": "nytimes.com",
+  "icons": [
+    {
+      "file": "nytimes.com-favicon.144.png",
+      "origin": "html",
+      "url": "https://nytimes.com/vi-assets/static-assets/apple-touch-icon-28865b72953380a40aa43318108876cb.png",
+      "sizes": [144],
+      "aliases": [
+        {
+          "origin": "html",
+          "url": "https://nytimes.com/vi-assets/static-assets/ios-ipad-144x144-28865b72953380a40aa43318108876cb.png"
+        }
+      ]
+    },
+    {
+      "file": "nytimes.com-favicon.114.png",
+      "origin": "html",
+      "url": "https://nytimes.com/vi-assets/static-assets/ios-iphone-114x144-080e7ec6514fdc62bcbb7966d9b257d2.png",
+      "sizes": [114]
+    },
+    {
+      "file": "nytimes.com-favicon.57.png",
+      "origin": "html",
+      "url": "https://nytimes.com/vi-assets/static-assets/ios-default-homescreen-57x57-43808a4cd5333b648057a01624d84960.png",
+      "sizes": [57]
+    },
+    {
+      "file": "nytimes.com-favicon.48.png",
+      "origin": "html",
+      "url": "https://nytimes.com/vi-assets/static-assets/favicon-d2483f10ef688e6f89e23806b9700298.ico",
+      "sizes": [48],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://nytimes.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "nytimes.com-gstatic.144.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fnytimes.com&size=256",
+      "sizes": [144]
+    },
+    {
+      "file": "nytimes.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fnytimes.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "nytimes.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fnytimes.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "nytimes.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fnytimes.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "nytimes.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fnytimes.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "nytimes.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fnytimes.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

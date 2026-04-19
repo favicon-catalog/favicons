@@ -1,0 +1,97 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-19T18:32:14Z",
+  "domain": "mediawiki.org",
+  "icons": [
+    {
+      "file": "mediawiki.org-favicon.152.png",
+      "origin": "html",
+      "url": "https://mediawiki.org/static/apple-touch/mediawiki.png",
+      "sizes": [152]
+    },
+    {
+      "file": "mediawiki.org-favicon.ico",
+      "origin": "html",
+      "url": "https://mediawiki.org/static/favicon/mediawiki.ico",
+      "sizes": [16, 32, 48],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://mediawiki.org/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "mediawiki.org-favicon.ico.48.png",
+      "origin": "html",
+      "url": "https://mediawiki.org/static/favicon/mediawiki.ico",
+      "sizes": [48],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://mediawiki.org/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "mediawiki.org-favicon.ico.32.png",
+      "origin": "html",
+      "url": "https://mediawiki.org/static/favicon/mediawiki.ico",
+      "sizes": [32],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://mediawiki.org/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "mediawiki.org-favicon.ico.16.png",
+      "origin": "html",
+      "url": "https://mediawiki.org/static/favicon/mediawiki.ico",
+      "sizes": [16],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://mediawiki.org/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "mediawiki.org-gstatic.152.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fmediawiki.org&size=256",
+      "sizes": [152]
+    },
+    {
+      "file": "mediawiki.org-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fmediawiki.org&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "mediawiki.org-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fmediawiki.org&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "mediawiki.org-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fmediawiki.org&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "mediawiki.org-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fmediawiki.org&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "mediawiki.org-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fmediawiki.org&size=16",
+      "sizes": [16]
+    }
+  ]
+}

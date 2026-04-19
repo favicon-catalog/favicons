@@ -1,0 +1,19 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-19T18:32:22Z",
+  "domain": "cafe.naver.com",
+  "icons": [
+    {
+      "file": "cafe.naver.com-favicon.32.png",
+      "origin": "html",
+      "url": "https://ca-fe.pstatic.net/web-section/favicon.ico",
+      "sizes": [32],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://cafe.naver.com/favicon.ico"
+        }
+      ]
+    }
+  ]
+}

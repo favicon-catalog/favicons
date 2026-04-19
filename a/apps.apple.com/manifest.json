@@ -1,0 +1,73 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-19T18:31:50Z",
+  "domain": "apps.apple.com",
+  "icons": [
+    {
+      "file": "apps.apple.com-favicon.180.png",
+      "origin": "html",
+      "url": "https://apps.apple.com/assets/favicon/favicon-180.png",
+      "sizes": [180]
+    },
+    {
+      "file": "apps.apple.com-favicon.32.png",
+      "origin": "html",
+      "url": "https://apps.apple.com/assets/favicon/favicon-32.png",
+      "sizes": [32]
+    },
+    {
+      "file": "apps.apple.com-favicon.16.png",
+      "origin": "html",
+      "url": "https://apps.apple.com/assets/favicon/favicon-16.png",
+      "sizes": [16]
+    },
+    {
+      "file": "apps.apple.com-favicon.ico",
+      "origin": "root",
+      "url": "https://apps.apple.com/favicon.ico",
+      "sizes": [48]
+    },
+    {
+      "file": "apps.apple.com-favicon.ico.48.png",
+      "origin": "root",
+      "url": "https://apps.apple.com/favicon.ico",
+      "sizes": [48]
+    },
+    {
+      "file": "apps.apple.com-gstatic.180.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fapps.apple.com&size=256",
+      "sizes": [180]
+    },
+    {
+      "file": "apps.apple.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fapps.apple.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "apps.apple.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fapps.apple.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "apps.apple.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fapps.apple.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "apps.apple.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fapps.apple.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "apps.apple.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fapps.apple.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

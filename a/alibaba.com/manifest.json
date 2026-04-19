@@ -1,0 +1,67 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-19T18:31:55Z",
+  "domain": "alibaba.com",
+  "icons": [
+    {
+      "file": "alibaba.com-favicon.ico",
+      "origin": "html",
+      "url": "https://s.alicdn.com/favicon.ico",
+      "sizes": [16],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://alibaba.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "alibaba.com-favicon.ico.16.png",
+      "origin": "html",
+      "url": "https://s.alicdn.com/favicon.ico",
+      "sizes": [16],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://alibaba.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "alibaba.com-gstatic.192.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Falibaba.com&size=256",
+      "sizes": [192]
+    },
+    {
+      "file": "alibaba.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Falibaba.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "alibaba.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Falibaba.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "alibaba.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Falibaba.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "alibaba.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Falibaba.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "alibaba.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Falibaba.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

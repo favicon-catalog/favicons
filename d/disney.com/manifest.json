@@ -1,0 +1,91 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-19T18:32:02Z",
+  "domain": "disney.com",
+  "icons": [
+    {
+      "file": "disney.com-favicon.200.png",
+      "origin": "html",
+      "url": "https://static-mh.content.disney.io/matterhorn/assets/apple-touch-icon-2747f4e2a5dd.png",
+      "sizes": [200]
+    },
+    {
+      "file": "disney.com-favicon.ico",
+      "origin": "html",
+      "url": "https://static-mh.content.disney.io/matterhorn/assets/favicon-94e3862e7fb9.ico",
+      "sizes": [16, 24, 32, 64]
+    },
+    {
+      "file": "disney.com-favicon.ico.64.png",
+      "origin": "html",
+      "url": "https://static-mh.content.disney.io/matterhorn/assets/favicon-94e3862e7fb9.ico",
+      "sizes": [64]
+    },
+    {
+      "file": "disney.com-favicon.ico.32.png",
+      "origin": "html",
+      "url": "https://static-mh.content.disney.io/matterhorn/assets/favicon-94e3862e7fb9.ico",
+      "sizes": [32]
+    },
+    {
+      "file": "disney.com-favicon.ico.24.png",
+      "origin": "html",
+      "url": "https://static-mh.content.disney.io/matterhorn/assets/favicon-94e3862e7fb9.ico",
+      "sizes": [24]
+    },
+    {
+      "file": "disney.com-favicon.ico.16.png",
+      "origin": "html",
+      "url": "https://static-mh.content.disney.io/matterhorn/assets/favicon-94e3862e7fb9.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "disney.com-favicon.470ac09d.ico",
+      "origin": "root",
+      "url": "https://disney.com/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "disney.com-favicon.ico.16.470ac09d.png",
+      "origin": "root",
+      "url": "https://disney.com/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "disney.com-gstatic.200.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdisney.com&size=256",
+      "sizes": [200]
+    },
+    {
+      "file": "disney.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdisney.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "disney.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdisney.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "disney.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdisney.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "disney.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdisney.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "disney.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdisney.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

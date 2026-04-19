@@ -1,0 +1,73 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-19T18:32:29Z",
+  "domain": "playstation.com",
+  "icons": [
+    {
+      "file": "playstation.com-favicon.400.jpg",
+      "origin": "html",
+      "url": "https://gmedia.playstation.com/is/image/SIEPDC/ps-logo-favicon?$icon-128-128--t$",
+      "sizes": [400],
+      "aliases": [
+        {
+          "origin": "html",
+          "url": "https://gmedia.playstation.com/is/image/SIEPDC/ps-logo-favicon?$icon-196-196--t$"
+        }
+      ]
+    },
+    {
+      "file": "playstation.com-favicon.96.png",
+      "origin": "html",
+      "url": "https://gmedia.playstation.com/is/image/SIEPDC/ps-logo-favicon?$icon-96-96--t$",
+      "sizes": [96]
+    },
+    {
+      "file": "playstation.com-favicon.32.png",
+      "origin": "html",
+      "url": "https://gmedia.playstation.com/is/image/SIEPDC/ps-logo-favicon?$icon-32-32--t$",
+      "sizes": [32]
+    },
+    {
+      "file": "playstation.com-favicon.16.png",
+      "origin": "html",
+      "url": "https://gmedia.playstation.com/is/image/SIEPDC/ps-logo-favicon?$icon-16-16--t$",
+      "sizes": [16]
+    },
+    {
+      "file": "playstation.com-gstatic.256.jpg",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fplaystation.com&size=256",
+      "sizes": [256]
+    },
+    {
+      "file": "playstation.com-gstatic.128.jpg",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fplaystation.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "playstation.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fplaystation.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "playstation.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fplaystation.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "playstation.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fplaystation.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "playstation.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fplaystation.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

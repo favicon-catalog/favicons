@@ -1,0 +1,67 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-19T18:32:28Z",
+  "domain": "pinterest.com",
+  "icons": [
+    {
+      "file": "pinterest.com-favicon.svg",
+      "origin": "html",
+      "url": "https://s.pinimg.com/webapp/pinterest_favicon-70db4fa7.svg",
+      "sizes": [500]
+    },
+    {
+      "file": "pinterest.com-favicon.144.png",
+      "origin": "html",
+      "url": "https://s.pinimg.com/webapp/logo_transparent_144x144-3da7a67b.png",
+      "sizes": [144]
+    },
+    {
+      "file": "pinterest.com-favicon.48.png",
+      "origin": "html",
+      "url": "https://s.pinimg.com/webapp/favicon_48x48-7470a30d.png",
+      "sizes": [48]
+    },
+    {
+      "file": "pinterest.com-favicon.16.png",
+      "origin": "root",
+      "url": "https://pinterest.com/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "pinterest.com-gstatic.144.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fpinterest.com&size=256",
+      "sizes": [144]
+    },
+    {
+      "file": "pinterest.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fpinterest.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "pinterest.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fpinterest.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "pinterest.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fpinterest.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "pinterest.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fpinterest.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "pinterest.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fpinterest.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

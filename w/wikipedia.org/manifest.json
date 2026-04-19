@@ -1,0 +1,97 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-19T18:32:43Z",
+  "domain": "wikipedia.org",
+  "icons": [
+    {
+      "file": "wikipedia.org-favicon.160.png",
+      "origin": "html",
+      "url": "https://wikipedia.org/static/apple-touch/wikipedia.png",
+      "sizes": [160]
+    },
+    {
+      "file": "wikipedia.org-favicon.ico",
+      "origin": "html",
+      "url": "https://wikipedia.org/static/favicon/wikipedia.ico",
+      "sizes": [16, 32, 48],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://wikipedia.org/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "wikipedia.org-favicon.ico.48.png",
+      "origin": "html",
+      "url": "https://wikipedia.org/static/favicon/wikipedia.ico",
+      "sizes": [48],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://wikipedia.org/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "wikipedia.org-favicon.ico.32.png",
+      "origin": "html",
+      "url": "https://wikipedia.org/static/favicon/wikipedia.ico",
+      "sizes": [32],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://wikipedia.org/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "wikipedia.org-favicon.ico.16.png",
+      "origin": "html",
+      "url": "https://wikipedia.org/static/favicon/wikipedia.ico",
+      "sizes": [16],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://wikipedia.org/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "wikipedia.org-gstatic.160.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fwikipedia.org&size=256",
+      "sizes": [160]
+    },
+    {
+      "file": "wikipedia.org-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fwikipedia.org&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "wikipedia.org-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fwikipedia.org&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "wikipedia.org-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fwikipedia.org&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "wikipedia.org-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fwikipedia.org&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "wikipedia.org-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fwikipedia.org&size=16",
+      "sizes": [16]
+    }
+  ]
+}

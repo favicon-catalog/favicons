@@ -1,0 +1,71 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-19T18:32:23Z",
+  "domain": "netflix.com",
+  "icons": [
+    {
+      "file": "netflix.com-favicon.64.png",
+      "origin": "html",
+      "url": "https://assets.nflxext.com/us/ffe/siteui/common/icons/nficon2016.png",
+      "sizes": [64]
+    },
+    {
+      "file": "netflix.com-favicon.ico",
+      "origin": "html",
+      "url": "https://assets.nflxext.com/us/ffe/siteui/common/icons/nficon2023.ico",
+      "sizes": [48]
+    },
+    {
+      "file": "netflix.com-favicon.ico.48.png",
+      "origin": "html",
+      "url": "https://assets.nflxext.com/us/ffe/siteui/common/icons/nficon2023.ico",
+      "sizes": [48]
+    },
+    {
+      "file": "netflix.com-favicon.678750a2.ico",
+      "origin": "root",
+      "url": "https://netflix.com/favicon.ico",
+      "sizes": [64]
+    },
+    {
+      "file": "netflix.com-favicon.ico.64.png",
+      "origin": "root",
+      "url": "https://netflix.com/favicon.ico",
+      "sizes": [64]
+    },
+    {
+      "file": "netflix.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fnetflix.com&size=64",
+      "sizes": [64],
+      "aliases": [
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fnetflix.com&size=128"
+        },
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fnetflix.com&size=256"
+        }
+      ]
+    },
+    {
+      "file": "netflix.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fnetflix.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "netflix.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fnetflix.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "netflix.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fnetflix.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

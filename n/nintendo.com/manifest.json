@@ -1,0 +1,103 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-19T18:32:24Z",
+  "domain": "nintendo.com",
+  "icons": [
+    {
+      "file": "nintendo.com-favicon.180.png",
+      "origin": "html",
+      "url": "https://assets.nintendo.com/image/upload/ncom/icons/fav-icons/apple-touch-icon.png",
+      "sizes": [180]
+    },
+    {
+      "file": "nintendo.com-favicon.ico",
+      "origin": "html",
+      "url": "https://assets.nintendo.com/image/upload/ncom/icons/fav-icons/favicon.ico",
+      "sizes": [16, 32, 48]
+    },
+    {
+      "file": "nintendo.com-favicon.ico.48.png",
+      "origin": "html",
+      "url": "https://assets.nintendo.com/image/upload/ncom/icons/fav-icons/favicon.ico",
+      "sizes": [48]
+    },
+    {
+      "file": "nintendo.com-favicon.32.png",
+      "origin": "html",
+      "url": "https://assets.nintendo.com/image/upload/ncom/icons/fav-icons/favicon-32x32.png",
+      "sizes": [32]
+    },
+    {
+      "file": "nintendo.com-favicon.ico.32.png",
+      "origin": "html",
+      "url": "https://assets.nintendo.com/image/upload/ncom/icons/fav-icons/favicon.ico",
+      "sizes": [32]
+    },
+    {
+      "file": "nintendo.com-favicon.16.png",
+      "origin": "html",
+      "url": "https://assets.nintendo.com/image/upload/ncom/icons/fav-icons/favicon-16x16.png",
+      "sizes": [16]
+    },
+    {
+      "file": "nintendo.com-favicon.ico.16.png",
+      "origin": "html",
+      "url": "https://assets.nintendo.com/image/upload/ncom/icons/fav-icons/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "nintendo.com-favicon.98b39de7.ico",
+      "origin": "root",
+      "url": "https://nintendo.com/favicon.ico",
+      "sizes": [16, 32]
+    },
+    {
+      "file": "nintendo.com-favicon.ico.32.98b39de7.png",
+      "origin": "root",
+      "url": "https://nintendo.com/favicon.ico",
+      "sizes": [32]
+    },
+    {
+      "file": "nintendo.com-favicon.ico.16.98b39de7.png",
+      "origin": "root",
+      "url": "https://nintendo.com/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "nintendo.com-gstatic.180.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fnintendo.com&size=256",
+      "sizes": [180]
+    },
+    {
+      "file": "nintendo.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fnintendo.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "nintendo.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fnintendo.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "nintendo.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fnintendo.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "nintendo.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fnintendo.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "nintendo.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fnintendo.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

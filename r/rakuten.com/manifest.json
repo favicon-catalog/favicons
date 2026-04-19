@@ -1,0 +1,127 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-19T18:32:29Z",
+  "domain": "rakuten.com",
+  "icons": [
+    {
+      "file": "rakuten.com-favicon.192.png",
+      "origin": "html",
+      "url": "https://static.rakuten.com/static/images/favicons-r/v1/icon-192x192.png",
+      "sizes": [192]
+    },
+    {
+      "file": "rakuten.com-favicon.180.png",
+      "origin": "html",
+      "url": "https://static.rakuten.com/static/images/favicons-r/v1/icon-180x180.png",
+      "sizes": [180]
+    },
+    {
+      "file": "rakuten.com-favicon.144.png",
+      "origin": "html",
+      "url": "https://static.rakuten.com/static/images/favicons-r/v1/icon-144x144.png",
+      "sizes": [144]
+    },
+    {
+      "file": "rakuten.com-favicon.120.png",
+      "origin": "html",
+      "url": "https://static.rakuten.com/static/images/favicons-r/v1/icon-120x120.png",
+      "sizes": [120]
+    },
+    {
+      "file": "rakuten.com-favicon.114.png",
+      "origin": "html",
+      "url": "https://static.rakuten.com/static/images/favicons-r/v1/icon-114x114.png",
+      "sizes": [114]
+    },
+    {
+      "file": "rakuten.com-favicon.76.f0ecba22.png",
+      "origin": "html",
+      "url": "https://static.rakuten.com/static/images/favicons-r/v1/icon-76x76.png",
+      "sizes": [76]
+    },
+    {
+      "file": "rakuten.com-favicon.76.png",
+      "origin": "html",
+      "url": "https://static.rakuten.com/static/images/favicons-r/v1/favicon-76x76.png",
+      "sizes": [76]
+    },
+    {
+      "file": "rakuten.com-favicon.72.9e1c214c.png",
+      "origin": "html",
+      "url": "https://static.rakuten.com/static/images/favicons-r/v1/icon-72x72.png",
+      "sizes": [72]
+    },
+    {
+      "file": "rakuten.com-favicon.72.png",
+      "origin": "html",
+      "url": "https://static.rakuten.com/static/images/favicons-r/v1/favicon-72x72.png",
+      "sizes": [72]
+    },
+    {
+      "file": "rakuten.com-favicon.57.d80a92d9.png",
+      "origin": "html",
+      "url": "https://static.rakuten.com/static/images/favicons-r/v1/icon-57x57.png",
+      "sizes": [57]
+    },
+    {
+      "file": "rakuten.com-favicon.57.png",
+      "origin": "html",
+      "url": "https://static.rakuten.com/static/images/favicons-r/v1/favicon-57x57.png",
+      "sizes": [57]
+    },
+    {
+      "file": "rakuten.com-favicon.32.png",
+      "origin": "html",
+      "url": "https://static.rakuten.com/static/images/favicons-r/v1/favicon-32x32.png",
+      "sizes": [32]
+    },
+    {
+      "file": "rakuten.com-favicon.16.png",
+      "origin": "html",
+      "url": "https://static.rakuten.com/static/images/favicons-r/v1/favicon-16x16.png",
+      "sizes": [16]
+    },
+    {
+      "file": "rakuten.com-favicon.192.3fcc6bd6.png",
+      "origin": "root",
+      "url": "https://rakuten.com/favicon.ico",
+      "sizes": [192]
+    },
+    {
+      "file": "rakuten.com-gstatic.114.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Frakuten.com&size=128",
+      "sizes": [114],
+      "aliases": [
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Frakuten.com&size=256"
+        }
+      ]
+    },
+    {
+      "file": "rakuten.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Frakuten.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "rakuten.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Frakuten.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "rakuten.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Frakuten.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "rakuten.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Frakuten.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

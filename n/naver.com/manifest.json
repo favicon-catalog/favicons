@@ -1,0 +1,97 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-19T18:32:21Z",
+  "domain": "naver.com",
+  "icons": [
+    {
+      "file": "naver.com-favicon.144.png",
+      "origin": "html",
+      "url": "https://s.pstatic.net/static/www/u/2014/0328/mma_204243574.png",
+      "sizes": [144]
+    },
+    {
+      "file": "naver.com-favicon.96.png",
+      "origin": "html",
+      "url": "https://s.pstatic.net/static/www/nFavicon96.png",
+      "sizes": [96]
+    },
+    {
+      "file": "naver.com-favicon.72.png",
+      "origin": "html",
+      "url": "https://s.pstatic.net/static/www/u/2014/0328/mma_20432863.png",
+      "sizes": [72]
+    },
+    {
+      "file": "naver.com-favicon.ico",
+      "origin": "html",
+      "url": "https://naver.com/favicon.ico?1",
+      "sizes": [16, 32],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://naver.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "naver.com-favicon.ico.32.png",
+      "origin": "html",
+      "url": "https://naver.com/favicon.ico?1",
+      "sizes": [32],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://naver.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "naver.com-favicon.ico.16.png",
+      "origin": "html",
+      "url": "https://naver.com/favicon.ico?1",
+      "sizes": [16],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://naver.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "naver.com-gstatic.192.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fnaver.com&size=256",
+      "sizes": [192]
+    },
+    {
+      "file": "naver.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fnaver.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "naver.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fnaver.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "naver.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fnaver.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "naver.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fnaver.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "naver.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fnaver.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-19T18:32:31Z",
+  "domain": "snapchat.com",
+  "icons": [
+    {
+      "file": "snapchat.com-favicon.192.4e036caf.png",
+      "origin": "html",
+      "url": "https://static.snapchat.com/images/favicon/favicon-192x192.png",
+      "sizes": [192]
+    },
+    {
+      "file": "snapchat.com-favicon.192.png",
+      "origin": "html",
+      "url": "https://static.snapchat.com/images/apple-touch-icon/apple-touch-icon-yellow-192.png",
+      "sizes": [192]
+    },
+    {
+      "file": "snapchat.com-favicon.180.png",
+      "origin": "html",
+      "url": "https://static.snapchat.com/images/apple-touch-icon/apple-touch-icon-yellow-180.png",
+      "sizes": [180]
+    },
+    {
+      "file": "snapchat.com-favicon.ico",
+      "origin": "html",
+      "url": "https://static.snapchat.com/favicon.ico",
+      "sizes": [16, 32, 48],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://snapchat.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "snapchat.com-favicon.ico.48.png",
+      "origin": "html",
+      "url": "https://static.snapchat.com/favicon.ico",
+      "sizes": [48],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://snapchat.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "snapchat.com-favicon.ico.32.png",
+      "origin": "html",
+      "url": "https://static.snapchat.com/favicon.ico",
+      "sizes": [32],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://snapchat.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "snapchat.com-favicon.ico.16.png",
+      "origin": "html",
+      "url": "https://static.snapchat.com/favicon.ico",
+      "sizes": [16],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://snapchat.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "snapchat.com-favicon.64.png",
+      "origin": "root",
+      "url": "https://snapchat.com/favicon.png",
+      "sizes": [64]
+    },
+    {
+      "file": "snapchat.com-gstatic.192.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fsnapchat.com&size=256",
+      "sizes": [192]
+    },
+    {
+      "file": "snapchat.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fsnapchat.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "snapchat.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fsnapchat.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "snapchat.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fsnapchat.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "snapchat.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fsnapchat.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "snapchat.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fsnapchat.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

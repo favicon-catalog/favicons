@@ -1,0 +1,73 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-19T18:32:02Z",
+  "domain": "disneyplus.com",
+  "icons": [
+    {
+      "file": "disneyplus.com-favicon.svg",
+      "origin": "html",
+      "url": "https://static-assets.bamgrid.com/product/disneyplus/favicons/mask-icon-aurora.86b2f302cf50180b25ddd8835041b1c3.svg",
+      "sizes": [934]
+    },
+    {
+      "file": "disneyplus.com-favicon.180.png",
+      "origin": "html",
+      "url": "https://static-assets.bamgrid.com/product/disneyplus/favicons/disPlus-favicon-180x180.7d56f648dc95f591721935193bc827cb.png",
+      "sizes": [180],
+      "aliases": [
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdisneyplus.com&size=256"
+        }
+      ]
+    },
+    {
+      "file": "disneyplus.com-favicon.96.png",
+      "origin": "html",
+      "url": "https://static-assets.bamgrid.com/product/disneyplus/favicons/favicon_dis_48x48_@2X.2eebc912779d4f2ee8d9c6204d443ab6.png",
+      "sizes": [96]
+    },
+    {
+      "file": "disneyplus.com-favicon.ico",
+      "origin": "root",
+      "url": "https://disneyplus.com/favicon.ico",
+      "sizes": [48]
+    },
+    {
+      "file": "disneyplus.com-favicon.ico.48.png",
+      "origin": "root",
+      "url": "https://disneyplus.com/favicon.ico",
+      "sizes": [48]
+    },
+    {
+      "file": "disneyplus.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdisneyplus.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "disneyplus.com-gstatic.64.jpg",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdisneyplus.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "disneyplus.com-gstatic.48.jpg",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdisneyplus.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "disneyplus.com-gstatic.32.jpg",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdisneyplus.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "disneyplus.com-gstatic.16.jpg",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdisneyplus.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

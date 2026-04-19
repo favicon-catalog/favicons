@@ -1,0 +1,43 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-19T18:32:24Z",
+  "domain": "terms.naver.com",
+  "icons": [
+    {
+      "file": "terms.naver.com-favicon.ico",
+      "origin": "html",
+      "url": "https://terms.naver.com/favicon.ico?260416040407",
+      "sizes": [16, 32],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://terms.naver.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "terms.naver.com-favicon.ico.32.png",
+      "origin": "html",
+      "url": "https://terms.naver.com/favicon.ico?260416040407",
+      "sizes": [32],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://terms.naver.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "terms.naver.com-favicon.ico.16.png",
+      "origin": "html",
+      "url": "https://terms.naver.com/favicon.ico?260416040407",
+      "sizes": [16],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://terms.naver.com/favicon.ico"
+        }
+      ]
+    }
+  ]
+}

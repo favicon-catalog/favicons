@@ -1,0 +1,85 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-19T18:31:55Z",
+  "domain": "cncf.io",
+  "icons": [
+    {
+      "file": "cncf.io-favicon.svg",
+      "origin": "html",
+      "url": "https://www.cncf.io/wp-content/themes/cncf-twenty-two/images/favicon.svg",
+      "sizes": [350]
+    },
+    {
+      "file": "cncf.io-favicon.180.png",
+      "origin": "html",
+      "url": "https://www.cncf.io/wp-content/themes/cncf-twenty-two/images/apple-touch-icon.png",
+      "sizes": [180]
+    },
+    {
+      "file": "cncf.io-favicon.ico",
+      "origin": "html",
+      "url": "https://www.cncf.io/wp-content/themes/cncf-twenty-two/images/favicon.ico",
+      "sizes": [16, 32, 48]
+    },
+    {
+      "file": "cncf.io-favicon.ico.48.png",
+      "origin": "html",
+      "url": "https://www.cncf.io/wp-content/themes/cncf-twenty-two/images/favicon.ico",
+      "sizes": [48]
+    },
+    {
+      "file": "cncf.io-favicon.ico.32.png",
+      "origin": "html",
+      "url": "https://www.cncf.io/wp-content/themes/cncf-twenty-two/images/favicon.ico",
+      "sizes": [32]
+    },
+    {
+      "file": "cncf.io-favicon.ico.16.png",
+      "origin": "html",
+      "url": "https://www.cncf.io/wp-content/themes/cncf-twenty-two/images/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "cncf.io-favicon.80.png",
+      "origin": "root",
+      "url": "https://cncf.io/favicon.ico",
+      "sizes": [80]
+    },
+    {
+      "file": "cncf.io-gstatic.256.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fcncf.io&size=256",
+      "sizes": [256]
+    },
+    {
+      "file": "cncf.io-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fcncf.io&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "cncf.io-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fcncf.io&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "cncf.io-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fcncf.io&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "cncf.io-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fcncf.io&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "cncf.io-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fcncf.io&size=16",
+      "sizes": [16]
+    }
+  ]
+}

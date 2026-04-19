@@ -1,0 +1,97 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-19T18:32:34Z",
+  "domain": "stripe.com",
+  "icons": [
+    {
+      "file": "stripe.com-favicon.svg",
+      "origin": "html",
+      "url": "https://images.stripeassets.com/fzn2n1nzq965/1hgcBNd12BfT9VLgbId7By/01d91920114b124fb4cf6d448f9f06eb/favicon.svg",
+      "sizes": [512]
+    },
+    {
+      "file": "stripe.com-favicon.ico",
+      "origin": "html",
+      "url": "https://assets.stripeassets.com/fzn2n1nzq965/nu0iR4KqmkdJ52fgRts09/c3a10df318e7ffb1f516073daadea625/favicon.ico",
+      "sizes": [16, 32, 48],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://stripe.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "stripe.com-favicon.ico.48.png",
+      "origin": "html",
+      "url": "https://assets.stripeassets.com/fzn2n1nzq965/nu0iR4KqmkdJ52fgRts09/c3a10df318e7ffb1f516073daadea625/favicon.ico",
+      "sizes": [48],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://stripe.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "stripe.com-favicon.ico.32.png",
+      "origin": "html",
+      "url": "https://assets.stripeassets.com/fzn2n1nzq965/nu0iR4KqmkdJ52fgRts09/c3a10df318e7ffb1f516073daadea625/favicon.ico",
+      "sizes": [32],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://stripe.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "stripe.com-favicon.ico.16.png",
+      "origin": "html",
+      "url": "https://assets.stripeassets.com/fzn2n1nzq965/nu0iR4KqmkdJ52fgRts09/c3a10df318e7ffb1f516073daadea625/favicon.ico",
+      "sizes": [16],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://stripe.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "stripe.com-gstatic.256.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fstripe.com&size=256",
+      "sizes": [256]
+    },
+    {
+      "file": "stripe.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fstripe.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "stripe.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fstripe.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "stripe.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fstripe.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "stripe.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fstripe.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "stripe.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fstripe.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

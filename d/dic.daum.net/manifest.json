@@ -1,0 +1,61 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-19T18:32:00Z",
+  "domain": "dic.daum.net",
+  "icons": [
+    {
+      "file": "dic.daum.net-favicon.ico",
+      "origin": "html",
+      "url": "https://search1.daumcdn.net/search/statics/common/img/2026/0303/favicon.ico",
+      "sizes": [16, 32]
+    },
+    {
+      "file": "dic.daum.net-favicon.ico.32.png",
+      "origin": "html",
+      "url": "https://search1.daumcdn.net/search/statics/common/img/2026/0303/favicon.ico",
+      "sizes": [32]
+    },
+    {
+      "file": "dic.daum.net-favicon.ico.16.png",
+      "origin": "html",
+      "url": "https://search1.daumcdn.net/search/statics/common/img/2026/0303/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "dic.daum.net-gstatic.96.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdic.daum.net&size=128",
+      "sizes": [96],
+      "aliases": [
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdic.daum.net&size=256"
+        }
+      ]
+    },
+    {
+      "file": "dic.daum.net-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdic.daum.net&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "dic.daum.net-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdic.daum.net&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "dic.daum.net-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdic.daum.net&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "dic.daum.net-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdic.daum.net&size=16",
+      "sizes": [16]
+    }
+  ]
+}

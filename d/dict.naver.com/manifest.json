@@ -1,0 +1,49 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-19T18:32:20Z",
+  "domain": "dict.naver.com",
+  "icons": [
+    {
+      "file": "dict.naver.com-favicon.32.png",
+      "origin": "html",
+      "url": "https://ssl.pstatic.net/dicimg/favicons/dict/v7/home/favicon.ico",
+      "sizes": [32]
+    },
+    {
+      "file": "dict.naver.com-favicon.32.ac363e28.png",
+      "origin": "root",
+      "url": "https://dict.naver.com/favicon.ico",
+      "sizes": [32]
+    },
+    {
+      "file": "dict.naver.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdict.naver.com&size=32",
+      "sizes": [32],
+      "aliases": [
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdict.naver.com&size=48"
+        },
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdict.naver.com&size=64"
+        },
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdict.naver.com&size=128"
+        },
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdict.naver.com&size=256"
+        }
+      ]
+    },
+    {
+      "file": "dict.naver.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdict.naver.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

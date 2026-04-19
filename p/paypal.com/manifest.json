@@ -1,0 +1,103 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-19T18:32:28Z",
+  "domain": "paypal.com",
+  "icons": [
+    {
+      "file": "paypal.com-favicon.258.png",
+      "origin": "html",
+      "url": "https://www.paypalobjects.com/marketing/web/icons/monogram/pp258.png",
+      "sizes": [258]
+    },
+    {
+      "file": "paypal.com-favicon.196.png",
+      "origin": "html",
+      "url": "https://www.paypalobjects.com/marketing/web/icons/monogram/pp196.png",
+      "sizes": [196]
+    },
+    {
+      "file": "paypal.com-favicon.144.png",
+      "origin": "html",
+      "url": "https://www.paypalobjects.com/marketing/web/icons/monogram/pp144.png",
+      "sizes": [144]
+    },
+    {
+      "file": "paypal.com-favicon.114.png",
+      "origin": "html",
+      "url": "https://www.paypalobjects.com/marketing/web/icons/monogram/pp114.png",
+      "sizes": [114]
+    },
+    {
+      "file": "paypal.com-favicon.72.png",
+      "origin": "html",
+      "url": "https://www.paypalobjects.com/marketing/web/icons/monogram/pp72.png",
+      "sizes": [72]
+    },
+    {
+      "file": "paypal.com-favicon.64.png",
+      "origin": "html",
+      "url": "https://www.paypalobjects.com/marketing/web/icons/monogram/pp64.png",
+      "sizes": [64]
+    },
+    {
+      "file": "paypal.com-favicon.32.png",
+      "origin": "html",
+      "url": "https://www.paypalobjects.com/marketing/web/icons/monogram/pp32.png",
+      "sizes": [32]
+    },
+    {
+      "file": "paypal.com-favicon.ico",
+      "origin": "root",
+      "url": "https://paypal.com/favicon.ico",
+      "sizes": [16, 32]
+    },
+    {
+      "file": "paypal.com-favicon.ico.32.png",
+      "origin": "root",
+      "url": "https://paypal.com/favicon.ico",
+      "sizes": [32]
+    },
+    {
+      "file": "paypal.com-favicon.ico.16.png",
+      "origin": "root",
+      "url": "https://paypal.com/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "paypal.com-gstatic.256.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fpaypal.com&size=256",
+      "sizes": [256]
+    },
+    {
+      "file": "paypal.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fpaypal.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "paypal.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fpaypal.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "paypal.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fpaypal.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "paypal.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fpaypal.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "paypal.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fpaypal.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

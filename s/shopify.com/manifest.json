@@ -1,0 +1,91 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-19T18:32:30Z",
+  "domain": "shopify.com",
+  "icons": [
+    {
+      "file": "shopify.com-favicon.ico",
+      "origin": "html",
+      "url": "https://cdn.shopify.com/shopifycloud/web/assets/v1/favicon-default-6cbad9de243dbae3.ico",
+      "sizes": [256]
+    },
+    {
+      "file": "shopify.com-favicon.ico.256.png",
+      "origin": "html",
+      "url": "https://cdn.shopify.com/shopifycloud/web/assets/v1/favicon-default-6cbad9de243dbae3.ico",
+      "sizes": [256]
+    },
+    {
+      "file": "shopify.com-favicon.144.png",
+      "origin": "html",
+      "url": "https://cdn.shopify.com/b/shopify-brochure2-assets/b13486e5693b246af63c66ab047a6b6b.png",
+      "sizes": [144]
+    },
+    {
+      "file": "shopify.com-favicon.120.png",
+      "origin": "html",
+      "url": "https://cdn.shopify.com/b/shopify-brochure2-assets/c97c60ca19c64a8b5378d9f9e971f7bd.png",
+      "sizes": [120]
+    },
+    {
+      "file": "shopify.com-favicon.72.png",
+      "origin": "html",
+      "url": "https://cdn.shopify.com/b/shopify-brochure2-assets/8734d76c98437c8ae8a628bbeed3750a.png",
+      "sizes": [72]
+    },
+    {
+      "file": "shopify.com-favicon.57.png",
+      "origin": "html",
+      "url": "https://cdn.shopify.com/b/shopify-brochure2-assets/193f18e4855704ef1716dc0cd750c1ee.png",
+      "sizes": [57]
+    },
+    {
+      "file": "shopify.com-favicon.33387bbf.ico",
+      "origin": "root",
+      "url": "https://shopify.com/favicon.ico",
+      "sizes": [256]
+    },
+    {
+      "file": "shopify.com-favicon.ico.256.33387bbf.png",
+      "origin": "root",
+      "url": "https://shopify.com/favicon.ico",
+      "sizes": [256]
+    },
+    {
+      "file": "shopify.com-gstatic.256.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fshopify.com&size=256",
+      "sizes": [256]
+    },
+    {
+      "file": "shopify.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fshopify.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "shopify.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fshopify.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "shopify.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fshopify.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "shopify.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fshopify.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "shopify.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fshopify.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

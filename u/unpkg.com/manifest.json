@@ -1,0 +1,49 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-19T18:32:38Z",
+  "domain": "unpkg.com",
+  "icons": [
+    {
+      "file": "unpkg.com-favicon.256.jpg",
+      "origin": "html",
+      "url": "https://unpkg.com/favicon.jpg",
+      "sizes": [256]
+    },
+    {
+      "file": "unpkg.com-gstatic.256.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Funpkg.com&size=256",
+      "sizes": [256]
+    },
+    {
+      "file": "unpkg.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Funpkg.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "unpkg.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Funpkg.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "unpkg.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Funpkg.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "unpkg.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Funpkg.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "unpkg.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Funpkg.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

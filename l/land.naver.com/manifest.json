@@ -1,0 +1,13 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-19T18:32:21Z",
+  "domain": "land.naver.com",
+  "icons": [
+    {
+      "file": "land.naver.com-favicon.192.png",
+      "origin": "root",
+      "url": "https://land.naver.com/favicon.ico",
+      "sizes": [192]
+    }
+  ]
+}

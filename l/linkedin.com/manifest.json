@@ -1,0 +1,101 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-19T18:32:13Z",
+  "domain": "linkedin.com",
+  "icons": [
+    {
+      "file": "linkedin.com-favicon.ico",
+      "origin": "html",
+      "url": "https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
+      "sizes": [16, 24, 32, 64],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://linkedin.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "linkedin.com-favicon.ico.64.png",
+      "origin": "html",
+      "url": "https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
+      "sizes": [64],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://linkedin.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "linkedin.com-favicon.ico.32.png",
+      "origin": "html",
+      "url": "https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
+      "sizes": [32],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://linkedin.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "linkedin.com-favicon.ico.24.png",
+      "origin": "html",
+      "url": "https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
+      "sizes": [24],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://linkedin.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "linkedin.com-favicon.ico.16.png",
+      "origin": "html",
+      "url": "https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
+      "sizes": [16],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://linkedin.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "linkedin.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Flinkedin.com&size=64",
+      "sizes": [64],
+      "aliases": [
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Flinkedin.com&size=128"
+        },
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Flinkedin.com&size=256"
+        }
+      ]
+    },
+    {
+      "file": "linkedin.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Flinkedin.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "linkedin.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Flinkedin.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "linkedin.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Flinkedin.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

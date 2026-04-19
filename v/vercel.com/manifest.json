@@ -1,0 +1,151 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-19T18:32:40Z",
+  "domain": "vercel.com",
+  "icons": [
+    {
+      "file": "vercel.com-favicon.256.png",
+      "origin": "html",
+      "url": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-256x256.png",
+      "sizes": [256]
+    },
+    {
+      "file": "vercel.com-favicon.180.png",
+      "origin": "html",
+      "url": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-180x180.png",
+      "sizes": [180]
+    },
+    {
+      "file": "vercel.com-favicon.152.png",
+      "origin": "html",
+      "url": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-152x152.png",
+      "sizes": [152]
+    },
+    {
+      "file": "vercel.com-favicon.144.png",
+      "origin": "html",
+      "url": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-144x144.png",
+      "sizes": [144]
+    },
+    {
+      "file": "vercel.com-favicon.120.png",
+      "origin": "html",
+      "url": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-120x120.png",
+      "sizes": [120]
+    },
+    {
+      "file": "vercel.com-favicon.114.png",
+      "origin": "html",
+      "url": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-114x114.png",
+      "sizes": [114]
+    },
+    {
+      "file": "vercel.com-favicon.76.png",
+      "origin": "html",
+      "url": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-76x76.png",
+      "sizes": [76]
+    },
+    {
+      "file": "vercel.com-favicon.72.png",
+      "origin": "html",
+      "url": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-72x72.png",
+      "sizes": [72]
+    },
+    {
+      "file": "vercel.com-favicon.60.png",
+      "origin": "html",
+      "url": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-60x60.png",
+      "sizes": [60]
+    },
+    {
+      "file": "vercel.com-favicon.57.png",
+      "origin": "html",
+      "url": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-57x57.png",
+      "sizes": [57]
+    },
+    {
+      "file": "vercel.com-favicon.ico",
+      "origin": "html",
+      "url": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/favicon.ico",
+      "sizes": [16, 32, 48]
+    },
+    {
+      "file": "vercel.com-favicon.ico.48.png",
+      "origin": "html",
+      "url": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/favicon.ico",
+      "sizes": [48]
+    },
+    {
+      "file": "vercel.com-favicon.ico.32.png",
+      "origin": "html",
+      "url": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/favicon.ico",
+      "sizes": [32]
+    },
+    {
+      "file": "vercel.com-favicon.ico.16.png",
+      "origin": "html",
+      "url": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "vercel.com-favicon.59ffaa42.ico",
+      "origin": "root",
+      "url": "https://vercel.com/favicon.ico",
+      "sizes": [16, 32, 48]
+    },
+    {
+      "file": "vercel.com-favicon.ico.48.59ffaa42.png",
+      "origin": "root",
+      "url": "https://vercel.com/favicon.ico",
+      "sizes": [48]
+    },
+    {
+      "file": "vercel.com-favicon.ico.32.59ffaa42.png",
+      "origin": "root",
+      "url": "https://vercel.com/favicon.ico",
+      "sizes": [32]
+    },
+    {
+      "file": "vercel.com-favicon.ico.16.59ffaa42.png",
+      "origin": "root",
+      "url": "https://vercel.com/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "vercel.com-gstatic.180.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fvercel.com&size=256",
+      "sizes": [180]
+    },
+    {
+      "file": "vercel.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fvercel.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "vercel.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fvercel.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "vercel.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fvercel.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "vercel.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fvercel.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "vercel.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fvercel.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

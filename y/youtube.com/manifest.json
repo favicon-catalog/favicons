@@ -1,0 +1,91 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-19T18:32:45Z",
+  "domain": "youtube.com",
+  "icons": [
+    {
+      "file": "youtube.com-favicon.144.png",
+      "origin": "html",
+      "url": "https://www.youtube.com/s/desktop/2c918e63/img/favicon_144x144.png",
+      "sizes": [144]
+    },
+    {
+      "file": "youtube.com-favicon.96.png",
+      "origin": "html",
+      "url": "https://www.youtube.com/s/desktop/2c918e63/img/favicon_96x96.png",
+      "sizes": [96]
+    },
+    {
+      "file": "youtube.com-favicon.48.png",
+      "origin": "html",
+      "url": "https://www.youtube.com/s/desktop/2c918e63/img/favicon_48x48.png",
+      "sizes": [48]
+    },
+    {
+      "file": "youtube.com-favicon.32.png",
+      "origin": "html",
+      "url": "https://www.youtube.com/s/desktop/2c918e63/img/favicon_32x32.png",
+      "sizes": [32]
+    },
+    {
+      "file": "youtube.com-favicon.ico",
+      "origin": "html",
+      "url": "https://www.youtube.com/s/desktop/2c918e63/img/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "youtube.com-favicon.ico.16.png",
+      "origin": "html",
+      "url": "https://www.youtube.com/s/desktop/2c918e63/img/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "youtube.com-favicon.e6ba7f5d.ico",
+      "origin": "root",
+      "url": "https://youtube.com/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "youtube.com-favicon.ico.16.e6ba7f5d.png",
+      "origin": "root",
+      "url": "https://youtube.com/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "youtube.com-gstatic.144.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fyoutube.com&size=256",
+      "sizes": [144]
+    },
+    {
+      "file": "youtube.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fyoutube.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "youtube.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fyoutube.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "youtube.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fyoutube.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "youtube.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fyoutube.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "youtube.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fyoutube.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

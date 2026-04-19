@@ -1,0 +1,45 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-19T18:32:41Z",
+  "domain": "developer.wikimedia.org",
+  "icons": [
+    {
+      "file": "developer.wikimedia.org-favicon.48.png",
+      "origin": "html",
+      "url": "https://developer.wikimedia.org/assets/favicon.png",
+      "sizes": [48]
+    },
+    {
+      "file": "developer.wikimedia.org-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdeveloper.wikimedia.org&size=48",
+      "sizes": [48],
+      "aliases": [
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdeveloper.wikimedia.org&size=64"
+        },
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdeveloper.wikimedia.org&size=128"
+        },
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdeveloper.wikimedia.org&size=256"
+        }
+      ]
+    },
+    {
+      "file": "developer.wikimedia.org-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdeveloper.wikimedia.org&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "developer.wikimedia.org-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdeveloper.wikimedia.org&size=16",
+      "sizes": [16]
+    }
+  ]
+}

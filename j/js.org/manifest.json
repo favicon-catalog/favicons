@@ -1,0 +1,67 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-19T18:32:11Z",
+  "domain": "js.org",
+  "icons": [
+    {
+      "file": "js.org-favicon.svg",
+      "origin": "html",
+      "url": "https://js.org/ico/favicon.svg",
+      "sizes": [512]
+    },
+    {
+      "file": "js.org-favicon.180.png",
+      "origin": "html",
+      "url": "https://js.org/ico/apple-touch-icon.png",
+      "sizes": [180]
+    },
+    {
+      "file": "js.org-favicon.134.png",
+      "origin": "html",
+      "url": "https://js.org/ico/favicon-32.png",
+      "sizes": [134]
+    },
+    {
+      "file": "js.org-favicon.68.png",
+      "origin": "html",
+      "url": "https://js.org/favicon.png",
+      "sizes": [68]
+    },
+    {
+      "file": "js.org-gstatic.256.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fjs.org&size=256",
+      "sizes": [256]
+    },
+    {
+      "file": "js.org-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fjs.org&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "js.org-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fjs.org&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "js.org-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fjs.org&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "js.org-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fjs.org&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "js.org-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fjs.org&size=16",
+      "sizes": [16]
+    }
+  ]
+}

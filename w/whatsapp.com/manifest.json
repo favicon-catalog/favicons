@@ -1,0 +1,55 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-19T18:32:42Z",
+  "domain": "whatsapp.com",
+  "icons": [
+    {
+      "file": "whatsapp.com-favicon.svg",
+      "origin": "html",
+      "url": "https://static.whatsapp.net/rsrc.php/y1/r/FJbTMJqMap7.svg",
+      "sizes": [23]
+    },
+    {
+      "file": "whatsapp.com-favicon.194.webp",
+      "origin": "root",
+      "url": "https://whatsapp.com/favicon.ico",
+      "sizes": [194],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://whatsapp.com/favicon.png"
+        }
+      ]
+    },
+    {
+      "file": "whatsapp.com-gstatic.23.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fwhatsapp.com&size=32",
+      "sizes": [23],
+      "aliases": [
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fwhatsapp.com&size=48"
+        },
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fwhatsapp.com&size=64"
+        },
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fwhatsapp.com&size=128"
+        },
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fwhatsapp.com&size=256"
+        }
+      ]
+    },
+    {
+      "file": "whatsapp.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fwhatsapp.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

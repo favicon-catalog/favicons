@@ -1,0 +1,85 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-19T18:32:45Z",
+  "domain": "wise.com",
+  "icons": [
+    {
+      "file": "wise.com-favicon.256.png",
+      "origin": "html",
+      "url": "https://wise.com/public-resources/assets/icons/wise-personal/android_chrome_256x256.png",
+      "sizes": [256]
+    },
+    {
+      "file": "wise.com-favicon.192.png",
+      "origin": "html",
+      "url": "https://wise.com/public-resources/assets/icons/wise-personal/android_chrome_192x192.png",
+      "sizes": [192]
+    },
+    {
+      "file": "wise.com-favicon.180.png",
+      "origin": "html",
+      "url": "https://wise.com/public-resources/assets/icons/wise-personal/apple_touch_icon.png",
+      "sizes": [180]
+    },
+    {
+      "file": "wise.com-favicon.32.4eb02bef.png",
+      "origin": "html",
+      "url": "https://wise.com/public-resources/assets/icons/wise-personal/favicon_32x32.png",
+      "sizes": [32]
+    },
+    {
+      "file": "wise.com-favicon.32.png",
+      "origin": "html",
+      "url": "https://wise.com/public-resources/assets/icons/wise-personal/favicon.png",
+      "sizes": [32]
+    },
+    {
+      "file": "wise.com-favicon.svg",
+      "origin": "html",
+      "url": "https://wise.com/public-resources/assets/icons/wise-personal/safari_pinned_tab.svg",
+      "sizes": [32]
+    },
+    {
+      "file": "wise.com-favicon.16.png",
+      "origin": "html",
+      "url": "https://wise.com/public-resources/assets/icons/wise-personal/favicon_16x16.png",
+      "sizes": [16]
+    },
+    {
+      "file": "wise.com-gstatic.256.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fwise.com&size=256",
+      "sizes": [256]
+    },
+    {
+      "file": "wise.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fwise.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "wise.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fwise.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "wise.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fwise.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "wise.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fwise.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "wise.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fwise.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

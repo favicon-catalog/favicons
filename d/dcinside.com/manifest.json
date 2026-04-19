@@ -1,0 +1,67 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-19T18:32:08Z",
+  "domain": "dcinside.com",
+  "icons": [
+    {
+      "file": "dcinside.com-favicon.ico",
+      "origin": "html",
+      "url": "https://nstatic.dcinside.com/dc/w/images/logo_icon.ico",
+      "sizes": [32],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://dcinside.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "dcinside.com-favicon.ico.32.png",
+      "origin": "html",
+      "url": "https://nstatic.dcinside.com/dc/w/images/logo_icon.ico",
+      "sizes": [32],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://dcinside.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "dcinside.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdcinside.com&size=128",
+      "sizes": [128],
+      "aliases": [
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdcinside.com&size=256"
+        }
+      ]
+    },
+    {
+      "file": "dcinside.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdcinside.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "dcinside.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdcinside.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "dcinside.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdcinside.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "dcinside.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdcinside.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-19T18:32:22Z",
+  "domain": "map.naver.com",
+  "icons": [
+    {
+      "file": "map.naver.com-favicon.512.png",
+      "origin": "html",
+      "url": "https://ssl.pstatic.net/static/maps/assets/icons/android-icon-512x512.png",
+      "sizes": [512]
+    },
+    {
+      "file": "map.naver.com-favicon.192.png",
+      "origin": "html",
+      "url": "https://ssl.pstatic.net/static/maps/assets/icons/android-icon-192x192.png",
+      "sizes": [192]
+    },
+    {
+      "file": "map.naver.com-favicon.180.png",
+      "origin": "html",
+      "url": "https://ssl.pstatic.net/static/maps/assets/icons/apple-icon-180x180.png",
+      "sizes": [180]
+    },
+    {
+      "file": "map.naver.com-favicon.32.png",
+      "origin": "html",
+      "url": "https://ssl.pstatic.net/static/maps/assets/icons/favicon-32x32.png",
+      "sizes": [32],
+      "aliases": [
+        {
+          "origin": "html",
+          "url": "https://ssl.pstatic.net/static/maps/assets/icons/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "map.naver.com-favicon.16.png",
+      "origin": "html",
+      "url": "https://ssl.pstatic.net/static/maps/assets/icons/favicon-16x16.png",
+      "sizes": [16]
+    },
+    {
+      "file": "map.naver.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fmap.naver.com&size=32",
+      "sizes": [32],
+      "aliases": [
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fmap.naver.com&size=48"
+        },
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fmap.naver.com&size=64"
+        },
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fmap.naver.com&size=128"
+        },
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fmap.naver.com&size=256"
+        }
+      ]
+    },
+    {
+      "file": "map.naver.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fmap.naver.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

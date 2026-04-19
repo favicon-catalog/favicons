@@ -1,0 +1,61 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-19T18:32:39Z",
+  "domain": "twitter.com",
+  "icons": [
+    {
+      "file": "twitter.com-favicon.1024.png",
+      "origin": "html",
+      "url": "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png",
+      "sizes": [1024]
+    },
+    {
+      "file": "twitter.com-favicon.svg",
+      "origin": "html",
+      "url": "https://abs.twimg.com/responsive-web/client-web/icon-svg.ea5ff4aa.svg",
+      "sizes": [128]
+    },
+    {
+      "file": "twitter.com-favicon.32.png",
+      "origin": "html",
+      "url": "https://abs.twimg.com/favicons/twitter.3.ico",
+      "sizes": [32],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://twitter.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "twitter.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ftwitter.com&size=32",
+      "sizes": [32],
+      "aliases": [
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ftwitter.com&size=48"
+        },
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ftwitter.com&size=64"
+        },
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ftwitter.com&size=128"
+        },
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ftwitter.com&size=256"
+        }
+      ]
+    },
+    {
+      "file": "twitter.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ftwitter.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

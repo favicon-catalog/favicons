@@ -1,0 +1,25 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-19T18:33:04Z",
+  "domain": "sk.com",
+  "icons": [
+    {
+      "file": "sk.com-favicon.192.png",
+      "origin": "html",
+      "url": "https://sk.com/lib/images/common/logo_192x192.png",
+      "sizes": [192]
+    },
+    {
+      "file": "sk.com-favicon.180.png",
+      "origin": "html",
+      "url": "https://sk.com/lib/images/common/logo_180x180.png",
+      "sizes": [180]
+    },
+    {
+      "file": "sk.com-favicon.32.png",
+      "origin": "html",
+      "url": "https://sk.com/lib/images/common/logo_32x32.png",
+      "sizes": [32]
+    }
+  ]
+}

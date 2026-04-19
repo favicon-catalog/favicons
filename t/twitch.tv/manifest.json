@@ -1,0 +1,61 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-19T18:32:38Z",
+  "domain": "twitch.tv",
+  "icons": [
+    {
+      "file": "twitch.tv-favicon.32.png",
+      "origin": "html",
+      "url": "https://assets.twitch.tv/assets/favicon-32-e29e246c157142c94346.png",
+      "sizes": [32]
+    },
+    {
+      "file": "twitch.tv-favicon.16.png",
+      "origin": "html",
+      "url": "https://assets.twitch.tv/assets/favicon-16-52e571ffea063af7a7f4.png",
+      "sizes": [16]
+    },
+    {
+      "file": "twitch.tv-favicon.ico",
+      "origin": "root",
+      "url": "https://twitch.tv/favicon.ico",
+      "sizes": [32]
+    },
+    {
+      "file": "twitch.tv-favicon.ico.32.png",
+      "origin": "root",
+      "url": "https://twitch.tv/favicon.ico",
+      "sizes": [32]
+    },
+    {
+      "file": "twitch.tv-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ftwitch.tv&size=32",
+      "sizes": [32],
+      "aliases": [
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ftwitch.tv&size=48"
+        },
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ftwitch.tv&size=64"
+        },
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ftwitch.tv&size=128"
+        },
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ftwitch.tv&size=256"
+        }
+      ]
+    },
+    {
+      "file": "twitch.tv-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ftwitch.tv&size=16",
+      "sizes": [16]
+    }
+  ]
+}

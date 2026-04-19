@@ -1,0 +1,61 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-19T18:32:36Z",
+  "domain": "samsung.com",
+  "icons": [
+    {
+      "file": "samsung.com-favicon.192.png",
+      "origin": "html",
+      "url": "https://samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/icon/pwa_icon_192x192.png",
+      "sizes": [192]
+    },
+    {
+      "file": "samsung.com-favicon.144.png",
+      "origin": "html",
+      "url": "https://samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/app_ico.png",
+      "sizes": [144]
+    },
+    {
+      "file": "samsung.com-favicon.96.png",
+      "origin": "html",
+      "url": "https://samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/Favicon.png",
+      "sizes": [96]
+    },
+    {
+      "file": "samsung.com-gstatic.144.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fsamsung.com&size=256",
+      "sizes": [144]
+    },
+    {
+      "file": "samsung.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fsamsung.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "samsung.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fsamsung.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "samsung.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fsamsung.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "samsung.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fsamsung.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "samsung.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fsamsung.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

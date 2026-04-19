@@ -1,0 +1,79 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-19T18:32:01Z",
+  "domain": "discord.com",
+  "icons": [
+    {
+      "file": "discord.com-favicon.ico",
+      "origin": "html",
+      "url": "https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/6266bc493fb42d4e27bb8393_847541504914fd33810e70a0ea73177e.ico",
+      "sizes": [16, 32, 48, 256]
+    },
+    {
+      "file": "discord.com-favicon.ico.256.png",
+      "origin": "html",
+      "url": "https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/6266bc493fb42d4e27bb8393_847541504914fd33810e70a0ea73177e.ico",
+      "sizes": [256]
+    },
+    {
+      "file": "discord.com-favicon.ico.48.png",
+      "origin": "html",
+      "url": "https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/6266bc493fb42d4e27bb8393_847541504914fd33810e70a0ea73177e.ico",
+      "sizes": [48]
+    },
+    {
+      "file": "discord.com-favicon.32.png",
+      "origin": "html",
+      "url": "https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/62fddf0fde45a8baedcc7ee5_847541504914fd33810e70a0ea73177e%20(2)-1.png",
+      "sizes": [32]
+    },
+    {
+      "file": "discord.com-favicon.ico.32.png",
+      "origin": "html",
+      "url": "https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/6266bc493fb42d4e27bb8393_847541504914fd33810e70a0ea73177e.ico",
+      "sizes": [32]
+    },
+    {
+      "file": "discord.com-favicon.ico.16.png",
+      "origin": "html",
+      "url": "https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/6266bc493fb42d4e27bb8393_847541504914fd33810e70a0ea73177e.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "discord.com-gstatic.256.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdiscord.com&size=256",
+      "sizes": [256]
+    },
+    {
+      "file": "discord.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdiscord.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "discord.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdiscord.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "discord.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdiscord.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "discord.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdiscord.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "discord.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdiscord.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

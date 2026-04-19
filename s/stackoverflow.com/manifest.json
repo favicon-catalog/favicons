@@ -1,0 +1,103 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-19T18:32:33Z",
+  "domain": "stackoverflow.com",
+  "icons": [
+    {
+      "file": "stackoverflow.com-favicon.180.png",
+      "origin": "html",
+      "url": "https://stackoverflow.com/Content/Sites/stackoverflow/Img/apple-touch-icon.png?v=9168b8ec82a5",
+      "sizes": [180]
+    },
+    {
+      "file": "stackoverflow.com-favicon.svg",
+      "origin": "html",
+      "url": "https://stackoverflow.com/Content/Sites/stackoverflow/Img/favicon.svg?v=916c1b91e14c",
+      "sizes": [72]
+    },
+    {
+      "file": "stackoverflow.com-favicon.ico",
+      "origin": "html",
+      "url": "https://stackoverflow.com/Content/Sites/stackoverflow/Img/favicon.ico?v=562fb39d93c8",
+      "sizes": [16, 32, 48],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://stackoverflow.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "stackoverflow.com-favicon.ico.48.png",
+      "origin": "html",
+      "url": "https://stackoverflow.com/Content/Sites/stackoverflow/Img/favicon.ico?v=562fb39d93c8",
+      "sizes": [48],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://stackoverflow.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "stackoverflow.com-favicon.ico.32.png",
+      "origin": "html",
+      "url": "https://stackoverflow.com/Content/Sites/stackoverflow/Img/favicon.ico?v=562fb39d93c8",
+      "sizes": [32],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://stackoverflow.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "stackoverflow.com-favicon.ico.16.png",
+      "origin": "html",
+      "url": "https://stackoverflow.com/Content/Sites/stackoverflow/Img/favicon.ico?v=562fb39d93c8",
+      "sizes": [16],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://stackoverflow.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "stackoverflow.com-gstatic.180.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fstackoverflow.com&size=256",
+      "sizes": [180]
+    },
+    {
+      "file": "stackoverflow.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fstackoverflow.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "stackoverflow.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fstackoverflow.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "stackoverflow.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fstackoverflow.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "stackoverflow.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fstackoverflow.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "stackoverflow.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fstackoverflow.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

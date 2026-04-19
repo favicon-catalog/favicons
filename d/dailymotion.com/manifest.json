@@ -1,0 +1,145 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-19T18:31:58Z",
+  "domain": "dailymotion.com",
+  "icons": [
+    {
+      "file": "dailymotion.com-favicon.192.png",
+      "origin": "html",
+      "url": "https://static.neon-ssr.dailymotion.com/neon-user-ssr/static/favicons/apple-icon-precomposed.12ce02f3a914dc2f3d6d.png",
+      "sizes": [192],
+      "aliases": [
+        {
+          "origin": "html",
+          "url": "https://static.neon-ssr.dailymotion.com/neon-user-ssr/static/favicons/android-icon-192x192.12ce02f3a914dc2f3d6d.png"
+        }
+      ]
+    },
+    {
+      "file": "dailymotion.com-favicon.180.png",
+      "origin": "html",
+      "url": "https://static.neon-ssr.dailymotion.com/neon-user-ssr/static/favicons/apple-icon-180x180.372a6bba95ad4590ddf5.png",
+      "sizes": [180]
+    },
+    {
+      "file": "dailymotion.com-favicon.152.png",
+      "origin": "html",
+      "url": "https://static.neon-ssr.dailymotion.com/neon-user-ssr/static/favicons/apple-icon-152x152.4af3bd7fe9ca37aae75e.png",
+      "sizes": [152]
+    },
+    {
+      "file": "dailymotion.com-favicon.144.png",
+      "origin": "html",
+      "url": "https://static.neon-ssr.dailymotion.com/neon-user-ssr/static/favicons/apple-icon-144x144.6e98f96d555b6928f32e.png",
+      "sizes": [144],
+      "aliases": [
+        {
+          "origin": "html",
+          "url": "https://static.neon-ssr.dailymotion.com/neon-user-ssr/static/favicons/android-icon-144x144.6e98f96d555b6928f32e.png"
+        }
+      ]
+    },
+    {
+      "file": "dailymotion.com-favicon.120.png",
+      "origin": "html",
+      "url": "https://static.neon-ssr.dailymotion.com/neon-user-ssr/static/favicons/apple-icon-120x120.3fa891fedc6f79cd8146.png",
+      "sizes": [120]
+    },
+    {
+      "file": "dailymotion.com-favicon.114.png",
+      "origin": "html",
+      "url": "https://static.neon-ssr.dailymotion.com/neon-user-ssr/static/favicons/apple-icon-114x114.8f2e7801e3d593795d94.png",
+      "sizes": [114]
+    },
+    {
+      "file": "dailymotion.com-favicon.96.png",
+      "origin": "html",
+      "url": "https://static.neon-ssr.dailymotion.com/neon-user-ssr/static/favicons/android-icon-96x96.12b074271d67bfd2d8b8.png",
+      "sizes": [96]
+    },
+    {
+      "file": "dailymotion.com-favicon.76.png",
+      "origin": "html",
+      "url": "https://static.neon-ssr.dailymotion.com/neon-user-ssr/static/favicons/apple-icon-76x76.f998340625d3027babd4.png",
+      "sizes": [76]
+    },
+    {
+      "file": "dailymotion.com-favicon.72.png",
+      "origin": "html",
+      "url": "https://static.neon-ssr.dailymotion.com/neon-user-ssr/static/favicons/apple-icon-72x72.3c13dbe62fbf78d6f2fe.png",
+      "sizes": [72],
+      "aliases": [
+        {
+          "origin": "html",
+          "url": "https://static.neon-ssr.dailymotion.com/neon-user-ssr/static/favicons/android-icon-72x72.3c13dbe62fbf78d6f2fe.png"
+        }
+      ]
+    },
+    {
+      "file": "dailymotion.com-favicon.60.png",
+      "origin": "html",
+      "url": "https://static.neon-ssr.dailymotion.com/neon-user-ssr/static/favicons/apple-icon-60x60.831b96ed0a8eca7f6539.png",
+      "sizes": [60]
+    },
+    {
+      "file": "dailymotion.com-favicon.57.png",
+      "origin": "html",
+      "url": "https://static.neon-ssr.dailymotion.com/neon-user-ssr/static/favicons/apple-icon-57x57.18f5cfd87ae2cf11d6b0.png",
+      "sizes": [57]
+    },
+    {
+      "file": "dailymotion.com-favicon.48.png",
+      "origin": "html",
+      "url": "https://static.neon-ssr.dailymotion.com/neon-user-ssr/static/favicons/android-icon-48x48.9824320c5909efc3da98.png",
+      "sizes": [48]
+    },
+    {
+      "file": "dailymotion.com-favicon.36.png",
+      "origin": "html",
+      "url": "https://static.neon-ssr.dailymotion.com/neon-user-ssr/static/favicons/android-icon-36x36.2bcbc53d92a87f65eaf3.png",
+      "sizes": [36]
+    },
+    {
+      "file": "dailymotion.com-favicon.16.png",
+      "origin": "root",
+      "url": "https://dailymotion.com/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "dailymotion.com-gstatic.192.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdailymotion.com&size=256",
+      "sizes": [192]
+    },
+    {
+      "file": "dailymotion.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdailymotion.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "dailymotion.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdailymotion.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "dailymotion.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdailymotion.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "dailymotion.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdailymotion.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "dailymotion.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdailymotion.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-19T18:32:30Z",
+  "domain": "slack.com",
+  "icons": [
+    {
+      "file": "slack.com-favicon.ico",
+      "origin": "root",
+      "url": "https://slack.com/favicon.ico",
+      "sizes": [16, 32, 48, 256]
+    },
+    {
+      "file": "slack.com-favicon.ico.256.png",
+      "origin": "root",
+      "url": "https://slack.com/favicon.ico",
+      "sizes": [256]
+    },
+    {
+      "file": "slack.com-favicon.ico.48.png",
+      "origin": "root",
+      "url": "https://slack.com/favicon.ico",
+      "sizes": [48]
+    },
+    {
+      "file": "slack.com-favicon.ico.32.png",
+      "origin": "root",
+      "url": "https://slack.com/favicon.ico",
+      "sizes": [32]
+    },
+    {
+      "file": "slack.com-favicon.ico.16.png",
+      "origin": "root",
+      "url": "https://slack.com/favicon.ico",
+      "sizes": [16]
+    }
+  ]
+}

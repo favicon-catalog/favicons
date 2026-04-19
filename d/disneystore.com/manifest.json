@@ -1,0 +1,145 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-19T18:32:03Z",
+  "domain": "disneystore.com",
+  "icons": [
+    {
+      "file": "disneystore.com-favicon.512.png",
+      "origin": "html",
+      "url": "https://disneystore.com/on/demandware.static/Sites-shopDisney-Site/-/default/dwec873cd4/images/android-chrome-512x512.png",
+      "sizes": [512]
+    },
+    {
+      "file": "disneystore.com-favicon.svg",
+      "origin": "html",
+      "url": "https://disneystore.com/on/demandware.static/Sites-shopDisney-Site/-/default/dwdeb2855b/images/safari-pinned-tab.svg",
+      "sizes": [512]
+    },
+    {
+      "file": "disneystore.com-favicon.196.png",
+      "origin": "html",
+      "url": "https://disneystore.com/on/demandware.static/Sites-shopDisney-Site/-/default/dw9b012d8c/images/favicon-196x196.png",
+      "sizes": [196]
+    },
+    {
+      "file": "disneystore.com-favicon.192.png",
+      "origin": "html",
+      "url": "https://disneystore.com/on/demandware.static/Sites-shopDisney-Site/-/default/dw57b44794/images/android-chrome-192x192.png",
+      "sizes": [192]
+    },
+    {
+      "file": "disneystore.com-favicon.180.png",
+      "origin": "html",
+      "url": "https://disneystore.com/on/demandware.static/Sites-shopDisney-Site/-/default/dw7a447fd5/images/apple-touch-icon.png",
+      "sizes": [180]
+    },
+    {
+      "file": "disneystore.com-favicon.128.png",
+      "origin": "html",
+      "url": "https://disneystore.com/on/demandware.static/Sites-shopDisney-Site/-/default/dw47e3dad1/images/favicon-128.png",
+      "sizes": [128]
+    },
+    {
+      "file": "disneystore.com-favicon.96.png",
+      "origin": "html",
+      "url": "https://disneystore.com/on/demandware.static/Sites-shopDisney-Site/-/default/dw08e71ef8/images/favicon-96x96.png",
+      "sizes": [96]
+    },
+    {
+      "file": "disneystore.com-favicon.ico",
+      "origin": "html",
+      "url": "https://disneystore.com/on/demandware.static/Sites-shopDisney-Site/-/default/dw24d51f27/images/favicon.ico",
+      "sizes": [16, 32, 48],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://disneystore.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "disneystore.com-favicon.ico.48.png",
+      "origin": "html",
+      "url": "https://disneystore.com/on/demandware.static/Sites-shopDisney-Site/-/default/dw24d51f27/images/favicon.ico",
+      "sizes": [48],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://disneystore.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "disneystore.com-favicon.32.png",
+      "origin": "html",
+      "url": "https://disneystore.com/on/demandware.static/Sites-shopDisney-Site/-/default/dw15d8a247/images/favicon-32x32.png",
+      "sizes": [32]
+    },
+    {
+      "file": "disneystore.com-favicon.ico.32.png",
+      "origin": "html",
+      "url": "https://disneystore.com/on/demandware.static/Sites-shopDisney-Site/-/default/dw24d51f27/images/favicon.ico",
+      "sizes": [32],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://disneystore.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "disneystore.com-favicon.16.png",
+      "origin": "html",
+      "url": "https://disneystore.com/on/demandware.static/Sites-shopDisney-Site/-/default/dwa35d13bf/images/favicon-16x16.png",
+      "sizes": [16]
+    },
+    {
+      "file": "disneystore.com-favicon.ico.16.png",
+      "origin": "html",
+      "url": "https://disneystore.com/on/demandware.static/Sites-shopDisney-Site/-/default/dw24d51f27/images/favicon.ico",
+      "sizes": [16],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://disneystore.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "disneystore.com-gstatic.256.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdisneystore.com&size=256",
+      "sizes": [256]
+    },
+    {
+      "file": "disneystore.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdisneystore.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "disneystore.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdisneystore.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "disneystore.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdisneystore.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "disneystore.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdisneystore.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "disneystore.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdisneystore.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

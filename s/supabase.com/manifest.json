@@ -1,0 +1,145 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-19T18:32:35Z",
+  "domain": "supabase.com",
+  "icons": [
+    {
+      "file": "supabase.com-favicon.196.png",
+      "origin": "html",
+      "url": "https://supabase.com/favicon/favicon-196x196.png",
+      "sizes": [196]
+    },
+    {
+      "file": "supabase.com-favicon.180.png",
+      "origin": "html",
+      "url": "https://supabase.com/favicon/favicon-180x180.png",
+      "sizes": [180]
+    },
+    {
+      "file": "supabase.com-favicon.152.png",
+      "origin": "html",
+      "url": "https://supabase.com/favicon/apple-icon-152x152.png",
+      "sizes": [152]
+    },
+    {
+      "file": "supabase.com-favicon.144.png",
+      "origin": "html",
+      "url": "https://supabase.com/favicon/apple-icon-144x144.png",
+      "sizes": [144]
+    },
+    {
+      "file": "supabase.com-favicon.128.png",
+      "origin": "html",
+      "url": "https://supabase.com/favicon/favicon-128.png",
+      "sizes": [128]
+    },
+    {
+      "file": "supabase.com-favicon.120.png",
+      "origin": "html",
+      "url": "https://supabase.com/favicon/apple-icon-120x120.png",
+      "sizes": [120]
+    },
+    {
+      "file": "supabase.com-favicon.114.png",
+      "origin": "html",
+      "url": "https://supabase.com/favicon/apple-icon-114x114.png",
+      "sizes": [114]
+    },
+    {
+      "file": "supabase.com-favicon.96.png",
+      "origin": "html",
+      "url": "https://supabase.com/favicon/favicon-96x96.png",
+      "sizes": [96]
+    },
+    {
+      "file": "supabase.com-favicon.76.png",
+      "origin": "html",
+      "url": "https://supabase.com/favicon/apple-icon-76x76.png",
+      "sizes": [76]
+    },
+    {
+      "file": "supabase.com-favicon.72.png",
+      "origin": "html",
+      "url": "https://supabase.com/favicon/apple-icon-72x72.png",
+      "sizes": [72]
+    },
+    {
+      "file": "supabase.com-favicon.60.png",
+      "origin": "html",
+      "url": "https://supabase.com/favicon/apple-icon-60x60.png",
+      "sizes": [60]
+    },
+    {
+      "file": "supabase.com-favicon.57.png",
+      "origin": "html",
+      "url": "https://supabase.com/favicon/apple-icon-57x57.png",
+      "sizes": [57]
+    },
+    {
+      "file": "supabase.com-favicon.48.png",
+      "origin": "html",
+      "url": "https://supabase.com/favicon/favicon-48x48.png",
+      "sizes": [48]
+    },
+    {
+      "file": "supabase.com-favicon.32.png",
+      "origin": "html",
+      "url": "https://supabase.com/favicon/favicon-32x32.png",
+      "sizes": [32]
+    },
+    {
+      "file": "supabase.com-favicon.16.png",
+      "origin": "html",
+      "url": "https://supabase.com/favicon/favicon-16x16.png",
+      "sizes": [16]
+    },
+    {
+      "file": "supabase.com-favicon.ico",
+      "origin": "html",
+      "url": "https://supabase.com/favicon/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "supabase.com-favicon.ico.16.png",
+      "origin": "html",
+      "url": "https://supabase.com/favicon/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "supabase.com-gstatic.152.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fsupabase.com&size=256",
+      "sizes": [152]
+    },
+    {
+      "file": "supabase.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fsupabase.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "supabase.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fsupabase.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "supabase.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fsupabase.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "supabase.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fsupabase.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "supabase.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fsupabase.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-19T18:31:52Z",
+  "domain": "airbnb.com",
+  "icons": [
+    {
+      "file": "airbnb.com-favicon.240.jpg",
+      "origin": "html",
+      "url": "https://a0.muscache.com/im/pictures/airbnb-platform-assets/AirbnbPlatformAssets-Favicons/original/0d189acb-3f82-4b2c-b95f-ad1d6a803d13.png?im_w=240",
+      "sizes": [240]
+    },
+    {
+      "file": "airbnb.com-favicon.180.png",
+      "origin": "html",
+      "url": "https://a0.muscache.com/airbnb/static/icons/apple-touch-icon-180x180-bcbe0e3960cd084eb8eaf1353cf3c730.png",
+      "sizes": [180]
+    },
+    {
+      "file": "airbnb.com-favicon.152.png",
+      "origin": "html",
+      "url": "https://a0.muscache.com/airbnb/static/icons/apple-touch-icon-152x152-7b7c6444b63d8b6ebad9dae7169e5ed6.png",
+      "sizes": [152]
+    },
+    {
+      "file": "airbnb.com-favicon.svg",
+      "origin": "html",
+      "url": "https://a0.muscache.com/pictures/airbnb-platform-assets/AirbnbPlatformAssets-Favicons/original/304e8c59-05df-4fab-9846-f69fd7f749b0.svg?im_w=240",
+      "sizes": [150]
+    },
+    {
+      "file": "airbnb.com-favicon.120.png",
+      "origin": "html",
+      "url": "https://a0.muscache.com/airbnb/static/icons/apple-touch-icon-120x120-52b1adb4fe3a8f825fc4b143de12ea4b.png",
+      "sizes": [120]
+    },
+    {
+      "file": "airbnb.com-favicon.76.png",
+      "origin": "html",
+      "url": "https://a0.muscache.com/airbnb/static/icons/apple-touch-icon-76x76-3b313d93b1b5823293524b9764352ac9.png",
+      "sizes": [76]
+    },
+    {
+      "file": "airbnb.com-favicon.ico",
+      "origin": "root",
+      "url": "https://airbnb.com/favicon.ico",
+      "sizes": [32]
+    },
+    {
+      "file": "airbnb.com-favicon.ico.32.png",
+      "origin": "root",
+      "url": "https://airbnb.com/favicon.ico",
+      "sizes": [32]
+    },
+    {
+      "file": "airbnb.com-gstatic.240.jpg",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fairbnb.com&size=256",
+      "sizes": [240]
+    },
+    {
+      "file": "airbnb.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fairbnb.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "airbnb.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fairbnb.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "airbnb.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fairbnb.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "airbnb.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fairbnb.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "airbnb.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fairbnb.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

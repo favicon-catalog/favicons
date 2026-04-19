@@ -1,0 +1,79 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-19T18:32:00Z",
+  "domain": "100.daum.net",
+  "icons": [
+    {
+      "file": "100.daum.net-favicon.ico",
+      "origin": "html",
+      "url": "https://search1.daumcdn.net/search/statics/common/img/2026/0303/favicon.ico",
+      "sizes": [16, 32]
+    },
+    {
+      "file": "100.daum.net-favicon.ico.32.png",
+      "origin": "html",
+      "url": "https://search1.daumcdn.net/search/statics/common/img/2026/0303/favicon.ico",
+      "sizes": [32]
+    },
+    {
+      "file": "100.daum.net-favicon.ico.16.png",
+      "origin": "html",
+      "url": "https://search1.daumcdn.net/search/statics/common/img/2026/0303/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "100.daum.net-favicon.svg",
+      "origin": "root",
+      "url": "https://100.daum.net/favicon.svg",
+      "sizes": [256]
+    },
+    {
+      "file": "100.daum.net-favicon.33f1171f.ico",
+      "origin": "root",
+      "url": "https://100.daum.net/favicon.ico",
+      "sizes": [32]
+    },
+    {
+      "file": "100.daum.net-favicon.ico.32.33f1171f.png",
+      "origin": "root",
+      "url": "https://100.daum.net/favicon.ico",
+      "sizes": [32]
+    },
+    {
+      "file": "100.daum.net-gstatic.120.jpg",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2F100.daum.net&size=128",
+      "sizes": [120],
+      "aliases": [
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2F100.daum.net&size=256"
+        }
+      ]
+    },
+    {
+      "file": "100.daum.net-gstatic.64.jpg",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2F100.daum.net&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "100.daum.net-gstatic.48.jpg",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2F100.daum.net&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "100.daum.net-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2F100.daum.net&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "100.daum.net-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2F100.daum.net&size=16",
+      "sizes": [16]
+    }
+  ]
+}

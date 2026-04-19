@@ -1,0 +1,103 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-19T18:32:37Z",
+  "domain": "telegram.org",
+  "icons": [
+    {
+      "file": "telegram.org-favicon.180.png",
+      "origin": "html",
+      "url": "https://telegram.org/img/apple-touch-icon.png",
+      "sizes": [180]
+    },
+    {
+      "file": "telegram.org-favicon.ico",
+      "origin": "html",
+      "url": "https://telegram.org/img/favicon.ico",
+      "sizes": [16, 32, 48]
+    },
+    {
+      "file": "telegram.org-favicon.ico.48.png",
+      "origin": "html",
+      "url": "https://telegram.org/img/favicon.ico",
+      "sizes": [48]
+    },
+    {
+      "file": "telegram.org-favicon.32.png",
+      "origin": "html",
+      "url": "https://telegram.org/img/favicon-32x32.png",
+      "sizes": [32]
+    },
+    {
+      "file": "telegram.org-favicon.ico.32.png",
+      "origin": "html",
+      "url": "https://telegram.org/img/favicon.ico",
+      "sizes": [32]
+    },
+    {
+      "file": "telegram.org-favicon.16.png",
+      "origin": "html",
+      "url": "https://telegram.org/img/favicon-16x16.png",
+      "sizes": [16]
+    },
+    {
+      "file": "telegram.org-favicon.ico.16.png",
+      "origin": "html",
+      "url": "https://telegram.org/img/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "telegram.org-favicon.svg",
+      "origin": "html",
+      "url": "https://telegram.org/img/website_icon.svg?4",
+      "sizes": [16]
+    },
+    {
+      "file": "telegram.org-favicon.1c1c1082.ico",
+      "origin": "root",
+      "url": "https://telegram.org/favicon.ico",
+      "sizes": [32]
+    },
+    {
+      "file": "telegram.org-favicon.ico.32.1c1c1082.png",
+      "origin": "root",
+      "url": "https://telegram.org/favicon.ico",
+      "sizes": [32]
+    },
+    {
+      "file": "telegram.org-gstatic.180.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ftelegram.org&size=256",
+      "sizes": [180]
+    },
+    {
+      "file": "telegram.org-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ftelegram.org&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "telegram.org-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ftelegram.org&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "telegram.org-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ftelegram.org&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "telegram.org-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ftelegram.org&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "telegram.org-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ftelegram.org&size=16",
+      "sizes": [16]
+    }
+  ]
+}

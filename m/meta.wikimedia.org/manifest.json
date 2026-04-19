@@ -1,0 +1,55 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-19T18:32:42Z",
+  "domain": "meta.wikimedia.org",
+  "icons": [
+    {
+      "file": "meta.wikimedia.org-favicon.ico",
+      "origin": "html",
+      "url": "https://meta.wikimedia.org/static/favicon/community.ico",
+      "sizes": [16, 32, 48],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://meta.wikimedia.org/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "meta.wikimedia.org-favicon.ico.48.png",
+      "origin": "html",
+      "url": "https://meta.wikimedia.org/static/favicon/community.ico",
+      "sizes": [48],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://meta.wikimedia.org/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "meta.wikimedia.org-favicon.ico.32.png",
+      "origin": "html",
+      "url": "https://meta.wikimedia.org/static/favicon/community.ico",
+      "sizes": [32],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://meta.wikimedia.org/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "meta.wikimedia.org-favicon.ico.16.png",
+      "origin": "html",
+      "url": "https://meta.wikimedia.org/static/favicon/community.ico",
+      "sizes": [16],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://meta.wikimedia.org/favicon.ico"
+        }
+      ]
+    }
+  ]
+}

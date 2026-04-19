@@ -1,0 +1,91 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-19T18:32:19Z",
+  "domain": "meta.com",
+  "icons": [
+    {
+      "file": "meta.com-favicon.180.webp",
+      "origin": "html",
+      "url": "https://static.xx.fbcdn.net/rsrc.php/yQ/r/0eWKxz9kEoF.webp",
+      "sizes": [180]
+    },
+    {
+      "file": "meta.com-favicon.ico",
+      "origin": "html",
+      "url": "https://static.xx.fbcdn.net/rsrc.php/y5/r/m4nf26cLQxS.ico",
+      "sizes": [16, 32],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://meta.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "meta.com-favicon.ico.32.png",
+      "origin": "html",
+      "url": "https://static.xx.fbcdn.net/rsrc.php/y5/r/m4nf26cLQxS.ico",
+      "sizes": [32],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://meta.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "meta.com-favicon.svg",
+      "origin": "html",
+      "url": "https://static.xx.fbcdn.net/rsrc.php/yf/r/-7pQO6hUGK_.svg",
+      "sizes": [32]
+    },
+    {
+      "file": "meta.com-favicon.ico.16.png",
+      "origin": "html",
+      "url": "https://static.xx.fbcdn.net/rsrc.php/y5/r/m4nf26cLQxS.ico",
+      "sizes": [16],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://meta.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "meta.com-gstatic.180.jpg",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fmeta.com&size=256",
+      "sizes": [180]
+    },
+    {
+      "file": "meta.com-gstatic.128.jpg",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fmeta.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "meta.com-gstatic.64.jpg",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fmeta.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "meta.com-gstatic.48.jpg",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fmeta.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "meta.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fmeta.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "meta.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fmeta.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

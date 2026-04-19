@@ -1,0 +1,63 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-19T18:32:42Z",
+  "domain": "wikitech.wikimedia.org",
+  "icons": [
+    {
+      "file": "wikitech.wikimedia.org-favicon.ico",
+      "origin": "html",
+      "url": "https://wikitech.wikimedia.org/static/favicon/wikitech.ico",
+      "sizes": [48],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://wikitech.wikimedia.org/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "wikitech.wikimedia.org-favicon.ico.48.png",
+      "origin": "html",
+      "url": "https://wikitech.wikimedia.org/static/favicon/wikitech.ico",
+      "sizes": [48],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://wikitech.wikimedia.org/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "wikitech.wikimedia.org-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fwikitech.wikimedia.org&size=48",
+      "sizes": [48],
+      "aliases": [
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fwikitech.wikimedia.org&size=64"
+        },
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fwikitech.wikimedia.org&size=128"
+        },
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fwikitech.wikimedia.org&size=256"
+        }
+      ]
+    },
+    {
+      "file": "wikitech.wikimedia.org-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fwikitech.wikimedia.org&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "wikitech.wikimedia.org-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fwikitech.wikimedia.org&size=16",
+      "sizes": [16]
+    }
+  ]
+}

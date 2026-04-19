@@ -1,0 +1,61 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-19T18:32:37Z",
+  "domain": "time.is",
+  "icons": [
+    {
+      "file": "time.is-favicon.512.png",
+      "origin": "html",
+      "url": "https://time.is/img/apple-touch-icon_2021-11-20.png",
+      "sizes": [512]
+    },
+    {
+      "file": "time.is-favicon.ico",
+      "origin": "html",
+      "url": "https://time.is/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "time.is-favicon.ico.16.png",
+      "origin": "html",
+      "url": "https://time.is/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "time.is-gstatic.256.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ftime.is&size=256",
+      "sizes": [256]
+    },
+    {
+      "file": "time.is-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ftime.is&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "time.is-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ftime.is&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "time.is-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ftime.is&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "time.is-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ftime.is&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "time.is-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ftime.is&size=16",
+      "sizes": [16]
+    }
+  ]
+}

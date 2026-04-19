@@ -1,0 +1,133 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-19T18:32:41Z",
+  "domain": "weather.com",
+  "icons": [
+    {
+      "file": "weather.com-favicon.192.png",
+      "origin": "html",
+      "url": "https://weather.com/_next/static/media/android-icon-192x192.93fc7e96.png",
+      "sizes": [192]
+    },
+    {
+      "file": "weather.com-favicon.180.png",
+      "origin": "html",
+      "url": "https://weather.com/_next/static/media/apple-icon-180x180.a7c1b505.png",
+      "sizes": [180]
+    },
+    {
+      "file": "weather.com-favicon.152.png",
+      "origin": "html",
+      "url": "https://weather.com/_next/static/media/apple-icon-152x152.3bff9c07.png",
+      "sizes": [152]
+    },
+    {
+      "file": "weather.com-favicon.144.png",
+      "origin": "html",
+      "url": "https://weather.com/_next/static/media/apple-icon-144x144.c6bc2e4a.png",
+      "sizes": [144]
+    },
+    {
+      "file": "weather.com-favicon.120.png",
+      "origin": "html",
+      "url": "https://weather.com/_next/static/media/apple-icon-120x120.14af4ae1.png",
+      "sizes": [120]
+    },
+    {
+      "file": "weather.com-favicon.114.png",
+      "origin": "html",
+      "url": "https://weather.com/_next/static/media/apple-icon-114x114.942a73fb.png",
+      "sizes": [114]
+    },
+    {
+      "file": "weather.com-favicon.96.png",
+      "origin": "html",
+      "url": "https://weather.com/_next/static/media/favicon-96x96.6a270e32.png",
+      "sizes": [96]
+    },
+    {
+      "file": "weather.com-favicon.76.png",
+      "origin": "html",
+      "url": "https://weather.com/_next/static/media/apple-icon-76x76.972602b3.png",
+      "sizes": [76]
+    },
+    {
+      "file": "weather.com-favicon.72.png",
+      "origin": "html",
+      "url": "https://weather.com/_next/static/media/apple-icon-72x72.6338d4fa.png",
+      "sizes": [72]
+    },
+    {
+      "file": "weather.com-favicon.60.png",
+      "origin": "html",
+      "url": "https://weather.com/_next/static/media/apple-icon-60x60.2cd1ad76.png",
+      "sizes": [60]
+    },
+    {
+      "file": "weather.com-favicon.57.png",
+      "origin": "html",
+      "url": "https://weather.com/_next/static/media/apple-icon-57x57.f7547923.png",
+      "sizes": [57]
+    },
+    {
+      "file": "weather.com-favicon.32.png",
+      "origin": "html",
+      "url": "https://weather.com/_next/static/media/favicon-32x32.0bbb46dc.png",
+      "sizes": [32]
+    },
+    {
+      "file": "weather.com-favicon.16.png",
+      "origin": "html",
+      "url": "https://weather.com/_next/static/media/favicon-16x16.357a9709.png",
+      "sizes": [16]
+    },
+    {
+      "file": "weather.com-favicon.ico",
+      "origin": "root",
+      "url": "https://weather.com/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "weather.com-favicon.ico.16.png",
+      "origin": "root",
+      "url": "https://weather.com/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "weather.com-gstatic.192.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fweather.com&size=256",
+      "sizes": [192]
+    },
+    {
+      "file": "weather.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fweather.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "weather.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fweather.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "weather.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fweather.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "weather.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fweather.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "weather.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fweather.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

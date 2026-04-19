@@ -1,0 +1,91 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-19T18:32:33Z",
+  "domain": "servicenow.com",
+  "icons": [
+    {
+      "file": "servicenow.com-favicon.180.png",
+      "origin": "html",
+      "url": "https://servicenow.com/content/dam/servicenow-assets/public/en-us/images/apple-touch-icon/180x180.png",
+      "sizes": [180]
+    },
+    {
+      "file": "servicenow.com-favicon.152.png",
+      "origin": "html",
+      "url": "https://servicenow.com/content/dam/servicenow-assets/public/en-us/images/apple-touch-icon/152x152.png",
+      "sizes": [152]
+    },
+    {
+      "file": "servicenow.com-favicon.120.png",
+      "origin": "html",
+      "url": "https://servicenow.com/content/dam/servicenow-assets/public/en-us/images/apple-touch-icon/120x120.png",
+      "sizes": [120]
+    },
+    {
+      "file": "servicenow.com-favicon.76.png",
+      "origin": "html",
+      "url": "https://servicenow.com/content/dam/servicenow-assets/public/en-us/images/apple-touch-icon/76x76.png",
+      "sizes": [76]
+    },
+    {
+      "file": "servicenow.com-favicon.ico",
+      "origin": "html",
+      "url": "https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/images/og-images/favicon.ico",
+      "sizes": [48]
+    },
+    {
+      "file": "servicenow.com-favicon.ico.48.png",
+      "origin": "html",
+      "url": "https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/images/og-images/favicon.ico",
+      "sizes": [48]
+    },
+    {
+      "file": "servicenow.com-favicon.6021903f.ico",
+      "origin": "root",
+      "url": "https://servicenow.com/favicon.ico",
+      "sizes": [48]
+    },
+    {
+      "file": "servicenow.com-favicon.ico.48.6021903f.png",
+      "origin": "root",
+      "url": "https://servicenow.com/favicon.ico",
+      "sizes": [48]
+    },
+    {
+      "file": "servicenow.com-gstatic.180.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fservicenow.com&size=256",
+      "sizes": [180]
+    },
+    {
+      "file": "servicenow.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fservicenow.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "servicenow.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fservicenow.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "servicenow.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fservicenow.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "servicenow.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fservicenow.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "servicenow.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fservicenow.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

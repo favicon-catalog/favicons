@@ -1,0 +1,79 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-19T18:32:06Z",
+  "domain": "github.com",
+  "icons": [
+    {
+      "file": "github.com-favicon.512.png",
+      "origin": "html",
+      "url": "https://github.com/fluidicon.png",
+      "sizes": [512]
+    },
+    {
+      "file": "github.com-favicon.svg",
+      "origin": "html",
+      "url": "https://github.githubassets.com/assets/pinned-octocat-093da3e6fa40.svg",
+      "sizes": [36]
+    },
+    {
+      "file": "github.com-favicon.32.png",
+      "origin": "html",
+      "url": "https://github.githubassets.com/favicons/favicon.png",
+      "sizes": [32]
+    },
+    {
+      "file": "github.com-favicon.5302fe52.svg",
+      "origin": "html",
+      "url": "https://github.githubassets.com/favicons/favicon.svg",
+      "sizes": [32]
+    },
+    {
+      "file": "github.com-favicon.ico",
+      "origin": "root",
+      "url": "https://github.com/favicon.ico",
+      "sizes": [16, 32]
+    },
+    {
+      "file": "github.com-favicon.ico.32.png",
+      "origin": "root",
+      "url": "https://github.com/favicon.ico",
+      "sizes": [32]
+    },
+    {
+      "file": "github.com-favicon.ico.16.png",
+      "origin": "root",
+      "url": "https://github.com/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "github.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fgithub.com&size=32",
+      "sizes": [32],
+      "aliases": [
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fgithub.com&size=48"
+        },
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fgithub.com&size=64"
+        },
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fgithub.com&size=128"
+        },
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fgithub.com&size=256"
+        }
+      ]
+    },
+    {
+      "file": "github.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fgithub.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

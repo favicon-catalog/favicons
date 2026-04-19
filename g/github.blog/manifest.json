@@ -1,0 +1,85 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-19T18:32:05Z",
+  "domain": "github.blog",
+  "icons": [
+    {
+      "file": "github.blog-favicon.192.png",
+      "origin": "html",
+      "url": "https://github.blog/wp-content/uploads/2019/01/cropped-github-favicon-512.png?fit=192%2C192",
+      "sizes": [192]
+    },
+    {
+      "file": "github.blog-favicon.180.png",
+      "origin": "html",
+      "url": "https://github.blog/wp-content/uploads/2019/01/cropped-github-favicon-512.png?fit=180%2C180",
+      "sizes": [180]
+    },
+    {
+      "file": "github.blog-favicon.32.png",
+      "origin": "html",
+      "url": "https://github.blog/wp-content/uploads/2019/01/cropped-github-favicon-512.png?fit=32%2C32",
+      "sizes": [32]
+    },
+    {
+      "file": "github.blog-favicon.ico",
+      "origin": "html",
+      "url": "https://github.githubassets.com/favicon.ico",
+      "sizes": [16, 32]
+    },
+    {
+      "file": "github.blog-favicon.ico.32.png",
+      "origin": "html",
+      "url": "https://github.githubassets.com/favicon.ico",
+      "sizes": [32]
+    },
+    {
+      "file": "github.blog-favicon.ico.16.png",
+      "origin": "html",
+      "url": "https://github.githubassets.com/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "github.blog-favicon.13e325ca.ico",
+      "origin": "root",
+      "url": "https://github.blog/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "github.blog-gstatic.192.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fgithub.blog&size=256",
+      "sizes": [192]
+    },
+    {
+      "file": "github.blog-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fgithub.blog&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "github.blog-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fgithub.blog&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "github.blog-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fgithub.blog&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "github.blog-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fgithub.blog&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "github.blog-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fgithub.blog&size=16",
+      "sizes": [16]
+    }
+  ]
+}

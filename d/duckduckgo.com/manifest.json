@@ -1,0 +1,91 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-19T18:32:02Z",
+  "domain": "duckduckgo.com",
+  "icons": [
+    {
+      "file": "duckduckgo.com-favicon.152.png",
+      "origin": "html",
+      "url": "https://duckduckgo.com/static-assets/favicons/DDG-iOS-icon_152x152.png",
+      "sizes": [152]
+    },
+    {
+      "file": "duckduckgo.com-favicon.120.png",
+      "origin": "html",
+      "url": "https://duckduckgo.com/static-assets/favicons/DDG-iOS-icon_120x120.png",
+      "sizes": [120]
+    },
+    {
+      "file": "duckduckgo.com-favicon.76.png",
+      "origin": "html",
+      "url": "https://duckduckgo.com/static-assets/favicons/DDG-iOS-icon_76x76.png",
+      "sizes": [76]
+    },
+    {
+      "file": "duckduckgo.com-favicon.60.png",
+      "origin": "html",
+      "url": "https://duckduckgo.com/static-assets/favicons/DDG-iOS-icon_60x60.png",
+      "sizes": [60]
+    },
+    {
+      "file": "duckduckgo.com-favicon.ico",
+      "origin": "html",
+      "url": "https://duckduckgo.com/favicon.ico",
+      "sizes": [16, 32]
+    },
+    {
+      "file": "duckduckgo.com-favicon.ico.32.png",
+      "origin": "html",
+      "url": "https://duckduckgo.com/favicon.ico",
+      "sizes": [32],
+      "aliases": [
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fduckduckgo.com&size=32"
+        }
+      ]
+    },
+    {
+      "file": "duckduckgo.com-favicon.ico.16.png",
+      "origin": "html",
+      "url": "https://duckduckgo.com/favicon.ico",
+      "sizes": [16],
+      "aliases": [
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fduckduckgo.com&size=16"
+        }
+      ]
+    },
+    {
+      "file": "duckduckgo.com-favicon.64.png",
+      "origin": "root",
+      "url": "https://duckduckgo.com/favicon.png",
+      "sizes": [64]
+    },
+    {
+      "file": "duckduckgo.com-gstatic.152.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fduckduckgo.com&size=256",
+      "sizes": [152]
+    },
+    {
+      "file": "duckduckgo.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fduckduckgo.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "duckduckgo.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fduckduckgo.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "duckduckgo.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fduckduckgo.com&size=48",
+      "sizes": [48]
+    }
+  ]
+}
