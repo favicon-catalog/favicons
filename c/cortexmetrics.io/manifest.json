@@ -1,0 +1,109 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T16:37:15Z",
+  "domain": "cortexmetrics.io",
+  "icons": [
+    {
+      "file": "cortexmetrics.io-favicon.192.png",
+      "origin": "html",
+      "url": "https://cortexmetrics.io/favicons/android-192x192.png",
+      "sizes": [192]
+    },
+    {
+      "file": "cortexmetrics.io-favicon.180.png",
+      "origin": "html",
+      "url": "https://cortexmetrics.io/favicons/apple-touch-icon-180x180.png",
+      "sizes": [180]
+    },
+    {
+      "file": "cortexmetrics.io-favicon.144.png",
+      "origin": "html",
+      "url": "https://cortexmetrics.io/favicons/android-144x144.png",
+      "sizes": [144]
+    },
+    {
+      "file": "cortexmetrics.io-favicon.96.png",
+      "origin": "html",
+      "url": "https://cortexmetrics.io/favicons/android-96x96.png",
+      "sizes": [96]
+    },
+    {
+      "file": "cortexmetrics.io-favicon.72.png",
+      "origin": "html",
+      "url": "https://cortexmetrics.io/favicons/android-72x72.png",
+      "sizes": [72]
+    },
+    {
+      "file": "cortexmetrics.io-favicon.48.png",
+      "origin": "html",
+      "url": "https://cortexmetrics.io/favicons/android-48x48.png",
+      "sizes": [48]
+    },
+    {
+      "file": "cortexmetrics.io-favicon.36.png",
+      "origin": "html",
+      "url": "https://cortexmetrics.io/favicons/android-36x36.png",
+      "sizes": [36]
+    },
+    {
+      "file": "cortexmetrics.io-favicon.32.png",
+      "origin": "html",
+      "url": "https://cortexmetrics.io/favicons/favicon-32x32.png",
+      "sizes": [32]
+    },
+    {
+      "file": "cortexmetrics.io-favicon.16.png",
+      "origin": "html",
+      "url": "https://cortexmetrics.io/favicons/favicon-16x16.png",
+      "sizes": [16]
+    },
+    {
+      "file": "cortexmetrics.io-favicon.ico",
+      "origin": "html",
+      "url": "https://cortexmetrics.io/favicons/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "cortexmetrics.io-favicon.ico.16.png",
+      "origin": "html",
+      "url": "https://cortexmetrics.io/favicons/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "cortexmetrics.io-gstatic.180.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fcortexmetrics.io&size=256",
+      "sizes": [180]
+    },
+    {
+      "file": "cortexmetrics.io-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fcortexmetrics.io&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "cortexmetrics.io-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fcortexmetrics.io&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "cortexmetrics.io-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fcortexmetrics.io&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "cortexmetrics.io-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fcortexmetrics.io&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "cortexmetrics.io-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fcortexmetrics.io&size=16",
+      "sizes": [16]
+    }
+  ]
+}

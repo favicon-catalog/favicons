@@ -1,0 +1,91 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T16:37:40Z",
+  "domain": "forbes.com",
+  "icons": [
+    {
+      "file": "forbes.com-favicon.144.png",
+      "origin": "html",
+      "url": "https://i.forbesimg.com/144X144-F.png",
+      "sizes": [144]
+    },
+    {
+      "file": "forbes.com-favicon.114.png",
+      "origin": "html",
+      "url": "https://i.forbesimg.com/114X114-F.png",
+      "sizes": [114]
+    },
+    {
+      "file": "forbes.com-favicon.72.png",
+      "origin": "html",
+      "url": "https://i.forbesimg.com/72X72-F.png",
+      "sizes": [72]
+    },
+    {
+      "file": "forbes.com-favicon.57.png",
+      "origin": "html",
+      "url": "https://i.forbesimg.com/57X57-F.png",
+      "sizes": [57]
+    },
+    {
+      "file": "forbes.com-favicon.48.png",
+      "origin": "html",
+      "url": "https://i.forbesimg.com/48X48-F.png",
+      "sizes": [48]
+    },
+    {
+      "file": "forbes.com-favicon.ico",
+      "origin": "root",
+      "url": "https://forbes.com/favicon.ico",
+      "sizes": [16, 32]
+    },
+    {
+      "file": "forbes.com-favicon.ico.32.png",
+      "origin": "root",
+      "url": "https://forbes.com/favicon.ico",
+      "sizes": [32]
+    },
+    {
+      "file": "forbes.com-favicon.ico.16.png",
+      "origin": "root",
+      "url": "https://forbes.com/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "forbes.com-gstatic.144.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fforbes.com&size=256",
+      "sizes": [144]
+    },
+    {
+      "file": "forbes.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fforbes.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "forbes.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fforbes.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "forbes.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fforbes.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "forbes.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fforbes.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "forbes.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fforbes.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

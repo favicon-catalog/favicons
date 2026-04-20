@@ -1,0 +1,109 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T16:36:55Z",
+  "domain": "ameblo.jp",
+  "icons": [
+    {
+      "file": "ameblo.jp-favicon.180.png",
+      "origin": "html",
+      "url": "https://stat100.ameba.jp/common_style/img/sp/apple-touch-icon.png",
+      "sizes": [180]
+    },
+    {
+      "file": "ameblo.jp-favicon.ico",
+      "origin": "html",
+      "url": "https://stat100.ameba.jp/common_style/img/favicon.ico",
+      "sizes": [16, 24, 32, 48],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://ameblo.jp/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "ameblo.jp-favicon.ico.48.png",
+      "origin": "html",
+      "url": "https://stat100.ameba.jp/common_style/img/favicon.ico",
+      "sizes": [48],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://ameblo.jp/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "ameblo.jp-favicon.ico.32.png",
+      "origin": "html",
+      "url": "https://stat100.ameba.jp/common_style/img/favicon.ico",
+      "sizes": [32],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://ameblo.jp/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "ameblo.jp-favicon.ico.24.png",
+      "origin": "html",
+      "url": "https://stat100.ameba.jp/common_style/img/favicon.ico",
+      "sizes": [24],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://ameblo.jp/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "ameblo.jp-favicon.ico.16.png",
+      "origin": "html",
+      "url": "https://stat100.ameba.jp/common_style/img/favicon.ico",
+      "sizes": [16],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://ameblo.jp/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "ameblo.jp-gstatic.180.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fameblo.jp&size=256",
+      "sizes": [180]
+    },
+    {
+      "file": "ameblo.jp-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fameblo.jp&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "ameblo.jp-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fameblo.jp&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "ameblo.jp-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fameblo.jp&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "ameblo.jp-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fameblo.jp&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "ameblo.jp-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fameblo.jp&size=16",
+      "sizes": [16]
+    }
+  ]
+}

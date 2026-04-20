@@ -1,0 +1,135 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T16:37:46Z",
+  "domain": "news.google.com",
+  "icons": [
+    {
+      "file": "news.google.com-favicon.1024.png",
+      "origin": "html",
+      "url": "https://www.gstatic.com/gnews/logo/google_news_1024.png",
+      "sizes": [1024]
+    },
+    {
+      "file": "news.google.com-favicon.512.png",
+      "origin": "html",
+      "url": "https://www.gstatic.com/gnews/logo/google_news_512.png",
+      "sizes": [512]
+    },
+    {
+      "file": "news.google.com-favicon.192.png",
+      "origin": "html",
+      "url": "https://www.gstatic.com/gnews/logo/google_news_192.png",
+      "sizes": [192]
+    },
+    {
+      "file": "news.google.com-favicon.180.png",
+      "origin": "html",
+      "url": "https://www.gstatic.com/gnews/logo/google_news_180.png",
+      "sizes": [180]
+    },
+    {
+      "file": "news.google.com-favicon.167.png",
+      "origin": "html",
+      "url": "https://www.gstatic.com/gnews/logo/google_news_167.png",
+      "sizes": [167]
+    },
+    {
+      "file": "news.google.com-favicon.152.png",
+      "origin": "html",
+      "url": "https://www.gstatic.com/gnews/logo/google_news_152.png",
+      "sizes": [152]
+    },
+    {
+      "file": "news.google.com-favicon.120.png",
+      "origin": "html",
+      "url": "https://www.gstatic.com/gnews/logo/google_news_120.png",
+      "sizes": [120]
+    },
+    {
+      "file": "news.google.com-favicon.87.png",
+      "origin": "html",
+      "url": "https://www.gstatic.com/gnews/logo/google_news_87.png",
+      "sizes": [87]
+    },
+    {
+      "file": "news.google.com-favicon.80.png",
+      "origin": "html",
+      "url": "https://www.gstatic.com/gnews/logo/google_news_80.png",
+      "sizes": [80]
+    },
+    {
+      "file": "news.google.com-favicon.60.png",
+      "origin": "html",
+      "url": "https://www.gstatic.com/gnews/logo/google_news_60.png",
+      "sizes": [60]
+    },
+    {
+      "file": "news.google.com-favicon.58.png",
+      "origin": "html",
+      "url": "https://www.gstatic.com/gnews/logo/google_news_58.png",
+      "sizes": [58]
+    },
+    {
+      "file": "news.google.com-favicon.48.png",
+      "origin": "html",
+      "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w48",
+      "sizes": [48]
+    },
+    {
+      "file": "news.google.com-favicon.40.png",
+      "origin": "html",
+      "url": "https://www.gstatic.com/gnews/logo/google_news_40.png",
+      "sizes": [40]
+    },
+    {
+      "file": "news.google.com-favicon.32.png",
+      "origin": "html",
+      "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w32",
+      "sizes": [32]
+    },
+    {
+      "file": "news.google.com-favicon.24.png",
+      "origin": "html",
+      "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w24",
+      "sizes": [24]
+    },
+    {
+      "file": "news.google.com-favicon.16.png",
+      "origin": "html",
+      "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16",
+      "sizes": [16]
+    },
+    {
+      "file": "news.google.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fnews.google.com&size=48",
+      "sizes": [48],
+      "aliases": [
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fnews.google.com&size=64"
+        },
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fnews.google.com&size=128"
+        },
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fnews.google.com&size=256"
+        }
+      ]
+    },
+    {
+      "file": "news.google.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fnews.google.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "news.google.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fnews.google.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

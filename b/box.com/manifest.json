@@ -1,37 +1,103 @@
 {
   "manifest_version": 4,
-  "updated_at": "2026-04-20T15:26:55Z",
+  "updated_at": "2026-04-20T16:37:05Z",
   "domain": "box.com",
   "icons": [
     {
+      "file": "box.com-favicon.532d42ab.svg",
+      "origin": "html",
+      "url": "https://box.com/themes/custom/box/favicons/safari-pinned-tab.svg?0",
+      "sizes": [700]
+    },
+    {
+      "file": "box.com-favicon.svg",
+      "origin": "html",
+      "url": "https://box.com/themes/custom/box/favicons/favicon.svg?0",
+      "sizes": [512]
+    },
+    {
       "file": "box.com-favicon.180.png",
       "origin": "html",
-      "url": "https://box.com/apple-touch-icon.png?0",
-      "sizes": [180]
+      "url": "https://box.com/apple-touch-icon-precomposed.png?0",
+      "sizes": [180],
+      "aliases": [
+        {
+          "origin": "html",
+          "url": "https://box.com/apple-touch-icon.png?0"
+        }
+      ]
+    },
+    {
+      "file": "box.com-favicon.152.webp",
+      "origin": "html",
+      "url": "https://box.com/apple-touch-icon-152x152-precomposed.png?0",
+      "sizes": [152]
+    },
+    {
+      "file": "box.com-favicon.96.webp",
+      "origin": "html",
+      "url": "https://box.com/themes/custom/box/favicons/favicon-96x96.png?0",
+      "sizes": [96]
     },
     {
       "file": "box.com-favicon.ico",
-      "origin": "root",
-      "url": "https://box.com/favicon.ico",
-      "sizes": [16, 32, 48]
+      "origin": "html",
+      "url": "https://box.com/themes/custom/box/favicons/favicon.ico?0",
+      "sizes": [16, 32, 48],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://box.com/favicon.ico"
+        }
+      ]
     },
     {
       "file": "box.com-favicon.ico.48.png",
-      "origin": "root",
-      "url": "https://box.com/favicon.ico",
-      "sizes": [48]
+      "origin": "html",
+      "url": "https://box.com/themes/custom/box/favicons/favicon.ico?0",
+      "sizes": [48],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://box.com/favicon.ico"
+        }
+      ]
     },
     {
-      "file": "box.com-favicon.ico.32.png",
-      "origin": "root",
-      "url": "https://box.com/favicon.ico",
+      "file": "box.com-favicon.32.png",
+      "origin": "html",
+      "url": "https://box.com/themes/custom/box/favicons/favicon-32x32.png?0",
       "sizes": [32]
     },
     {
-      "file": "box.com-favicon.ico.16.png",
-      "origin": "root",
-      "url": "https://box.com/favicon.ico",
+      "file": "box.com-favicon.ico.32.png",
+      "origin": "html",
+      "url": "https://box.com/themes/custom/box/favicons/favicon.ico?0",
+      "sizes": [32],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://box.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "box.com-favicon.16.png",
+      "origin": "html",
+      "url": "https://box.com/themes/custom/box/favicons/favicon-16x16.png?0",
       "sizes": [16]
+    },
+    {
+      "file": "box.com-favicon.ico.16.png",
+      "origin": "html",
+      "url": "https://box.com/themes/custom/box/favicons/favicon.ico?0",
+      "sizes": [16],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://box.com/favicon.ico"
+        }
+      ]
     },
     {
       "file": "box.com-gstatic.256.png",

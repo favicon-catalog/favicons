@@ -1,0 +1,115 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T16:38:24Z",
+  "domain": "mainichi.jp",
+  "icons": [
+    {
+      "file": "mainichi.jp-favicon.180.png",
+      "origin": "html",
+      "url": "https://cdn.mainichi.jp/vol1/images/icon/mainichi/apple-touch.png",
+      "sizes": [180]
+    },
+    {
+      "file": "mainichi.jp-favicon.ico",
+      "origin": "html",
+      "url": "https://cdn.mainichi.jp/vol1/images/icon/mainichi/favicon.ico",
+      "sizes": [16, 32, 48]
+    },
+    {
+      "file": "mainichi.jp-favicon.ico.48.png",
+      "origin": "html",
+      "url": "https://cdn.mainichi.jp/vol1/images/icon/mainichi/favicon.ico",
+      "sizes": [48]
+    },
+    {
+      "file": "mainichi.jp-favicon.ico.32.png",
+      "origin": "html",
+      "url": "https://cdn.mainichi.jp/vol1/images/icon/mainichi/favicon.ico",
+      "sizes": [32]
+    },
+    {
+      "file": "mainichi.jp-favicon.ico.16.png",
+      "origin": "html",
+      "url": "https://cdn.mainichi.jp/vol1/images/icon/mainichi/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "mainichi.jp-favicon.44d75f6b.ico",
+      "origin": "root",
+      "url": "https://mainichi.jp/favicon.ico",
+      "sizes": [16, 32, 48, 64, 96, 196]
+    },
+    {
+      "file": "mainichi.jp-favicon.ico.196.png",
+      "origin": "root",
+      "url": "https://mainichi.jp/favicon.ico",
+      "sizes": [196]
+    },
+    {
+      "file": "mainichi.jp-favicon.ico.96.png",
+      "origin": "root",
+      "url": "https://mainichi.jp/favicon.ico",
+      "sizes": [96]
+    },
+    {
+      "file": "mainichi.jp-favicon.ico.64.png",
+      "origin": "root",
+      "url": "https://mainichi.jp/favicon.ico",
+      "sizes": [64]
+    },
+    {
+      "file": "mainichi.jp-favicon.ico.48.44d75f6b.png",
+      "origin": "root",
+      "url": "https://mainichi.jp/favicon.ico",
+      "sizes": [48]
+    },
+    {
+      "file": "mainichi.jp-favicon.ico.32.44d75f6b.png",
+      "origin": "root",
+      "url": "https://mainichi.jp/favicon.ico",
+      "sizes": [32]
+    },
+    {
+      "file": "mainichi.jp-favicon.ico.16.44d75f6b.png",
+      "origin": "root",
+      "url": "https://mainichi.jp/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "mainichi.jp-gstatic.180.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fmainichi.jp&size=256",
+      "sizes": [180]
+    },
+    {
+      "file": "mainichi.jp-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fmainichi.jp&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "mainichi.jp-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fmainichi.jp&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "mainichi.jp-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fmainichi.jp&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "mainichi.jp-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fmainichi.jp&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "mainichi.jp-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fmainichi.jp&size=16",
+      "sizes": [16]
+    }
+  ]
+}

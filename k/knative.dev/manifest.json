@@ -1,0 +1,47 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T16:38:13Z",
+  "domain": "knative.dev",
+  "icons": [
+    {
+      "file": "knative.dev-favicon.ico",
+      "origin": "html",
+      "url": "https://knative.dev/images/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "knative.dev-favicon.ico.16.png",
+      "origin": "html",
+      "url": "https://knative.dev/images/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "knative.dev-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fknative.dev&size=16",
+      "sizes": [16],
+      "aliases": [
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fknative.dev&size=32"
+        },
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fknative.dev&size=48"
+        },
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fknative.dev&size=64"
+        },
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fknative.dev&size=128"
+        },
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fknative.dev&size=256"
+        }
+      ]
+    }
+  ]
+}

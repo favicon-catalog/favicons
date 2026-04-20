@@ -1,0 +1,73 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T16:38:13Z",
+  "domain": "khan.co.kr",
+  "icons": [
+    {
+      "file": "khan.co.kr-favicon.114.png",
+      "origin": "html",
+      "url": "https://img.khan.co.kr/spko/icon/apple-touch-icon-precomposed-web.png",
+      "sizes": [114]
+    },
+    {
+      "file": "khan.co.kr-favicon.ico",
+      "origin": "html",
+      "url": "https://img.khan.co.kr/spko/icon/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "khan.co.kr-favicon.ico.16.png",
+      "origin": "html",
+      "url": "https://img.khan.co.kr/spko/icon/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "khan.co.kr-favicon.14dd71e7.ico",
+      "origin": "root",
+      "url": "https://khan.co.kr/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "khan.co.kr-favicon.ico.16.14dd71e7.png",
+      "origin": "root",
+      "url": "https://khan.co.kr/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "khan.co.kr-gstatic.114.jpg",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fkhan.co.kr&size=128",
+      "sizes": [114],
+      "aliases": [
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fkhan.co.kr&size=256"
+        }
+      ]
+    },
+    {
+      "file": "khan.co.kr-gstatic.64.jpg",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fkhan.co.kr&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "khan.co.kr-gstatic.48.jpg",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fkhan.co.kr&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "khan.co.kr-gstatic.32.jpg",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fkhan.co.kr&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "khan.co.kr-gstatic.16.jpg",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fkhan.co.kr&size=16",
+      "sizes": [16]
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T16:38:15Z",
+  "domain": "kubeflow.org",
+  "icons": [
+    {
+      "file": "kubeflow.org-favicon.svg",
+      "origin": "html",
+      "url": "https://kubeflow.org/safari-pinned-tab.svg?v=2",
+      "sizes": [700]
+    },
+    {
+      "file": "kubeflow.org-favicon.180.png",
+      "origin": "html",
+      "url": "https://kubeflow.org/apple-touch-icon.png?v=2",
+      "sizes": [180]
+    },
+    {
+      "file": "kubeflow.org-favicon.ico",
+      "origin": "html",
+      "url": "https://kubeflow.org/favicon.ico?v=2",
+      "sizes": [16, 32, 48],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://kubeflow.org/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "kubeflow.org-favicon.ico.48.png",
+      "origin": "html",
+      "url": "https://kubeflow.org/favicon.ico?v=2",
+      "sizes": [48],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://kubeflow.org/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "kubeflow.org-favicon.32.png",
+      "origin": "html",
+      "url": "https://kubeflow.org/favicon-32x32.png?v=2",
+      "sizes": [32]
+    },
+    {
+      "file": "kubeflow.org-favicon.ico.32.png",
+      "origin": "html",
+      "url": "https://kubeflow.org/favicon.ico?v=2",
+      "sizes": [32],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://kubeflow.org/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "kubeflow.org-favicon.16.png",
+      "origin": "html",
+      "url": "https://kubeflow.org/favicon-16x16.png?v=2",
+      "sizes": [16]
+    },
+    {
+      "file": "kubeflow.org-favicon.ico.16.png",
+      "origin": "html",
+      "url": "https://kubeflow.org/favicon.ico?v=2",
+      "sizes": [16],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://kubeflow.org/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "kubeflow.org-gstatic.180.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fkubeflow.org&size=256",
+      "sizes": [180]
+    },
+    {
+      "file": "kubeflow.org-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fkubeflow.org&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "kubeflow.org-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fkubeflow.org&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "kubeflow.org-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fkubeflow.org&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "kubeflow.org-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fkubeflow.org&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "kubeflow.org-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fkubeflow.org&size=16",
+      "sizes": [16]
+    }
+  ]
+}

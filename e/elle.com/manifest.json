@@ -1,0 +1,55 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T16:37:35Z",
+  "domain": "elle.com",
+  "icons": [
+    {
+      "file": "elle.com-favicon.180.png",
+      "origin": "html",
+      "url": "https://elle.com/_assets/design-tokens/elle/static/images/apple-touch-icon.0dd915e.png",
+      "sizes": [180]
+    },
+    {
+      "file": "elle.com-favicon.96.png",
+      "origin": "html",
+      "url": "https://elle.com/_assets/design-tokens/elle/static/images/favicon.bf092aa.ico",
+      "sizes": [96]
+    },
+    {
+      "file": "elle.com-gstatic.180.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Felle.com&size=256",
+      "sizes": [180]
+    },
+    {
+      "file": "elle.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Felle.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "elle.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Felle.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "elle.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Felle.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "elle.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Felle.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "elle.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Felle.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

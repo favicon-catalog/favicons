@@ -1,0 +1,19 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T16:39:58Z",
+  "domain": "ygfamily.com",
+  "icons": [
+    {
+      "file": "ygfamily.com-favicon.ico",
+      "origin": "html",
+      "url": "https://ygfamily.com/contents/images/2026/01/yg-fa-en.ico",
+      "sizes": [32]
+    },
+    {
+      "file": "ygfamily.com-favicon.ico.32.png",
+      "origin": "html",
+      "url": "https://ygfamily.com/contents/images/2026/01/yg-fa-en.ico",
+      "sizes": [32]
+    }
+  ]
+}

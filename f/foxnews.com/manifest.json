@@ -1,6 +1,6 @@
 {
   "manifest_version": 4,
-  "updated_at": "2026-04-20T15:27:30Z",
+  "updated_at": "2026-04-20T16:37:41Z",
   "domain": "foxnews.com",
   "icons": [
     {
@@ -52,25 +52,25 @@
       "sizes": [96]
     },
     {
-      "file": "foxnews.com-favicon.76.webp",
+      "file": "foxnews.com-favicon.76.png",
       "origin": "html",
       "url": "https://static.foxnews.com/static/orion/styles/img/fox-news/favicons/apple-touch-icon-76x76.png",
       "sizes": [76]
     },
     {
-      "file": "foxnews.com-favicon.72.webp",
+      "file": "foxnews.com-favicon.72.png",
       "origin": "html",
       "url": "https://static.foxnews.com/static/orion/styles/img/fox-news/favicons/apple-touch-icon-72x72.png",
       "sizes": [72]
     },
     {
-      "file": "foxnews.com-favicon.60.webp",
+      "file": "foxnews.com-favicon.60.png",
       "origin": "html",
       "url": "https://static.foxnews.com/static/orion/styles/img/fox-news/favicons/apple-touch-icon-60x60.png",
       "sizes": [60]
     },
     {
-      "file": "foxnews.com-favicon.57.webp",
+      "file": "foxnews.com-favicon.57.png",
       "origin": "html",
       "url": "https://static.foxnews.com/static/orion/styles/img/fox-news/favicons/apple-touch-icon-57x57.png",
       "sizes": [57]

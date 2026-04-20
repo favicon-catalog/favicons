@@ -1,0 +1,73 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T16:39:21Z",
+  "domain": "seoul.co.kr",
+  "icons": [
+    {
+      "file": "seoul.co.kr-favicon.32.png",
+      "origin": "html",
+      "url": "https://img.seoul.co.kr/img/n24/favicon_32x32.png",
+      "sizes": [32]
+    },
+    {
+      "file": "seoul.co.kr-favicon.16.png",
+      "origin": "html",
+      "url": "https://img.seoul.co.kr/img/n24/favicon_16x16.png",
+      "sizes": [16]
+    },
+    {
+      "file": "seoul.co.kr-favicon.ico",
+      "origin": "html",
+      "url": "https://img.seoul.co.kr/img/n24/favicon.ico",
+      "sizes": [16],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://seoul.co.kr/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "seoul.co.kr-favicon.ico.16.png",
+      "origin": "html",
+      "url": "https://img.seoul.co.kr/img/n24/favicon.ico",
+      "sizes": [16],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://seoul.co.kr/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "seoul.co.kr-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fseoul.co.kr&size=32",
+      "sizes": [32],
+      "aliases": [
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fseoul.co.kr&size=48"
+        },
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fseoul.co.kr&size=64"
+        },
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fseoul.co.kr&size=128"
+        },
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fseoul.co.kr&size=256"
+        }
+      ]
+    },
+    {
+      "file": "seoul.co.kr-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fseoul.co.kr&size=16",
+      "sizes": [16]
+    }
+  ]
+}

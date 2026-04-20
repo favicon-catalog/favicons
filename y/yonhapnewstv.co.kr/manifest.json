@@ -1,0 +1,55 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T16:40:02Z",
+  "domain": "yonhapnewstv.co.kr",
+  "icons": [
+    {
+      "file": "yonhapnewstv.co.kr-favicon.ico",
+      "origin": "html",
+      "url": "https://static.yonhapnewstv.co.kr/assets/img/common/favicon.png",
+      "sizes": [128]
+    },
+    {
+      "file": "yonhapnewstv.co.kr-favicon.ico.128.png",
+      "origin": "html",
+      "url": "https://static.yonhapnewstv.co.kr/assets/img/common/favicon.png",
+      "sizes": [128]
+    },
+    {
+      "file": "yonhapnewstv.co.kr-gstatic.152.jpg",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fyonhapnewstv.co.kr&size=256",
+      "sizes": [152]
+    },
+    {
+      "file": "yonhapnewstv.co.kr-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fyonhapnewstv.co.kr&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "yonhapnewstv.co.kr-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fyonhapnewstv.co.kr&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "yonhapnewstv.co.kr-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fyonhapnewstv.co.kr&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "yonhapnewstv.co.kr-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fyonhapnewstv.co.kr&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "yonhapnewstv.co.kr-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fyonhapnewstv.co.kr&size=16",
+      "sizes": [16]
+    }
+  ]
+}

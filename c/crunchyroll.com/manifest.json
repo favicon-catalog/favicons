@@ -1,0 +1,43 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T16:37:17Z",
+  "domain": "crunchyroll.com",
+  "icons": [
+    {
+      "file": "crunchyroll.com-gstatic.120.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fcrunchyroll.com&size=128",
+      "sizes": [120],
+      "aliases": [
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fcrunchyroll.com&size=256"
+        }
+      ]
+    },
+    {
+      "file": "crunchyroll.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fcrunchyroll.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "crunchyroll.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fcrunchyroll.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "crunchyroll.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fcrunchyroll.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "crunchyroll.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fcrunchyroll.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

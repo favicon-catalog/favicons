@@ -1,0 +1,73 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T16:39:58Z",
+  "domain": "yomiuri.co.jp",
+  "icons": [
+    {
+      "file": "yomiuri.co.jp-favicon.152.png",
+      "origin": "html",
+      "url": "https://yomiuri.co.jp/apple-touch-icon.png",
+      "sizes": [152],
+      "aliases": [
+        {
+          "origin": "html",
+          "url": "https://yomiuri.co.jp/apple-touch-icon-precomposed.png"
+        }
+      ]
+    },
+    {
+      "file": "yomiuri.co.jp-favicon.120.png",
+      "origin": "html",
+      "url": "https://yomiuri.co.jp/apple-touch-icon-120x120.png",
+      "sizes": [120]
+    },
+    {
+      "file": "yomiuri.co.jp-favicon.ico",
+      "origin": "root",
+      "url": "https://yomiuri.co.jp/favicon.ico",
+      "sizes": [48]
+    },
+    {
+      "file": "yomiuri.co.jp-favicon.ico.48.png",
+      "origin": "root",
+      "url": "https://yomiuri.co.jp/favicon.ico",
+      "sizes": [48]
+    },
+    {
+      "file": "yomiuri.co.jp-gstatic.152.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fyomiuri.co.jp&size=256",
+      "sizes": [152]
+    },
+    {
+      "file": "yomiuri.co.jp-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fyomiuri.co.jp&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "yomiuri.co.jp-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fyomiuri.co.jp&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "yomiuri.co.jp-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fyomiuri.co.jp&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "yomiuri.co.jp-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fyomiuri.co.jp&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "yomiuri.co.jp-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fyomiuri.co.jp&size=16",
+      "sizes": [16]
+    }
+  ]
+}

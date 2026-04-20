@@ -1,0 +1,151 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T16:37:57Z",
+  "domain": "hypebeast.com",
+  "icons": [
+    {
+      "file": "hypebeast.com-favicon.800.png",
+      "origin": "html",
+      "url": "https://static.hypebeast.com/dist/hypebeast/favicon/apple-touch-icon-1024x1024.png?v8",
+      "sizes": [800]
+    },
+    {
+      "file": "hypebeast.com-favicon.180.png",
+      "origin": "html",
+      "url": "https://static.hypebeast.com/dist/hypebeast/favicon/apple-touch-icon-180x180.png?v8",
+      "sizes": [180]
+    },
+    {
+      "file": "hypebeast.com-favicon.167.png",
+      "origin": "html",
+      "url": "https://static.hypebeast.com/dist/hypebeast/favicon/apple-touch-icon-167x167.png?v8",
+      "sizes": [167]
+    },
+    {
+      "file": "hypebeast.com-favicon.152.png",
+      "origin": "html",
+      "url": "https://static.hypebeast.com/dist/hypebeast/favicon/apple-touch-icon-152x152.png?v8",
+      "sizes": [152]
+    },
+    {
+      "file": "hypebeast.com-favicon.144.png",
+      "origin": "html",
+      "url": "https://static.hypebeast.com/dist/hypebeast/favicon/apple-touch-icon-144x144.png?v8",
+      "sizes": [144]
+    },
+    {
+      "file": "hypebeast.com-favicon.120.png",
+      "origin": "html",
+      "url": "https://static.hypebeast.com/dist/hypebeast/favicon/apple-touch-icon-120x120.png?v8",
+      "sizes": [120]
+    },
+    {
+      "file": "hypebeast.com-favicon.114.png",
+      "origin": "html",
+      "url": "https://static.hypebeast.com/dist/hypebeast/favicon/apple-touch-icon-114x114.png?v8",
+      "sizes": [114]
+    },
+    {
+      "file": "hypebeast.com-favicon.76.png",
+      "origin": "html",
+      "url": "https://static.hypebeast.com/dist/hypebeast/favicon/apple-touch-icon-76x76.png?v8",
+      "sizes": [76]
+    },
+    {
+      "file": "hypebeast.com-favicon.72.png",
+      "origin": "html",
+      "url": "https://static.hypebeast.com/dist/hypebeast/favicon/apple-touch-icon-72x72.png?v8",
+      "sizes": [72]
+    },
+    {
+      "file": "hypebeast.com-favicon.60.png",
+      "origin": "html",
+      "url": "https://static.hypebeast.com/dist/hypebeast/favicon/apple-touch-icon-60x60.png?v8",
+      "sizes": [60]
+    },
+    {
+      "file": "hypebeast.com-favicon.57.png",
+      "origin": "html",
+      "url": "https://static.hypebeast.com/dist/hypebeast/favicon/apple-touch-icon-57x57.png?v8",
+      "sizes": [57]
+    },
+    {
+      "file": "hypebeast.com-favicon.48.png",
+      "origin": "html",
+      "url": "https://hypebeast.com/dist/hypebeast/favicon/favicon-48x48.png?v8",
+      "sizes": [48]
+    },
+    {
+      "file": "hypebeast.com-favicon.ico",
+      "origin": "html",
+      "url": "https://static.hypebeast.com/dist/hypebeast/favicon/favicon.ico?v8",
+      "sizes": [16, 32, 48]
+    },
+    {
+      "file": "hypebeast.com-favicon.ico.48.png",
+      "origin": "html",
+      "url": "https://static.hypebeast.com/dist/hypebeast/favicon/favicon.ico?v8",
+      "sizes": [48]
+    },
+    {
+      "file": "hypebeast.com-favicon.32.png",
+      "origin": "html",
+      "url": "https://hypebeast.com/dist/hypebeast/favicon/favicon-32x32.png?v8",
+      "sizes": [32]
+    },
+    {
+      "file": "hypebeast.com-favicon.ico.32.png",
+      "origin": "html",
+      "url": "https://static.hypebeast.com/dist/hypebeast/favicon/favicon.ico?v8",
+      "sizes": [32]
+    },
+    {
+      "file": "hypebeast.com-favicon.16.png",
+      "origin": "html",
+      "url": "https://hypebeast.com/dist/hypebeast/favicon/favicon-16x16.png?v8",
+      "sizes": [16]
+    },
+    {
+      "file": "hypebeast.com-favicon.ico.16.png",
+      "origin": "html",
+      "url": "https://static.hypebeast.com/dist/hypebeast/favicon/favicon.ico?v8",
+      "sizes": [16]
+    },
+    {
+      "file": "hypebeast.com-gstatic.167.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fhypebeast.com&size=256",
+      "sizes": [167]
+    },
+    {
+      "file": "hypebeast.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fhypebeast.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "hypebeast.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fhypebeast.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "hypebeast.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fhypebeast.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "hypebeast.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fhypebeast.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "hypebeast.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fhypebeast.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

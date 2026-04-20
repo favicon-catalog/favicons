@@ -1,0 +1,85 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T16:38:41Z",
+  "domain": "nationalgeographic.com",
+  "icons": [
+    {
+      "file": "nationalgeographic.com-favicon.svg",
+      "origin": "html",
+      "url": "https://assets-cdn.nationalgeographic.com/natgeo/static/icons/mask-icon.svg",
+      "sizes": [700]
+    },
+    {
+      "file": "nationalgeographic.com-favicon.180.png",
+      "origin": "html",
+      "url": "https://assets-cdn.nationalgeographic.com/natgeo/static/icons/favicon-180x180.png",
+      "sizes": [180]
+    },
+    {
+      "file": "nationalgeographic.com-favicon.32.png",
+      "origin": "html",
+      "url": "https://assets-cdn.nationalgeographic.com/natgeo/static/icons/favicon-32x32.png",
+      "sizes": [32]
+    },
+    {
+      "file": "nationalgeographic.com-favicon.ico",
+      "origin": "html",
+      "url": "https://assets-cdn.nationalgeographic.com/natgeo/static/icons/favicon.ico",
+      "sizes": [16],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://nationalgeographic.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "nationalgeographic.com-favicon.ico.16.png",
+      "origin": "html",
+      "url": "https://assets-cdn.nationalgeographic.com/natgeo/static/icons/favicon.ico",
+      "sizes": [16],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://nationalgeographic.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "nationalgeographic.com-gstatic.180.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fnationalgeographic.com&size=256",
+      "sizes": [180]
+    },
+    {
+      "file": "nationalgeographic.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fnationalgeographic.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "nationalgeographic.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fnationalgeographic.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "nationalgeographic.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fnationalgeographic.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "nationalgeographic.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fnationalgeographic.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "nationalgeographic.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fnationalgeographic.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

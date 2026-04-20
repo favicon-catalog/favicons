@@ -1,0 +1,37 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T16:38:32Z",
+  "domain": "michelin.com",
+  "icons": [
+    {
+      "file": "michelin.com-favicon.ico",
+      "origin": "root",
+      "url": "https://michelin.com/favicon.ico",
+      "sizes": [16, 32, 48]
+    },
+    {
+      "file": "michelin.com-favicon.ico.48.png",
+      "origin": "root",
+      "url": "https://michelin.com/favicon.ico",
+      "sizes": [48]
+    },
+    {
+      "file": "michelin.com-favicon.svg",
+      "origin": "root",
+      "url": "https://michelin.com/favicon.svg",
+      "sizes": [36]
+    },
+    {
+      "file": "michelin.com-favicon.ico.32.png",
+      "origin": "root",
+      "url": "https://michelin.com/favicon.ico",
+      "sizes": [32]
+    },
+    {
+      "file": "michelin.com-favicon.ico.16.png",
+      "origin": "root",
+      "url": "https://michelin.com/favicon.ico",
+      "sizes": [16]
+    }
+  ]
+}

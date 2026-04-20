@@ -1,0 +1,61 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T16:37:03Z",
+  "domain": "bandainamco.co.jp",
+  "icons": [
+    {
+      "file": "bandainamco.co.jp-favicon.120.png",
+      "origin": "html",
+      "url": "https://www.bandainamco.co.jp/webclip.png",
+      "sizes": [120]
+    },
+    {
+      "file": "bandainamco.co.jp-favicon.ico",
+      "origin": "html",
+      "url": "https://www.bandainamco.co.jp/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "bandainamco.co.jp-favicon.ico.16.png",
+      "origin": "html",
+      "url": "https://www.bandainamco.co.jp/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "bandainamco.co.jp-gstatic.120.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fbandainamco.co.jp&size=128",
+      "sizes": [120],
+      "aliases": [
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fbandainamco.co.jp&size=256"
+        }
+      ]
+    },
+    {
+      "file": "bandainamco.co.jp-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fbandainamco.co.jp&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "bandainamco.co.jp-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fbandainamco.co.jp&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "bandainamco.co.jp-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fbandainamco.co.jp&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "bandainamco.co.jp-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fbandainamco.co.jp&size=16",
+      "sizes": [16]
+    }
+  ]
+}

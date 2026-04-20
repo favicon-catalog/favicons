@@ -1,0 +1,31 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T16:37:19Z",
+  "domain": "coredns.io",
+  "icons": [
+    {
+      "file": "coredns.io-gstatic.256.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fcoredns.io&size=256",
+      "sizes": [256]
+    },
+    {
+      "file": "coredns.io-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fcoredns.io&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "coredns.io-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fcoredns.io&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "coredns.io-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fcoredns.io&size=48",
+      "sizes": [48]
+    }
+  ]
+}

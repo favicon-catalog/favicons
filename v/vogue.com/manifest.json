@@ -1,0 +1,101 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T16:39:47Z",
+  "domain": "vogue.com",
+  "icons": [
+    {
+      "file": "vogue.com-favicon.ico",
+      "origin": "html",
+      "url": "https://www.vogue.com/verso/static/vogue-global/assets/us/favicon.ico",
+      "sizes": [16, 24, 32, 48, 64]
+    },
+    {
+      "file": "vogue.com-favicon.ico.64.png",
+      "origin": "html",
+      "url": "https://www.vogue.com/verso/static/vogue-global/assets/us/favicon.ico",
+      "sizes": [64]
+    },
+    {
+      "file": "vogue.com-favicon.ico.48.png",
+      "origin": "html",
+      "url": "https://www.vogue.com/verso/static/vogue-global/assets/us/favicon.ico",
+      "sizes": [48]
+    },
+    {
+      "file": "vogue.com-favicon.ico.32.png",
+      "origin": "html",
+      "url": "https://www.vogue.com/verso/static/vogue-global/assets/us/favicon.ico",
+      "sizes": [32]
+    },
+    {
+      "file": "vogue.com-favicon.ico.24.png",
+      "origin": "html",
+      "url": "https://www.vogue.com/verso/static/vogue-global/assets/us/favicon.ico",
+      "sizes": [24]
+    },
+    {
+      "file": "vogue.com-favicon.ico.16.png",
+      "origin": "html",
+      "url": "https://www.vogue.com/verso/static/vogue-global/assets/us/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "vogue.com-favicon.cbbcb14a.ico",
+      "origin": "root",
+      "url": "https://vogue.com/favicon.ico",
+      "sizes": [16, 32, 48]
+    },
+    {
+      "file": "vogue.com-favicon.ico.48.cbbcb14a.png",
+      "origin": "root",
+      "url": "https://vogue.com/favicon.ico",
+      "sizes": [48]
+    },
+    {
+      "file": "vogue.com-favicon.ico.32.cbbcb14a.png",
+      "origin": "root",
+      "url": "https://vogue.com/favicon.ico",
+      "sizes": [32]
+    },
+    {
+      "file": "vogue.com-favicon.ico.16.cbbcb14a.png",
+      "origin": "root",
+      "url": "https://vogue.com/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "vogue.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fvogue.com&size=64",
+      "sizes": [64],
+      "aliases": [
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fvogue.com&size=128"
+        },
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fvogue.com&size=256"
+        }
+      ]
+    },
+    {
+      "file": "vogue.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fvogue.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "vogue.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fvogue.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "vogue.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fvogue.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

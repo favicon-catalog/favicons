@@ -1,0 +1,79 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T16:37:28Z",
+  "domain": "dolby.com",
+  "icons": [
+    {
+      "file": "dolby.com-favicon.180.png",
+      "origin": "html",
+      "url": "https://dolby.com/apple-touch-icon.png",
+      "sizes": [180]
+    },
+    {
+      "file": "dolby.com-favicon.svg",
+      "origin": "root",
+      "url": "https://dolby.com/favicon.svg",
+      "sizes": [200]
+    },
+    {
+      "file": "dolby.com-favicon.ico",
+      "origin": "root",
+      "url": "https://dolby.com/favicon.ico",
+      "sizes": [16, 32, 48]
+    },
+    {
+      "file": "dolby.com-favicon.ico.48.png",
+      "origin": "root",
+      "url": "https://dolby.com/favicon.ico",
+      "sizes": [48]
+    },
+    {
+      "file": "dolby.com-favicon.ico.32.png",
+      "origin": "root",
+      "url": "https://dolby.com/favicon.ico",
+      "sizes": [32]
+    },
+    {
+      "file": "dolby.com-favicon.ico.16.png",
+      "origin": "root",
+      "url": "https://dolby.com/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "dolby.com-gstatic.180.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdolby.com&size=256",
+      "sizes": [180]
+    },
+    {
+      "file": "dolby.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdolby.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "dolby.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdolby.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "dolby.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdolby.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "dolby.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdolby.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "dolby.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdolby.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

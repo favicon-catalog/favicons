@@ -1,0 +1,71 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T16:37:36Z",
+  "domain": "esquire.com",
+  "icons": [
+    {
+      "file": "esquire.com-favicon.57.png",
+      "origin": "html",
+      "url": "https://esquire.com/_assets/design-tokens/esquire/static/images/apple-touch-icon.1801cd0.png",
+      "sizes": [57]
+    },
+    {
+      "file": "esquire.com-favicon.ico",
+      "origin": "html",
+      "url": "https://esquire.com/_assets/design-tokens/esquire/static/images/favicon.9bd3ce0.ico",
+      "sizes": [16, 32, 48]
+    },
+    {
+      "file": "esquire.com-favicon.ico.48.png",
+      "origin": "html",
+      "url": "https://esquire.com/_assets/design-tokens/esquire/static/images/favicon.9bd3ce0.ico",
+      "sizes": [48]
+    },
+    {
+      "file": "esquire.com-favicon.ico.32.png",
+      "origin": "html",
+      "url": "https://esquire.com/_assets/design-tokens/esquire/static/images/favicon.9bd3ce0.ico",
+      "sizes": [32]
+    },
+    {
+      "file": "esquire.com-favicon.ico.16.png",
+      "origin": "html",
+      "url": "https://esquire.com/_assets/design-tokens/esquire/static/images/favicon.9bd3ce0.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "esquire.com-gstatic.57.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fesquire.com&size=64",
+      "sizes": [57],
+      "aliases": [
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fesquire.com&size=128"
+        },
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fesquire.com&size=256"
+        }
+      ]
+    },
+    {
+      "file": "esquire.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fesquire.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "esquire.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fesquire.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "esquire.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fesquire.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T16:37:44Z",
+  "domain": "goharbor.io",
+  "icons": [
+    {
+      "file": "goharbor.io-favicon.1501.png",
+      "origin": "html",
+      "url": "https://goharbor.io/favicon.png",
+      "sizes": [1501]
+    },
+    {
+      "file": "goharbor.io-gstatic.256.jpg",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fgoharbor.io&size=256",
+      "sizes": [256]
+    },
+    {
+      "file": "goharbor.io-gstatic.128.jpg",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fgoharbor.io&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "goharbor.io-gstatic.64.jpg",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fgoharbor.io&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "goharbor.io-gstatic.48.jpg",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fgoharbor.io&size=48",
+      "sizes": [48]
+    }
+  ]
+}

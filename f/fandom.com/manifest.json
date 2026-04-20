@@ -1,20 +1,8 @@
 {
   "manifest_version": 4,
-  "updated_at": "2026-04-20T15:27:25Z",
+  "updated_at": "2026-04-20T16:37:37Z",
   "domain": "fandom.com",
   "icons": [
-    {
-      "file": "fandom.com-favicon.ico",
-      "origin": "root",
-      "url": "https://fandom.com/favicon.ico",
-      "sizes": [32]
-    },
-    {
-      "file": "fandom.com-favicon.ico.32.png",
-      "origin": "root",
-      "url": "https://fandom.com/favicon.ico",
-      "sizes": [32]
-    },
     {
       "file": "fandom.com-gstatic.180.png",
       "origin": "gstatic",

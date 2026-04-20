@@ -1,0 +1,91 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T16:37:34Z",
+  "domain": "docker.com",
+  "icons": [
+    {
+      "file": "docker.com-favicon.192.png",
+      "origin": "html",
+      "url": "https://www.docker.com/app/uploads/2024/02/cropped-docker-logo-favicon-192x192.png",
+      "sizes": [192]
+    },
+    {
+      "file": "docker.com-favicon.180.png",
+      "origin": "html",
+      "url": "https://www.docker.com/app/uploads/2024/02/cropped-docker-logo-favicon-180x180.png",
+      "sizes": [180]
+    },
+    {
+      "file": "docker.com-favicon.32.png",
+      "origin": "html",
+      "url": "https://www.docker.com/app/uploads/2024/02/cropped-docker-logo-favicon-32x32.png",
+      "sizes": [32]
+    },
+    {
+      "file": "docker.com-favicon.ico",
+      "origin": "root",
+      "url": "https://docker.com/favicon.ico",
+      "sizes": [16, 32, 128, 256]
+    },
+    {
+      "file": "docker.com-favicon.ico.256.png",
+      "origin": "root",
+      "url": "https://docker.com/favicon.ico",
+      "sizes": [256]
+    },
+    {
+      "file": "docker.com-favicon.ico.128.png",
+      "origin": "root",
+      "url": "https://docker.com/favicon.ico",
+      "sizes": [128]
+    },
+    {
+      "file": "docker.com-favicon.ico.32.png",
+      "origin": "root",
+      "url": "https://docker.com/favicon.ico",
+      "sizes": [32]
+    },
+    {
+      "file": "docker.com-favicon.ico.16.png",
+      "origin": "root",
+      "url": "https://docker.com/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "docker.com-gstatic.192.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdocker.com&size=256",
+      "sizes": [192]
+    },
+    {
+      "file": "docker.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdocker.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "docker.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdocker.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "docker.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdocker.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "docker.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdocker.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "docker.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdocker.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}
