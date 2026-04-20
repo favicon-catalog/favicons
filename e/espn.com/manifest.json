@@ -1,0 +1,163 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T15:27:23Z",
+  "domain": "espn.com",
+  "icons": [
+    {
+      "file": "espn.com-favicon.svg",
+      "origin": "html",
+      "url": "https://a.espncdn.com/prod/assets/icons/E.svg",
+      "sizes": [200]
+    },
+    {
+      "file": "espn.com-favicon.180.png",
+      "origin": "html",
+      "url": "https://a.espncdn.com/wireless/mw5/r1/images/bookmark-icons-v2/espn-icon-180x180.png",
+      "sizes": [180]
+    },
+    {
+      "file": "espn.com-favicon.152.png",
+      "origin": "html",
+      "url": "https://a.espncdn.com/wireless/mw5/r1/images/bookmark-icons-v2/espn-icon-152x152.png",
+      "sizes": [152]
+    },
+    {
+      "file": "espn.com-favicon.144.png",
+      "origin": "html",
+      "url": "https://a.espncdn.com/wireless/mw5/r1/images/bookmark-icons-v2/espn-icon-144x144.png",
+      "sizes": [144]
+    },
+    {
+      "file": "espn.com-favicon.120.png",
+      "origin": "html",
+      "url": "https://a.espncdn.com/wireless/mw5/r1/images/bookmark-icons-v2/espn-icon-120x120.png",
+      "sizes": [120]
+    },
+    {
+      "file": "espn.com-favicon.114.png",
+      "origin": "html",
+      "url": "https://a.espncdn.com/wireless/mw5/r1/images/bookmark-icons-v2/espn-icon-114x114.png",
+      "sizes": [114]
+    },
+    {
+      "file": "espn.com-favicon.76.png",
+      "origin": "html",
+      "url": "https://a.espncdn.com/wireless/mw5/r1/images/bookmark-icons-v2/espn-icon-76x76.png",
+      "sizes": [76]
+    },
+    {
+      "file": "espn.com-favicon.72.png",
+      "origin": "html",
+      "url": "https://a.espncdn.com/wireless/mw5/r1/images/bookmark-icons-v2/espn-icon-72x72.png",
+      "sizes": [72]
+    },
+    {
+      "file": "espn.com-favicon.ico",
+      "origin": "html",
+      "url": "https://a.espncdn.com/favicon.ico",
+      "sizes": [16, 24, 32, 64],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://espn.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "espn.com-favicon.ico.64.png",
+      "origin": "html",
+      "url": "https://a.espncdn.com/favicon.ico",
+      "sizes": [64],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://espn.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "espn.com-favicon.60.png",
+      "origin": "html",
+      "url": "https://a.espncdn.com/wireless/mw5/r1/images/bookmark-icons-v2/espn-icon-60x60.png",
+      "sizes": [60]
+    },
+    {
+      "file": "espn.com-favicon.57.png",
+      "origin": "html",
+      "url": "https://a.espncdn.com/wireless/mw5/r1/images/bookmark-icons-v2/espn-icon-57x57.png",
+      "sizes": [57]
+    },
+    {
+      "file": "espn.com-favicon.ico.32.png",
+      "origin": "html",
+      "url": "https://a.espncdn.com/favicon.ico",
+      "sizes": [32],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://espn.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "espn.com-favicon.ico.24.png",
+      "origin": "html",
+      "url": "https://a.espncdn.com/favicon.ico",
+      "sizes": [24],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://espn.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "espn.com-favicon.ico.16.png",
+      "origin": "html",
+      "url": "https://a.espncdn.com/favicon.ico",
+      "sizes": [16],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://espn.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "espn.com-gstatic.152.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fespn.com&size=256",
+      "sizes": [152]
+    },
+    {
+      "file": "espn.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fespn.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "espn.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fespn.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "espn.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fespn.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "espn.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fespn.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "espn.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fespn.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

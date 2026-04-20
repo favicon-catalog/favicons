@@ -1,0 +1,139 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T15:28:01Z",
+  "domain": "teams.live.com",
+  "icons": [
+    {
+      "file": "teams.live.com-favicon.ico",
+      "origin": "html",
+      "url": "https://statics.teams.cdn.live.net/evergreen-assets/icons/microsoft_teams_logo_refresh_v2025.ico",
+      "sizes": [16, 20, 24, 32, 40, 48, 64, 256]
+    },
+    {
+      "file": "teams.live.com-favicon.ico.256.png",
+      "origin": "html",
+      "url": "https://statics.teams.cdn.live.net/evergreen-assets/icons/microsoft_teams_logo_refresh_v2025.ico",
+      "sizes": [256]
+    },
+    {
+      "file": "teams.live.com-favicon.ico.64.png",
+      "origin": "html",
+      "url": "https://statics.teams.cdn.live.net/evergreen-assets/icons/microsoft_teams_logo_refresh_v2025.ico",
+      "sizes": [64]
+    },
+    {
+      "file": "teams.live.com-favicon.ico.48.png",
+      "origin": "html",
+      "url": "https://statics.teams.cdn.live.net/evergreen-assets/icons/microsoft_teams_logo_refresh_v2025.ico",
+      "sizes": [48]
+    },
+    {
+      "file": "teams.live.com-favicon.ico.40.png",
+      "origin": "html",
+      "url": "https://statics.teams.cdn.live.net/evergreen-assets/icons/microsoft_teams_logo_refresh_v2025.ico",
+      "sizes": [40]
+    },
+    {
+      "file": "teams.live.com-favicon.ico.32.png",
+      "origin": "html",
+      "url": "https://statics.teams.cdn.live.net/evergreen-assets/icons/microsoft_teams_logo_refresh_v2025.ico",
+      "sizes": [32]
+    },
+    {
+      "file": "teams.live.com-favicon.ico.24.png",
+      "origin": "html",
+      "url": "https://statics.teams.cdn.live.net/evergreen-assets/icons/microsoft_teams_logo_refresh_v2025.ico",
+      "sizes": [24]
+    },
+    {
+      "file": "teams.live.com-favicon.ico.20.png",
+      "origin": "html",
+      "url": "https://statics.teams.cdn.live.net/evergreen-assets/icons/microsoft_teams_logo_refresh_v2025.ico",
+      "sizes": [20]
+    },
+    {
+      "file": "teams.live.com-favicon.ico.16.png",
+      "origin": "html",
+      "url": "https://statics.teams.cdn.live.net/evergreen-assets/icons/microsoft_teams_logo_refresh_v2025.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "teams.live.com-favicon.2ada7e75.ico",
+      "origin": "root",
+      "url": "https://teams.live.com/favicon.ico",
+      "sizes": [16, 32, 48, 64, 96, 256]
+    },
+    {
+      "file": "teams.live.com-favicon.ico.256.2ada7e75.png",
+      "origin": "root",
+      "url": "https://teams.live.com/favicon.ico",
+      "sizes": [256]
+    },
+    {
+      "file": "teams.live.com-favicon.ico.96.png",
+      "origin": "root",
+      "url": "https://teams.live.com/favicon.ico",
+      "sizes": [96]
+    },
+    {
+      "file": "teams.live.com-favicon.ico.64.2ada7e75.png",
+      "origin": "root",
+      "url": "https://teams.live.com/favicon.ico",
+      "sizes": [64]
+    },
+    {
+      "file": "teams.live.com-favicon.ico.48.2ada7e75.png",
+      "origin": "root",
+      "url": "https://teams.live.com/favicon.ico",
+      "sizes": [48]
+    },
+    {
+      "file": "teams.live.com-favicon.ico.32.2ada7e75.png",
+      "origin": "root",
+      "url": "https://teams.live.com/favicon.ico",
+      "sizes": [32]
+    },
+    {
+      "file": "teams.live.com-favicon.ico.16.2ada7e75.png",
+      "origin": "root",
+      "url": "https://teams.live.com/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "teams.live.com-gstatic.256.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fteams.live.com&size=256",
+      "sizes": [256]
+    },
+    {
+      "file": "teams.live.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fteams.live.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "teams.live.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fteams.live.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "teams.live.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fteams.live.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "teams.live.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fteams.live.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "teams.live.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fteams.live.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

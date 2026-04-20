@@ -1,0 +1,49 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T15:28:20Z",
+  "domain": "finance.naver.com",
+  "icons": [
+    {
+      "file": "finance.naver.com-favicon.192.png",
+      "origin": "html",
+      "url": "https://ssl.pstatic.net/imgstock/favi/favicon-192x192.png",
+      "sizes": [192]
+    },
+    {
+      "file": "finance.naver.com-favicon.180.png",
+      "origin": "html",
+      "url": "https://ssl.pstatic.net/imgstock/favi/favicon-180x180.png",
+      "sizes": [180]
+    },
+    {
+      "file": "finance.naver.com-favicon.96.png",
+      "origin": "html",
+      "url": "https://ssl.pstatic.net/imgstock/favi/favicon-96x96.png",
+      "sizes": [96]
+    },
+    {
+      "file": "finance.naver.com-favicon.32.80da1a70.png",
+      "origin": "html",
+      "url": "https://ssl.pstatic.net/imgstock/favi/favicon-32x32.png",
+      "sizes": [32]
+    },
+    {
+      "file": "finance.naver.com-favicon.32.png",
+      "origin": "html",
+      "url": "https://ssl.pstatic.net/imgstock/favi/favicon.ico",
+      "sizes": [32],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://finance.naver.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "finance.naver.com-favicon.16.png",
+      "origin": "html",
+      "url": "https://ssl.pstatic.net/imgstock/favi/favicon-16x16.png",
+      "sizes": [16]
+    }
+  ]
+}

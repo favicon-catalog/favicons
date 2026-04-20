@@ -1,0 +1,163 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T15:27:30Z",
+  "domain": "foxnews.com",
+  "icons": [
+    {
+      "file": "foxnews.com-favicon.svg",
+      "origin": "html",
+      "url": "https://static.foxnews.com/static/orion/styles/img/fox-news/favicons/safari-pinned-tab.svg",
+      "sizes": [480]
+    },
+    {
+      "file": "foxnews.com-favicon.192.png",
+      "origin": "html",
+      "url": "https://static.foxnews.com/static/orion/styles/img/fox-news/favicons/android-chrome-192x192.png",
+      "sizes": [192]
+    },
+    {
+      "file": "foxnews.com-favicon.180.png",
+      "origin": "html",
+      "url": "https://static.foxnews.com/static/orion/styles/img/fox-news/favicons/apple-touch-icon-180x180.png",
+      "sizes": [180]
+    },
+    {
+      "file": "foxnews.com-favicon.152.png",
+      "origin": "html",
+      "url": "https://static.foxnews.com/static/orion/styles/img/fox-news/favicons/apple-touch-icon-152x152.png",
+      "sizes": [152]
+    },
+    {
+      "file": "foxnews.com-favicon.144.png",
+      "origin": "html",
+      "url": "https://static.foxnews.com/static/orion/styles/img/fox-news/favicons/apple-touch-icon-144x144.png",
+      "sizes": [144]
+    },
+    {
+      "file": "foxnews.com-favicon.120.png",
+      "origin": "html",
+      "url": "https://static.foxnews.com/static/orion/styles/img/fox-news/favicons/apple-touch-icon-120x120.png",
+      "sizes": [120]
+    },
+    {
+      "file": "foxnews.com-favicon.114.png",
+      "origin": "html",
+      "url": "https://static.foxnews.com/static/orion/styles/img/fox-news/favicons/apple-touch-icon-114x114.png",
+      "sizes": [114]
+    },
+    {
+      "file": "foxnews.com-favicon.96.png",
+      "origin": "html",
+      "url": "https://static.foxnews.com/static/orion/styles/img/fox-news/favicons/favicon-96x96.png",
+      "sizes": [96]
+    },
+    {
+      "file": "foxnews.com-favicon.76.webp",
+      "origin": "html",
+      "url": "https://static.foxnews.com/static/orion/styles/img/fox-news/favicons/apple-touch-icon-76x76.png",
+      "sizes": [76]
+    },
+    {
+      "file": "foxnews.com-favicon.72.webp",
+      "origin": "html",
+      "url": "https://static.foxnews.com/static/orion/styles/img/fox-news/favicons/apple-touch-icon-72x72.png",
+      "sizes": [72]
+    },
+    {
+      "file": "foxnews.com-favicon.60.webp",
+      "origin": "html",
+      "url": "https://static.foxnews.com/static/orion/styles/img/fox-news/favicons/apple-touch-icon-60x60.png",
+      "sizes": [60]
+    },
+    {
+      "file": "foxnews.com-favicon.57.webp",
+      "origin": "html",
+      "url": "https://static.foxnews.com/static/orion/styles/img/fox-news/favicons/apple-touch-icon-57x57.png",
+      "sizes": [57]
+    },
+    {
+      "file": "foxnews.com-favicon.ico",
+      "origin": "html",
+      "url": "https://static.foxnews.com/static/orion/styles/img/fox-news/favicons/favicon.ico",
+      "sizes": [16, 32, 48]
+    },
+    {
+      "file": "foxnews.com-favicon.ico.48.png",
+      "origin": "html",
+      "url": "https://static.foxnews.com/static/orion/styles/img/fox-news/favicons/favicon.ico",
+      "sizes": [48]
+    },
+    {
+      "file": "foxnews.com-favicon.32.png",
+      "origin": "html",
+      "url": "https://static.foxnews.com/static/orion/styles/img/fox-news/favicons/favicon-32x32.png",
+      "sizes": [32]
+    },
+    {
+      "file": "foxnews.com-favicon.ico.32.png",
+      "origin": "html",
+      "url": "https://static.foxnews.com/static/orion/styles/img/fox-news/favicons/favicon.ico",
+      "sizes": [32]
+    },
+    {
+      "file": "foxnews.com-favicon.16.png",
+      "origin": "html",
+      "url": "https://static.foxnews.com/static/orion/styles/img/fox-news/favicons/favicon-16x16.png",
+      "sizes": [16]
+    },
+    {
+      "file": "foxnews.com-favicon.ico.16.png",
+      "origin": "html",
+      "url": "https://static.foxnews.com/static/orion/styles/img/fox-news/favicons/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "foxnews.com-favicon.a7398c03.ico",
+      "origin": "root",
+      "url": "https://foxnews.com/favicon.ico",
+      "sizes": [32]
+    },
+    {
+      "file": "foxnews.com-favicon.ico.32.a7398c03.png",
+      "origin": "root",
+      "url": "https://foxnews.com/favicon.ico",
+      "sizes": [32]
+    },
+    {
+      "file": "foxnews.com-gstatic.152.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ffoxnews.com&size=256",
+      "sizes": [152]
+    },
+    {
+      "file": "foxnews.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ffoxnews.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "foxnews.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ffoxnews.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "foxnews.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ffoxnews.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "foxnews.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ffoxnews.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "foxnews.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ffoxnews.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

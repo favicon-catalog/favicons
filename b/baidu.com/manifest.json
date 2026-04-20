@@ -1,0 +1,73 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T15:27:00Z",
+  "domain": "baidu.com",
+  "icons": [
+    {
+      "file": "baidu.com-favicon.1024.png",
+      "origin": "html",
+      "url": "https://psstatic.cdn.bcebos.com/video/wiseindex/aa6eef91f8b5b1a33b454c401_1660835115000.png",
+      "sizes": [1024]
+    },
+    {
+      "file": "baidu.com-favicon.ico",
+      "origin": "html",
+      "url": "https://www.baidu.com/favicon.ico",
+      "sizes": [64],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://baidu.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "baidu.com-favicon.ico.64.png",
+      "origin": "html",
+      "url": "https://www.baidu.com/favicon.ico",
+      "sizes": [64],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://baidu.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "baidu.com-gstatic.256.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fbaidu.com&size=256",
+      "sizes": [256]
+    },
+    {
+      "file": "baidu.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fbaidu.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "baidu.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fbaidu.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "baidu.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fbaidu.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "baidu.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fbaidu.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "baidu.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fbaidu.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

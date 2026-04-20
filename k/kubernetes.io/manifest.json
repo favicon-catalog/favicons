@@ -1,0 +1,127 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T15:27:55Z",
+  "domain": "kubernetes.io",
+  "icons": [
+    {
+      "file": "kubernetes.io-favicon.512.png",
+      "origin": "html",
+      "url": "https://kubernetes.io/images/kubernetes.png",
+      "sizes": [512]
+    },
+    {
+      "file": "kubernetes.io-favicon.256.png",
+      "origin": "html",
+      "url": "https://kubernetes.io/icons/apple-touch-icon-256x256.png",
+      "sizes": [256]
+    },
+    {
+      "file": "kubernetes.io-favicon.196.png",
+      "origin": "html",
+      "url": "https://kubernetes.io/icons/apple-touch-icon-196x196.png",
+      "sizes": [196]
+    },
+    {
+      "file": "kubernetes.io-favicon.192.png",
+      "origin": "html",
+      "url": "https://kubernetes.io/icons/apple-touch-icon-192x192.png",
+      "sizes": [192]
+    },
+    {
+      "file": "kubernetes.io-favicon.180.png",
+      "origin": "html",
+      "url": "https://kubernetes.io/icons/apple-touch-icon-180x180.png",
+      "sizes": [180]
+    },
+    {
+      "file": "kubernetes.io-favicon.167.png",
+      "origin": "html",
+      "url": "https://kubernetes.io/icons/apple-touch-icon-167x167.png",
+      "sizes": [167]
+    },
+    {
+      "file": "kubernetes.io-favicon.160.png",
+      "origin": "html",
+      "url": "https://kubernetes.io/icons/apple-touch-icon-160x160.png",
+      "sizes": [160]
+    },
+    {
+      "file": "kubernetes.io-favicon.152.png",
+      "origin": "html",
+      "url": "https://kubernetes.io/icons/apple-touch-icon-152x152.png",
+      "sizes": [152]
+    },
+    {
+      "file": "kubernetes.io-favicon.128.png",
+      "origin": "html",
+      "url": "https://kubernetes.io/icons/icon-128x128.png",
+      "sizes": [128]
+    },
+    {
+      "file": "kubernetes.io-favicon.120.png",
+      "origin": "html",
+      "url": "https://kubernetes.io/icons/apple-touch-icon-120x120.png",
+      "sizes": [120]
+    },
+    {
+      "file": "kubernetes.io-favicon.76.png",
+      "origin": "html",
+      "url": "https://kubernetes.io/icons/apple-touch-icon-76x76.png",
+      "sizes": [76]
+    },
+    {
+      "file": "kubernetes.io-favicon.64.png",
+      "origin": "html",
+      "url": "https://kubernetes.io/icons/favicon-64.png",
+      "sizes": [64]
+    },
+    {
+      "file": "kubernetes.io-favicon.32.png",
+      "origin": "html",
+      "url": "https://kubernetes.io/icons/favicon-32.png",
+      "sizes": [32]
+    },
+    {
+      "file": "kubernetes.io-favicon.16.png",
+      "origin": "html",
+      "url": "https://kubernetes.io/icons/favicon-16.png",
+      "sizes": [16]
+    },
+    {
+      "file": "kubernetes.io-gstatic.256.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fkubernetes.io&size=256",
+      "sizes": [256]
+    },
+    {
+      "file": "kubernetes.io-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fkubernetes.io&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "kubernetes.io-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fkubernetes.io&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "kubernetes.io-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fkubernetes.io&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "kubernetes.io-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fkubernetes.io&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "kubernetes.io-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fkubernetes.io&size=16",
+      "sizes": [16]
+    }
+  ]
+}

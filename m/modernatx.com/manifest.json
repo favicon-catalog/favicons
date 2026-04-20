@@ -1,0 +1,115 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T15:28:15Z",
+  "domain": "modernatx.com",
+  "icons": [
+    {
+      "file": "modernatx.com-favicon.180.png",
+      "origin": "html",
+      "url": "https://modernatx.com/assets/favicons/apple-touch-icon.png",
+      "sizes": [180]
+    },
+    {
+      "file": "modernatx.com-favicon.svg",
+      "origin": "html",
+      "url": "https://modernatx.com/assets/favicons/safari-pinned-tab.svg",
+      "sizes": [180]
+    },
+    {
+      "file": "modernatx.com-favicon.ico",
+      "origin": "html",
+      "url": "https://modernatx.com/assets/favicons/favicon.ico",
+      "sizes": [16, 32, 48],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://modernatx.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "modernatx.com-favicon.ico.48.png",
+      "origin": "html",
+      "url": "https://modernatx.com/assets/favicons/favicon.ico",
+      "sizes": [48],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://modernatx.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "modernatx.com-favicon.32.png",
+      "origin": "html",
+      "url": "https://modernatx.com/assets/favicons/favicon-32x32.png",
+      "sizes": [32]
+    },
+    {
+      "file": "modernatx.com-favicon.ico.32.png",
+      "origin": "html",
+      "url": "https://modernatx.com/assets/favicons/favicon.ico",
+      "sizes": [32],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://modernatx.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "modernatx.com-favicon.16.png",
+      "origin": "html",
+      "url": "https://modernatx.com/assets/favicons/favicon-16x16.png",
+      "sizes": [16]
+    },
+    {
+      "file": "modernatx.com-favicon.ico.16.png",
+      "origin": "html",
+      "url": "https://modernatx.com/assets/favicons/favicon.ico",
+      "sizes": [16],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://modernatx.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "modernatx.com-gstatic.180.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fmodernatx.com&size=256",
+      "sizes": [180]
+    },
+    {
+      "file": "modernatx.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fmodernatx.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "modernatx.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fmodernatx.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "modernatx.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fmodernatx.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "modernatx.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fmodernatx.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "modernatx.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fmodernatx.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

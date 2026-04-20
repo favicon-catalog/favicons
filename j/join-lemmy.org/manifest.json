@@ -1,0 +1,55 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T15:27:47Z",
+  "domain": "join-lemmy.org",
+  "icons": [
+    {
+      "file": "join-lemmy.org-favicon.svg",
+      "origin": "html",
+      "url": "https://join-lemmy.org/static/assets/icons/favicon.svg",
+      "sizes": [1024]
+    },
+    {
+      "file": "join-lemmy.org-favicon.64.png",
+      "origin": "html",
+      "url": "https://join-lemmy.org/static/assets/icons/apple-touch-icon.png",
+      "sizes": [64]
+    },
+    {
+      "file": "join-lemmy.org-gstatic.256.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fjoin-lemmy.org&size=256",
+      "sizes": [256]
+    },
+    {
+      "file": "join-lemmy.org-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fjoin-lemmy.org&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "join-lemmy.org-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fjoin-lemmy.org&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "join-lemmy.org-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fjoin-lemmy.org&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "join-lemmy.org-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fjoin-lemmy.org&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "join-lemmy.org-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fjoin-lemmy.org&size=16",
+      "sizes": [16]
+    }
+  ]
+}

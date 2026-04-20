@@ -1,0 +1,163 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T15:28:15Z",
+  "domain": "nasa.gov",
+  "icons": [
+    {
+      "file": "nasa.gov-favicon.svg",
+      "origin": "html",
+      "url": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/safari-pinned-tab.svg",
+      "sizes": [1700]
+    },
+    {
+      "file": "nasa.gov-favicon.228.png",
+      "origin": "html",
+      "url": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/favicon-228x228.png",
+      "sizes": [228]
+    },
+    {
+      "file": "nasa.gov-favicon.196.png",
+      "origin": "html",
+      "url": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/favicon-196x196.png",
+      "sizes": [196]
+    },
+    {
+      "file": "nasa.gov-favicon.192.png",
+      "origin": "html",
+      "url": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/favicon-192x192.png",
+      "sizes": [192]
+    },
+    {
+      "file": "nasa.gov-favicon.180.png",
+      "origin": "html",
+      "url": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/apple-touch-icon-180x180.png",
+      "sizes": [180]
+    },
+    {
+      "file": "nasa.gov-favicon.152.png",
+      "origin": "html",
+      "url": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/apple-touch-icon-152x152.png",
+      "sizes": [152]
+    },
+    {
+      "file": "nasa.gov-favicon.144.png",
+      "origin": "html",
+      "url": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/apple-touch-icon-144x144.png",
+      "sizes": [144]
+    },
+    {
+      "file": "nasa.gov-favicon.128.png",
+      "origin": "html",
+      "url": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/favicon-128x128.png",
+      "sizes": [128]
+    },
+    {
+      "file": "nasa.gov-favicon.120.png",
+      "origin": "html",
+      "url": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/apple-touch-icon-120x120.png",
+      "sizes": [120]
+    },
+    {
+      "file": "nasa.gov-favicon.114.png",
+      "origin": "html",
+      "url": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/apple-touch-icon-114x114.png",
+      "sizes": [114]
+    },
+    {
+      "file": "nasa.gov-favicon.96.png",
+      "origin": "html",
+      "url": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/favicon-96x96.png",
+      "sizes": [96]
+    },
+    {
+      "file": "nasa.gov-favicon.76.cca358ed.png",
+      "origin": "html",
+      "url": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/favicon-76x76.png",
+      "sizes": [76]
+    },
+    {
+      "file": "nasa.gov-favicon.76.png",
+      "origin": "html",
+      "url": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/apple-touch-icon-76x76.png",
+      "sizes": [76]
+    },
+    {
+      "file": "nasa.gov-favicon.72.png",
+      "origin": "html",
+      "url": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/apple-touch-icon-72x72.png",
+      "sizes": [72]
+    },
+    {
+      "file": "nasa.gov-favicon.60.png",
+      "origin": "html",
+      "url": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/apple-touch-icon-60x60.png",
+      "sizes": [60]
+    },
+    {
+      "file": "nasa.gov-favicon.57.6d39499f.png",
+      "origin": "html",
+      "url": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/favicon-57x57.png",
+      "sizes": [57]
+    },
+    {
+      "file": "nasa.gov-favicon.57.png",
+      "origin": "html",
+      "url": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/apple-touch-icon-57x57.png",
+      "sizes": [57]
+    },
+    {
+      "file": "nasa.gov-favicon.32.png",
+      "origin": "html",
+      "url": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/favicon-32x32.png",
+      "sizes": [32]
+    },
+    {
+      "file": "nasa.gov-favicon.16.png",
+      "origin": "html",
+      "url": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/favicon-16x16.png",
+      "sizes": [16]
+    },
+    {
+      "file": "nasa.gov-favicon.ico",
+      "origin": "root",
+      "url": "https://nasa.gov/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "nasa.gov-gstatic.180.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fnasa.gov&size=256",
+      "sizes": [180]
+    },
+    {
+      "file": "nasa.gov-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fnasa.gov&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "nasa.gov-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fnasa.gov&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "nasa.gov-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fnasa.gov&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "nasa.gov-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fnasa.gov&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "nasa.gov-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fnasa.gov&size=16",
+      "sizes": [16]
+    }
+  ]
+}

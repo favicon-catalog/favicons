@@ -1,0 +1,121 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T15:29:33Z",
+  "domain": "yahoo.co.jp",
+  "icons": [
+    {
+      "file": "yahoo.co.jp-favicon.120.png",
+      "origin": "html",
+      "url": "https://s.yimg.jp/c/icon/s/bsc/2.0/y120.png",
+      "sizes": [120]
+    },
+    {
+      "file": "yahoo.co.jp-favicon.ico",
+      "origin": "html",
+      "url": "https://s.yimg.jp/c/icon/s/bsc/2.0/favicon.ico",
+      "sizes": [16, 24, 32, 48, 64],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://yahoo.co.jp/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "yahoo.co.jp-favicon.ico.64.png",
+      "origin": "html",
+      "url": "https://s.yimg.jp/c/icon/s/bsc/2.0/favicon.ico",
+      "sizes": [64],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://yahoo.co.jp/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "yahoo.co.jp-favicon.ico.48.png",
+      "origin": "html",
+      "url": "https://s.yimg.jp/c/icon/s/bsc/2.0/favicon.ico",
+      "sizes": [48],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://yahoo.co.jp/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "yahoo.co.jp-favicon.ico.32.png",
+      "origin": "html",
+      "url": "https://s.yimg.jp/c/icon/s/bsc/2.0/favicon.ico",
+      "sizes": [32],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://yahoo.co.jp/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "yahoo.co.jp-favicon.ico.24.png",
+      "origin": "html",
+      "url": "https://s.yimg.jp/c/icon/s/bsc/2.0/favicon.ico",
+      "sizes": [24],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://yahoo.co.jp/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "yahoo.co.jp-favicon.ico.16.png",
+      "origin": "html",
+      "url": "https://s.yimg.jp/c/icon/s/bsc/2.0/favicon.ico",
+      "sizes": [16],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://yahoo.co.jp/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "yahoo.co.jp-gstatic.120.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fyahoo.co.jp&size=128",
+      "sizes": [120],
+      "aliases": [
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fyahoo.co.jp&size=256"
+        }
+      ]
+    },
+    {
+      "file": "yahoo.co.jp-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fyahoo.co.jp&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "yahoo.co.jp-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fyahoo.co.jp&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "yahoo.co.jp-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fyahoo.co.jp&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "yahoo.co.jp-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fyahoo.co.jp&size=16",
+      "sizes": [16]
+    }
+  ]
+}

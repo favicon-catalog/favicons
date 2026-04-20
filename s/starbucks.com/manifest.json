@@ -1,0 +1,137 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T15:29:00Z",
+  "domain": "starbucks.com",
+  "icons": [
+    {
+      "file": "starbucks.com-favicon.192.png",
+      "origin": "html",
+      "url": "https://starbucks.com/pwa-icon-192.png",
+      "sizes": [192]
+    },
+    {
+      "file": "starbucks.com-favicon.180.png",
+      "origin": "html",
+      "url": "https://starbucks.com/apple-touch-icon.png",
+      "sizes": [180],
+      "aliases": [
+        {
+          "origin": "html",
+          "url": "https://starbucks.com/apple-touch-icon-180x180.png"
+        },
+        {
+          "origin": "html",
+          "url": "https://starbucks.com/apple-touch-icon-precomposed.png"
+        }
+      ]
+    },
+    {
+      "file": "starbucks.com-favicon.152.png",
+      "origin": "html",
+      "url": "https://starbucks.com/apple-touch-icon-152x152.png",
+      "sizes": [152],
+      "aliases": [
+        {
+          "origin": "html",
+          "url": "https://starbucks.com/apple-touch-icon-152x152-precomposed.png"
+        }
+      ]
+    },
+    {
+      "file": "starbucks.com-favicon.120.png",
+      "origin": "html",
+      "url": "https://starbucks.com/apple-touch-icon-120x120.png",
+      "sizes": [120],
+      "aliases": [
+        {
+          "origin": "html",
+          "url": "https://starbucks.com/apple-touch-icon-120x120-precomposed.png"
+        }
+      ]
+    },
+    {
+      "file": "starbucks.com-favicon.114.png",
+      "origin": "html",
+      "url": "https://starbucks.com/apple-touch-icon-114x114.png",
+      "sizes": [114]
+    },
+    {
+      "file": "starbucks.com-favicon.ico",
+      "origin": "html",
+      "url": "https://starbucks.com/favicon.ico",
+      "sizes": [16, 32, 48]
+    },
+    {
+      "file": "starbucks.com-favicon.ico.48.png",
+      "origin": "html",
+      "url": "https://starbucks.com/favicon.ico",
+      "sizes": [48]
+    },
+    {
+      "file": "starbucks.com-favicon.32.png",
+      "origin": "html",
+      "url": "https://starbucks.com/favicon-32x32.png",
+      "sizes": [32]
+    },
+    {
+      "file": "starbucks.com-favicon.ico.32.png",
+      "origin": "html",
+      "url": "https://starbucks.com/favicon.ico",
+      "sizes": [32]
+    },
+    {
+      "file": "starbucks.com-favicon.16.png",
+      "origin": "html",
+      "url": "https://starbucks.com/favicon-16x16.png",
+      "sizes": [16]
+    },
+    {
+      "file": "starbucks.com-favicon.ico.16.png",
+      "origin": "html",
+      "url": "https://starbucks.com/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "starbucks.com-favicon.svg",
+      "origin": "html",
+      "url": "https://starbucks.com/next_static/icons/safari-pinned-tab.svg",
+      "sizes": [16]
+    },
+    {
+      "file": "starbucks.com-gstatic.180.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fstarbucks.com&size=256",
+      "sizes": [180]
+    },
+    {
+      "file": "starbucks.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fstarbucks.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "starbucks.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fstarbucks.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "starbucks.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fstarbucks.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "starbucks.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fstarbucks.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "starbucks.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fstarbucks.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

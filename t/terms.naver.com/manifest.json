@@ -1,12 +1,12 @@
 {
   "manifest_version": 4,
-  "updated_at": "2026-04-19T18:32:24Z",
+  "updated_at": "2026-04-20T15:28:24Z",
   "domain": "terms.naver.com",
   "icons": [
     {
       "file": "terms.naver.com-favicon.ico",
       "origin": "html",
-      "url": "https://terms.naver.com/favicon.ico?260416040407",
+      "url": "https://terms.naver.com/favicon.ico?260420082337",
       "sizes": [16, 32],
       "aliases": [
         {
@@ -18,7 +18,7 @@
     {
       "file": "terms.naver.com-favicon.ico.32.png",
       "origin": "html",
-      "url": "https://terms.naver.com/favicon.ico?260416040407",
+      "url": "https://terms.naver.com/favicon.ico?260420082337",
       "sizes": [32],
       "aliases": [
         {
@@ -30,7 +30,7 @@
     {
       "file": "terms.naver.com-favicon.ico.16.png",
       "origin": "html",
-      "url": "https://terms.naver.com/favicon.ico?260416040407",
+      "url": "https://terms.naver.com/favicon.ico?260420082337",
       "sizes": [16],
       "aliases": [
         {

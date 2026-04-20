@@ -1,0 +1,97 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T15:28:35Z",
+  "domain": "openstack.org",
+  "icons": [
+    {
+      "file": "openstack.org-favicon.512.png",
+      "origin": "html",
+      "url": "https://openstack.org/icons/icon-512x512.png?v=cbb36e97af1e4c996ca3f284ccc082d6",
+      "sizes": [512]
+    },
+    {
+      "file": "openstack.org-favicon.384.png",
+      "origin": "html",
+      "url": "https://openstack.org/icons/icon-384x384.png?v=cbb36e97af1e4c996ca3f284ccc082d6",
+      "sizes": [384]
+    },
+    {
+      "file": "openstack.org-favicon.256.png",
+      "origin": "html",
+      "url": "https://openstack.org/icons/icon-256x256.png?v=cbb36e97af1e4c996ca3f284ccc082d6",
+      "sizes": [256]
+    },
+    {
+      "file": "openstack.org-favicon.192.png",
+      "origin": "html",
+      "url": "https://openstack.org/icons/icon-192x192.png?v=cbb36e97af1e4c996ca3f284ccc082d6",
+      "sizes": [192]
+    },
+    {
+      "file": "openstack.org-favicon.144.png",
+      "origin": "html",
+      "url": "https://openstack.org/icons/icon-144x144.png?v=cbb36e97af1e4c996ca3f284ccc082d6",
+      "sizes": [144]
+    },
+    {
+      "file": "openstack.org-favicon.96.png",
+      "origin": "html",
+      "url": "https://openstack.org/icons/icon-96x96.png?v=cbb36e97af1e4c996ca3f284ccc082d6",
+      "sizes": [96]
+    },
+    {
+      "file": "openstack.org-favicon.72.png",
+      "origin": "html",
+      "url": "https://openstack.org/icons/icon-72x72.png?v=cbb36e97af1e4c996ca3f284ccc082d6",
+      "sizes": [72]
+    },
+    {
+      "file": "openstack.org-favicon.48.png",
+      "origin": "html",
+      "url": "https://openstack.org/icons/icon-48x48.png?v=cbb36e97af1e4c996ca3f284ccc082d6",
+      "sizes": [48]
+    },
+    {
+      "file": "openstack.org-favicon.32.png",
+      "origin": "html",
+      "url": "https://openstack.org/favicon-32x32.png?v=cbb36e97af1e4c996ca3f284ccc082d6",
+      "sizes": [32]
+    },
+    {
+      "file": "openstack.org-gstatic.256.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fopenstack.org&size=256",
+      "sizes": [256]
+    },
+    {
+      "file": "openstack.org-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fopenstack.org&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "openstack.org-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fopenstack.org&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "openstack.org-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fopenstack.org&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "openstack.org-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fopenstack.org&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "openstack.org-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fopenstack.org&size=16",
+      "sizes": [16]
+    }
+  ]
+}

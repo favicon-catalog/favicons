@@ -1,0 +1,73 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T15:27:03Z",
+  "domain": "claude.ai",
+  "icons": [
+    {
+      "file": "claude.ai-favicon.svg",
+      "origin": "root",
+      "url": "https://claude.ai/favicon.svg",
+      "sizes": [248]
+    },
+    {
+      "file": "claude.ai-favicon.ico",
+      "origin": "root",
+      "url": "https://claude.ai/favicon.ico",
+      "sizes": [16, 32, 48]
+    },
+    {
+      "file": "claude.ai-favicon.ico.48.png",
+      "origin": "root",
+      "url": "https://claude.ai/favicon.ico",
+      "sizes": [48]
+    },
+    {
+      "file": "claude.ai-favicon.ico.32.png",
+      "origin": "root",
+      "url": "https://claude.ai/favicon.ico",
+      "sizes": [32]
+    },
+    {
+      "file": "claude.ai-favicon.ico.16.png",
+      "origin": "root",
+      "url": "https://claude.ai/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "claude.ai-gstatic.248.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fclaude.ai&size=256",
+      "sizes": [248]
+    },
+    {
+      "file": "claude.ai-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fclaude.ai&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "claude.ai-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fclaude.ai&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "claude.ai-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fclaude.ai&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "claude.ai-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fclaude.ai&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "claude.ai-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fclaude.ai&size=16",
+      "sizes": [16]
+    }
+  ]
+}

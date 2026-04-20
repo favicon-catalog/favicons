@@ -1,0 +1,109 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T15:27:27Z",
+  "domain": "firefox.com",
+  "icons": [
+    {
+      "file": "firefox.com-favicon.196.png",
+      "origin": "html",
+      "url": "https://www.firefox.com/media/img/favicons/firefox/browser/favicon-196x196.59e3822720be.png",
+      "sizes": [196],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://firefox.com/favicon.png"
+        }
+      ]
+    },
+    {
+      "file": "firefox.com-favicon.180.png",
+      "origin": "html",
+      "url": "https://www.firefox.com/media/img/favicons/firefox/browser/apple-touch-icon.79c2abeb4e35.png",
+      "sizes": [180]
+    },
+    {
+      "file": "firefox.com-favicon.ico",
+      "origin": "html",
+      "url": "https://www.firefox.com/media/img/favicons/firefox/browser/favicon.f093404c0135.ico",
+      "sizes": [16, 32, 48],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://firefox.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "firefox.com-favicon.ico.48.png",
+      "origin": "html",
+      "url": "https://www.firefox.com/media/img/favicons/firefox/browser/favicon.f093404c0135.ico",
+      "sizes": [48],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://firefox.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "firefox.com-favicon.ico.32.png",
+      "origin": "html",
+      "url": "https://www.firefox.com/media/img/favicons/firefox/browser/favicon.f093404c0135.ico",
+      "sizes": [32],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://firefox.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "firefox.com-favicon.ico.16.png",
+      "origin": "html",
+      "url": "https://www.firefox.com/media/img/favicons/firefox/browser/favicon.f093404c0135.ico",
+      "sizes": [16],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://firefox.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "firefox.com-gstatic.196.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ffirefox.com&size=256",
+      "sizes": [196]
+    },
+    {
+      "file": "firefox.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ffirefox.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "firefox.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ffirefox.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "firefox.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ffirefox.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "firefox.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ffirefox.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "firefox.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ffirefox.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

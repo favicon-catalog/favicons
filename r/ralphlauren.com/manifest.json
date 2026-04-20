@@ -1,0 +1,49 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T15:28:45Z",
+  "domain": "ralphlauren.com",
+  "icons": [
+    {
+      "file": "ralphlauren.com-favicon.ico",
+      "origin": "root",
+      "url": "https://ralphlauren.com/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "ralphlauren.com-favicon.ico.16.png",
+      "origin": "root",
+      "url": "https://ralphlauren.com/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "ralphlauren.com-gstatic.128.jpg",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fralphlauren.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "ralphlauren.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fralphlauren.com&size=16",
+      "sizes": [16],
+      "aliases": [
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fralphlauren.com&size=32"
+        },
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fralphlauren.com&size=48"
+        },
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fralphlauren.com&size=64"
+        },
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fralphlauren.com&size=256"
+        }
+      ]
+    }
+  ]
+}

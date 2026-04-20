@@ -1,0 +1,53 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T15:28:29Z",
+  "domain": "nodejs.org",
+  "icons": [
+    {
+      "file": "nodejs.org-favicon.32.png",
+      "origin": "html",
+      "url": "https://nodejs.org/static/images/favicons/favicon.png",
+      "sizes": [32],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://nodejs.org/favicon.png"
+        },
+        {
+          "origin": "root",
+          "url": "https://nodejs.org/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "nodejs.org-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fnodejs.org&size=32",
+      "sizes": [32],
+      "aliases": [
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fnodejs.org&size=48"
+        },
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fnodejs.org&size=64"
+        },
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fnodejs.org&size=128"
+        },
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fnodejs.org&size=256"
+        }
+      ]
+    },
+    {
+      "file": "nodejs.org-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fnodejs.org&size=16",
+      "sizes": [16]
+    }
+  ]
+}

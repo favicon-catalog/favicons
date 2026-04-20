@@ -1,0 +1,73 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T15:27:08Z",
+  "domain": "cj.net",
+  "icons": [
+    {
+      "file": "cj.net-favicon.svg",
+      "origin": "html",
+      "url": "https://cj.net/assets/favicon-wh.svg",
+      "sizes": [114]
+    },
+    {
+      "file": "cj.net-favicon.96.png",
+      "origin": "html",
+      "url": "https://cj.net/assets/favicon-wh-96x96.png",
+      "sizes": [96]
+    },
+    {
+      "file": "cj.net-favicon.64.png",
+      "origin": "html",
+      "url": "https://prd-cdn.cj.net/static/img/meta/favicon.png",
+      "sizes": [64]
+    },
+    {
+      "file": "cj.net-favicon.ico",
+      "origin": "html",
+      "url": "https://cj.net/assets/favicon.ico",
+      "sizes": [64]
+    },
+    {
+      "file": "cj.net-favicon.ico.64.png",
+      "origin": "html",
+      "url": "https://cj.net/assets/favicon.ico",
+      "sizes": [64]
+    },
+    {
+      "file": "cj.net-gstatic.114.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fcj.net&size=128",
+      "sizes": [114],
+      "aliases": [
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fcj.net&size=256"
+        }
+      ]
+    },
+    {
+      "file": "cj.net-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fcj.net&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "cj.net-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fcj.net&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "cj.net-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fcj.net&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "cj.net-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fcj.net&size=16",
+      "sizes": [16]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T15:28:05Z",
+  "domain": "mastercard.com",
+  "icons": [
+    {
+      "file": "mastercard.com-favicon.180.png",
+      "origin": "html",
+      "url": "https://mastercard.com/etc.clientlibs/marts/clientlibs/clientlib-site/resources/icons/mastercard-apple-touch-icon.png",
+      "sizes": [180]
+    },
+    {
+      "file": "mastercard.com-favicon.svg",
+      "origin": "html",
+      "url": "https://mastercard.com/etc.clientlibs/marts/clientlibs/clientlib-site/resources/icons/mastercard-favicon.svg",
+      "sizes": [48]
+    },
+    {
+      "file": "mastercard.com-favicon.ico",
+      "origin": "html",
+      "url": "https://mastercard.com/etc.clientlibs/marts/clientlibs/clientlib-site/resources/icons/mastercard-favicon.ico",
+      "sizes": [32]
+    },
+    {
+      "file": "mastercard.com-favicon.ico.32.png",
+      "origin": "html",
+      "url": "https://mastercard.com/etc.clientlibs/marts/clientlibs/clientlib-site/resources/icons/mastercard-favicon.ico",
+      "sizes": [32]
+    },
+    {
+      "file": "mastercard.com-favicon.b788bd3c.ico",
+      "origin": "root",
+      "url": "https://mastercard.com/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "mastercard.com-favicon.ico.16.png",
+      "origin": "root",
+      "url": "https://mastercard.com/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "mastercard.com-gstatic.180.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fmastercard.com&size=256",
+      "sizes": [180]
+    },
+    {
+      "file": "mastercard.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fmastercard.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "mastercard.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fmastercard.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "mastercard.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fmastercard.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "mastercard.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fmastercard.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "mastercard.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fmastercard.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

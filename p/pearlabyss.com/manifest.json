@@ -1,0 +1,121 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T15:28:42Z",
+  "domain": "pearlabyss.com",
+  "icons": [
+    {
+      "file": "pearlabyss.com-favicon.69b54b2b.ico",
+      "origin": "html",
+      "url": "https://s1.pearlcdn.com/pearlabyss/contents/img/common/favicon256.ico",
+      "sizes": [256]
+    },
+    {
+      "file": "pearlabyss.com-favicon.ico.256.png",
+      "origin": "html",
+      "url": "https://s1.pearlcdn.com/pearlabyss/contents/img/common/favicon256.ico",
+      "sizes": [256]
+    },
+    {
+      "file": "pearlabyss.com-favicon.6eb4c817.ico",
+      "origin": "html",
+      "url": "https://s1.pearlcdn.com/pearlabyss/contents/img/common/favicon64.ico",
+      "sizes": [16, 24, 32, 64]
+    },
+    {
+      "file": "pearlabyss.com-favicon.ico.64.png",
+      "origin": "html",
+      "url": "https://s1.pearlcdn.com/pearlabyss/contents/img/common/favicon64.ico",
+      "sizes": [64]
+    },
+    {
+      "file": "pearlabyss.com-favicon.b35024d2.ico",
+      "origin": "html",
+      "url": "https://s1.pearlcdn.com/pearlabyss/contents/img/common/favicon48.ico",
+      "sizes": [48]
+    },
+    {
+      "file": "pearlabyss.com-favicon.ico.48.png",
+      "origin": "html",
+      "url": "https://s1.pearlcdn.com/pearlabyss/contents/img/common/favicon48.ico",
+      "sizes": [48]
+    },
+    {
+      "file": "pearlabyss.com-favicon.57ecfb49.ico",
+      "origin": "html",
+      "url": "https://s1.pearlcdn.com/pearlabyss/contents/img/common/favicon32.ico",
+      "sizes": [32]
+    },
+    {
+      "file": "pearlabyss.com-favicon.ico.32.6eb4c817.png",
+      "origin": "html",
+      "url": "https://s1.pearlcdn.com/pearlabyss/contents/img/common/favicon64.ico",
+      "sizes": [32]
+    },
+    {
+      "file": "pearlabyss.com-favicon.ico.32.png",
+      "origin": "html",
+      "url": "https://s1.pearlcdn.com/pearlabyss/contents/img/common/favicon32.ico",
+      "sizes": [32]
+    },
+    {
+      "file": "pearlabyss.com-favicon.ico.24.png",
+      "origin": "html",
+      "url": "https://s1.pearlcdn.com/pearlabyss/contents/img/common/favicon64.ico",
+      "sizes": [24]
+    },
+    {
+      "file": "pearlabyss.com-favicon.ico",
+      "origin": "html",
+      "url": "https://s1.pearlcdn.com/pearlabyss/contents/img/common/favicon16.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "pearlabyss.com-favicon.ico.16.6eb4c817.png",
+      "origin": "html",
+      "url": "https://s1.pearlcdn.com/pearlabyss/contents/img/common/favicon64.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "pearlabyss.com-favicon.ico.16.png",
+      "origin": "html",
+      "url": "https://s1.pearlcdn.com/pearlabyss/contents/img/common/favicon16.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "pearlabyss.com-gstatic.256.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fpearlabyss.com&size=256",
+      "sizes": [256]
+    },
+    {
+      "file": "pearlabyss.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fpearlabyss.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "pearlabyss.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fpearlabyss.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "pearlabyss.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fpearlabyss.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "pearlabyss.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fpearlabyss.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "pearlabyss.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fpearlabyss.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

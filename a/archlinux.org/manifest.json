@@ -1,0 +1,61 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T15:26:55Z",
+  "domain": "archlinux.org",
+  "icons": [
+    {
+      "file": "archlinux.org-favicon.144.png",
+      "origin": "html",
+      "url": "https://archlinux.org/static/archlinux_common_style/apple-touch-icon-144x144.png",
+      "sizes": [144]
+    },
+    {
+      "file": "archlinux.org-favicon.114.png",
+      "origin": "html",
+      "url": "https://archlinux.org/static/archlinux_common_style/apple-touch-icon-114x114.png",
+      "sizes": [114]
+    },
+    {
+      "file": "archlinux.org-favicon.72.png",
+      "origin": "html",
+      "url": "https://archlinux.org/static/archlinux_common_style/apple-touch-icon-72x72.png",
+      "sizes": [72]
+    },
+    {
+      "file": "archlinux.org-favicon.57.png",
+      "origin": "html",
+      "url": "https://archlinux.org/static/archlinux_common_style/apple-touch-icon-57x57.png",
+      "sizes": [57]
+    },
+    {
+      "file": "archlinux.org-favicon.16.png",
+      "origin": "root",
+      "url": "https://archlinux.org/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "archlinux.org-gstatic.144.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Farchlinux.org&size=256",
+      "sizes": [144]
+    },
+    {
+      "file": "archlinux.org-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Farchlinux.org&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "archlinux.org-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Farchlinux.org&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "archlinux.org-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Farchlinux.org&size=48",
+      "sizes": [48]
+    }
+  ]
+}

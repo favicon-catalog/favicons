@@ -1,0 +1,145 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T15:28:50Z",
+  "domain": "pmi.com",
+  "icons": [
+    {
+      "file": "pmi.com-favicon.512.png",
+      "origin": "html",
+      "url": "https://pmi.com/etc.clientlibs/pmicom/clientlibs/clientlib-site/resources/icons/apple-icon-512x512.png",
+      "sizes": [512],
+      "aliases": [
+        {
+          "origin": "html",
+          "url": "https://pmi.com/etc.clientlibs/pmicom/clientlibs/clientlib-site/resources/icons/favicon-512x512.png"
+        }
+      ]
+    },
+    {
+      "file": "pmi.com-favicon.192.png",
+      "origin": "html",
+      "url": "https://pmi.com/etc.clientlibs/pmicom/clientlibs/clientlib-site/resources/icons/android-icon-192x192.png",
+      "sizes": [192]
+    },
+    {
+      "file": "pmi.com-favicon.180.png",
+      "origin": "html",
+      "url": "https://pmi.com/etc.clientlibs/pmicom/clientlibs/clientlib-site/resources/icons/apple-icon-180x180.png",
+      "sizes": [180]
+    },
+    {
+      "file": "pmi.com-favicon.152.png",
+      "origin": "html",
+      "url": "https://pmi.com/etc.clientlibs/pmicom/clientlibs/clientlib-site/resources/icons/apple-icon-152x152.png",
+      "sizes": [152]
+    },
+    {
+      "file": "pmi.com-favicon.144.png",
+      "origin": "html",
+      "url": "https://pmi.com/etc.clientlibs/pmicom/clientlibs/clientlib-site/resources/icons/apple-icon-144x144.png",
+      "sizes": [144]
+    },
+    {
+      "file": "pmi.com-favicon.120.png",
+      "origin": "html",
+      "url": "https://pmi.com/etc.clientlibs/pmicom/clientlibs/clientlib-site/resources/icons/apple-icon-120x120.png",
+      "sizes": [120]
+    },
+    {
+      "file": "pmi.com-favicon.114.png",
+      "origin": "html",
+      "url": "https://pmi.com/etc.clientlibs/pmicom/clientlibs/clientlib-site/resources/icons/apple-icon-114x114.png",
+      "sizes": [114]
+    },
+    {
+      "file": "pmi.com-favicon.96.png",
+      "origin": "html",
+      "url": "https://pmi.com/etc.clientlibs/pmicom/clientlibs/clientlib-site/resources/icons/favicon-96x96.png",
+      "sizes": [96]
+    },
+    {
+      "file": "pmi.com-favicon.76.png",
+      "origin": "html",
+      "url": "https://pmi.com/etc.clientlibs/pmicom/clientlibs/clientlib-site/resources/icons/apple-icon-76x76.png",
+      "sizes": [76]
+    },
+    {
+      "file": "pmi.com-favicon.72.png",
+      "origin": "html",
+      "url": "https://pmi.com/etc.clientlibs/pmicom/clientlibs/clientlib-site/resources/icons/apple-icon-72x72.png",
+      "sizes": [72]
+    },
+    {
+      "file": "pmi.com-favicon.60.png",
+      "origin": "html",
+      "url": "https://pmi.com/etc.clientlibs/pmicom/clientlibs/clientlib-site/resources/icons/apple-icon-60x60.png",
+      "sizes": [60]
+    },
+    {
+      "file": "pmi.com-favicon.57.png",
+      "origin": "html",
+      "url": "https://pmi.com/etc.clientlibs/pmicom/clientlibs/clientlib-site/resources/icons/apple-icon-57x57.png",
+      "sizes": [57]
+    },
+    {
+      "file": "pmi.com-favicon.32.png",
+      "origin": "html",
+      "url": "https://pmi.com/etc.clientlibs/pmicom/clientlibs/clientlib-site/resources/icons/favicon-32x32.png",
+      "sizes": [32]
+    },
+    {
+      "file": "pmi.com-favicon.16.png",
+      "origin": "html",
+      "url": "https://pmi.com/etc.clientlibs/pmicom/clientlibs/clientlib-site/resources/icons/favicon-16x16.png",
+      "sizes": [16]
+    },
+    {
+      "file": "pmi.com-favicon.ico",
+      "origin": "html",
+      "url": "https://pmi.com/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "pmi.com-favicon.ico.16.png",
+      "origin": "html",
+      "url": "https://pmi.com/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "pmi.com-gstatic.180.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fpmi.com&size=256",
+      "sizes": [180]
+    },
+    {
+      "file": "pmi.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fpmi.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "pmi.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fpmi.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "pmi.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fpmi.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "pmi.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fpmi.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "pmi.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fpmi.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

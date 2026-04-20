@@ -1,0 +1,151 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T15:28:35Z",
+  "domain": "tv.naver.com",
+  "icons": [
+    {
+      "file": "tv.naver.com-favicon.192.png",
+      "origin": "html",
+      "url": "https://tv.naver.com/apple-icon/android_192x192_xxxhpdi.png",
+      "sizes": [192]
+    },
+    {
+      "file": "tv.naver.com-favicon.180.png",
+      "origin": "html",
+      "url": "https://tv.naver.com/apple-icon/iOS8_180X180_iphone6plus.png",
+      "sizes": [180]
+    },
+    {
+      "file": "tv.naver.com-favicon.167.png",
+      "origin": "html",
+      "url": "https://tv.naver.com/apple-icon/iOS9_167X167_ipadpro.png",
+      "sizes": [167]
+    },
+    {
+      "file": "tv.naver.com-favicon.152.png",
+      "origin": "html",
+      "url": "https://tv.naver.com/apple-icon/iOS7_152X152_ipad_retina.png",
+      "sizes": [152]
+    },
+    {
+      "file": "tv.naver.com-favicon.144.png",
+      "origin": "html",
+      "url": "https://tv.naver.com/apple-icon/android_144x144_xxhpdi.png",
+      "sizes": [144]
+    },
+    {
+      "file": "tv.naver.com-favicon.120.png",
+      "origin": "html",
+      "url": "https://tv.naver.com/apple-icon/iOS7_120X120_iphone.png",
+      "sizes": [120]
+    },
+    {
+      "file": "tv.naver.com-favicon.96.png",
+      "origin": "html",
+      "url": "https://tv.naver.com/apple-icon/android_96x96_xhdpi.png",
+      "sizes": [96]
+    },
+    {
+      "file": "tv.naver.com-favicon.87.png",
+      "origin": "html",
+      "url": "https://tv.naver.com/apple-icon/iOS8_87X87_iphone6plus.png",
+      "sizes": [87]
+    },
+    {
+      "file": "tv.naver.com-favicon.76.png",
+      "origin": "html",
+      "url": "https://tv.naver.com/apple-icon/iOS7_76X76_ipad.png",
+      "sizes": [76]
+    },
+    {
+      "file": "tv.naver.com-favicon.75.png",
+      "origin": "html",
+      "url": "https://tv.naver.com/apple-icon/iOS8_75X75_iphone6plus.png",
+      "sizes": [75]
+    },
+    {
+      "file": "tv.naver.com-favicon.72.png",
+      "origin": "html",
+      "url": "https://tv.naver.com/apple-icon/android_72X72_googleplay.png",
+      "sizes": [72]
+    },
+    {
+      "file": "tv.naver.com-favicon.66.png",
+      "origin": "html",
+      "url": "https://tv.naver.com/apple-icon/iOS8_66X66_iphone6plus.png",
+      "sizes": [66]
+    },
+    {
+      "file": "tv.naver.com-favicon.57.png",
+      "origin": "html",
+      "url": "https://tv.naver.com/apple-icon/iOS6_57X57_iphone3.png",
+      "sizes": [57]
+    },
+    {
+      "file": "tv.naver.com-favicon.48.png",
+      "origin": "html",
+      "url": "https://tv.naver.com/apple-icon/android_48X48_HVGA.png",
+      "sizes": [48]
+    },
+    {
+      "file": "tv.naver.com-favicon.36.png",
+      "origin": "html",
+      "url": "https://tv.naver.com/apple-icon/android_36X36_LVGA.png",
+      "sizes": [36]
+    },
+    {
+      "file": "tv.naver.com-favicon.ico",
+      "origin": "root",
+      "url": "https://tv.naver.com/favicon.ico",
+      "sizes": [16, 32]
+    },
+    {
+      "file": "tv.naver.com-favicon.ico.32.png",
+      "origin": "root",
+      "url": "https://tv.naver.com/favicon.ico",
+      "sizes": [32]
+    },
+    {
+      "file": "tv.naver.com-favicon.ico.16.png",
+      "origin": "root",
+      "url": "https://tv.naver.com/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "tv.naver.com-gstatic.96.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ftv.naver.com&size=128",
+      "sizes": [96],
+      "aliases": [
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ftv.naver.com&size=256"
+        }
+      ]
+    },
+    {
+      "file": "tv.naver.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ftv.naver.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "tv.naver.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ftv.naver.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "tv.naver.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ftv.naver.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "tv.naver.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ftv.naver.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

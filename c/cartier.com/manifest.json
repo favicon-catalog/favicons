@@ -1,0 +1,73 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T15:27:18Z",
+  "domain": "cartier.com",
+  "icons": [
+    {
+      "file": "cartier.com-favicon.196.png",
+      "origin": "html",
+      "url": "https://cartier.com/on/demandware.static/Sites-CartierUS-Site/-/default/dwd232bbf5/images/favicons/favicon-196x196.png",
+      "sizes": [196]
+    },
+    {
+      "file": "cartier.com-favicon.128.png",
+      "origin": "html",
+      "url": "https://cartier.com/on/demandware.static/Sites-CartierUS-Site/-/default/dwae953766/images/favicons/favicon-128.png",
+      "sizes": [128]
+    },
+    {
+      "file": "cartier.com-favicon.96.png",
+      "origin": "html",
+      "url": "https://cartier.com/on/demandware.static/Sites-CartierUS-Site/-/default/dw12252324/images/favicons/favicon-96x96.png",
+      "sizes": [96]
+    },
+    {
+      "file": "cartier.com-favicon.32.png",
+      "origin": "html",
+      "url": "https://cartier.com/on/demandware.static/Sites-CartierUS-Site/-/default/dwf6f4c735/images/favicons/favicon-32x32.png",
+      "sizes": [32]
+    },
+    {
+      "file": "cartier.com-favicon.16.png",
+      "origin": "html",
+      "url": "https://cartier.com/on/demandware.static/Sites-CartierUS-Site/-/default/dw39c0580f/images/favicons/favicon-16x16.png",
+      "sizes": [16]
+    },
+    {
+      "file": "cartier.com-gstatic.196.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fcartier.com&size=256",
+      "sizes": [196]
+    },
+    {
+      "file": "cartier.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fcartier.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "cartier.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fcartier.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "cartier.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fcartier.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "cartier.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fcartier.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "cartier.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fcartier.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

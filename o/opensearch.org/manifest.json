@@ -1,0 +1,67 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T15:28:34Z",
+  "domain": "opensearch.org",
+  "icons": [
+    {
+      "file": "opensearch.org-favicon.192.webp",
+      "origin": "html",
+      "url": "https://opensearch.org/wp-content/uploads/2024/11/cropped-favicon-192x192.webp",
+      "sizes": [192]
+    },
+    {
+      "file": "opensearch.org-favicon.180.webp",
+      "origin": "html",
+      "url": "https://opensearch.org/wp-content/uploads/2024/11/cropped-favicon-180x180.webp",
+      "sizes": [180]
+    },
+    {
+      "file": "opensearch.org-favicon.32.webp",
+      "origin": "html",
+      "url": "https://opensearch.org/wp-content/uploads/2024/11/cropped-favicon-32x32.webp",
+      "sizes": [32],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://opensearch.org/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "opensearch.org-gstatic.192.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fopensearch.org&size=256",
+      "sizes": [192]
+    },
+    {
+      "file": "opensearch.org-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fopensearch.org&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "opensearch.org-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fopensearch.org&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "opensearch.org-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fopensearch.org&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "opensearch.org-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fopensearch.org&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "opensearch.org-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fopensearch.org&size=16",
+      "sizes": [16]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T15:27:48Z",
+  "domain": "jpmorganchase.com",
+  "icons": [
+    {
+      "file": "jpmorganchase.com-favicon.152.png",
+      "origin": "html",
+      "url": "https://jpmorganchase.com/etc.clientlibs/cws/clientlibs/clientlib-base/resources/jpmc/images/jpmc-favicon-152.png",
+      "sizes": [152]
+    },
+    {
+      "file": "jpmorganchase.com-favicon.120.png",
+      "origin": "html",
+      "url": "https://jpmorganchase.com/etc.clientlibs/cws/clientlibs/clientlib-base/resources/jpmc/images/jpmc-favicon-120.png",
+      "sizes": [120]
+    },
+    {
+      "file": "jpmorganchase.com-favicon.76.png",
+      "origin": "html",
+      "url": "https://jpmorganchase.com/etc.clientlibs/cws/clientlibs/clientlib-base/resources/jpmc/images/jpmc-favicon-76.png",
+      "sizes": [76]
+    },
+    {
+      "file": "jpmorganchase.com-favicon.57.png",
+      "origin": "html",
+      "url": "https://jpmorganchase.com/etc.clientlibs/cws/clientlibs/clientlib-base/resources/jpmc/images/jpmc-favicon-57.png",
+      "sizes": [57]
+    },
+    {
+      "file": "jpmorganchase.com-favicon.16.png",
+      "origin": "html",
+      "url": "https://jpmorganchase.com/etc.clientlibs/cws/clientlibs/clientlib-base/resources/jpmc/images/jpmc-favicon.ico",
+      "sizes": [16],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://jpmorganchase.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "jpmorganchase.com-gstatic.152.jpg",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fjpmorganchase.com&size=256",
+      "sizes": [152]
+    },
+    {
+      "file": "jpmorganchase.com-gstatic.128.jpg",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fjpmorganchase.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "jpmorganchase.com-gstatic.64.jpg",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fjpmorganchase.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "jpmorganchase.com-gstatic.48.jpg",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fjpmorganchase.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "jpmorganchase.com-gstatic.32.jpg",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fjpmorganchase.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "jpmorganchase.com-gstatic.16.jpg",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fjpmorganchase.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

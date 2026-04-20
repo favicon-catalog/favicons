@@ -1,0 +1,97 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T15:27:45Z",
+  "domain": "jetbrains.com",
+  "icons": [
+    {
+      "file": "jetbrains.com-favicon.512.png",
+      "origin": "html",
+      "url": "https://jetbrains.com/icon-512.png?r=1234",
+      "sizes": [512]
+    },
+    {
+      "file": "jetbrains.com-favicon.180.png",
+      "origin": "html",
+      "url": "https://jetbrains.com/apple-touch-icon.png?r=1234",
+      "sizes": [180]
+    },
+    {
+      "file": "jetbrains.com-favicon.ico",
+      "origin": "html",
+      "url": "https://jetbrains.com/favicon.ico?r=1234",
+      "sizes": [32, 64],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://jetbrains.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "jetbrains.com-favicon.ico.64.png",
+      "origin": "html",
+      "url": "https://jetbrains.com/favicon.ico?r=1234",
+      "sizes": [64],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://jetbrains.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "jetbrains.com-favicon.ico.32.png",
+      "origin": "html",
+      "url": "https://jetbrains.com/favicon.ico?r=1234",
+      "sizes": [32],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://jetbrains.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "jetbrains.com-favicon.svg",
+      "origin": "html",
+      "url": "https://jetbrains.com/icon.svg?r=1234",
+      "sizes": [32]
+    },
+    {
+      "file": "jetbrains.com-gstatic.256.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fjetbrains.com&size=256",
+      "sizes": [256]
+    },
+    {
+      "file": "jetbrains.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fjetbrains.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "jetbrains.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fjetbrains.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "jetbrains.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fjetbrains.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "jetbrains.com-gstatic.32.jpg",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fjetbrains.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "jetbrains.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fjetbrains.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

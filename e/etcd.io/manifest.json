@@ -1,0 +1,103 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T15:27:24Z",
+  "domain": "etcd.io",
+  "icons": [
+    {
+      "file": "etcd.io-favicon.192.png",
+      "origin": "html",
+      "url": "https://etcd.io/favicons/android-192x192.png",
+      "sizes": [192]
+    },
+    {
+      "file": "etcd.io-favicon.180.png",
+      "origin": "html",
+      "url": "https://etcd.io/favicons/apple-touch-icon-180x180.png",
+      "sizes": [180]
+    },
+    {
+      "file": "etcd.io-favicon.144.png",
+      "origin": "html",
+      "url": "https://etcd.io/favicons/android-144x144.png",
+      "sizes": [144]
+    },
+    {
+      "file": "etcd.io-favicon.96.png",
+      "origin": "html",
+      "url": "https://etcd.io/favicons/android-96x96.png",
+      "sizes": [96]
+    },
+    {
+      "file": "etcd.io-favicon.72.png",
+      "origin": "html",
+      "url": "https://etcd.io/favicons/android-72x72.png",
+      "sizes": [72]
+    },
+    {
+      "file": "etcd.io-favicon.48.png",
+      "origin": "html",
+      "url": "https://etcd.io/favicons/android-48x48.png",
+      "sizes": [48]
+    },
+    {
+      "file": "etcd.io-favicon.36.png",
+      "origin": "html",
+      "url": "https://etcd.io/favicons/android-36x36.png",
+      "sizes": [36]
+    },
+    {
+      "file": "etcd.io-favicon.ico",
+      "origin": "html",
+      "url": "https://etcd.io/favicons/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "etcd.io-favicon.ico.16.png",
+      "origin": "html",
+      "url": "https://etcd.io/favicons/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "etcd.io-favicon.2084.png",
+      "origin": "root",
+      "url": "https://etcd.io/favicon.png",
+      "sizes": [2084]
+    },
+    {
+      "file": "etcd.io-gstatic.192.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fetcd.io&size=256",
+      "sizes": [192]
+    },
+    {
+      "file": "etcd.io-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fetcd.io&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "etcd.io-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fetcd.io&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "etcd.io-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fetcd.io&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "etcd.io-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fetcd.io&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "etcd.io-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fetcd.io&size=16",
+      "sizes": [16]
+    }
+  ]
+}

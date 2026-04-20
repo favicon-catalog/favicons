@@ -1,0 +1,73 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T15:29:15Z",
+  "domain": "ubuntu.com",
+  "icons": [
+    {
+      "file": "ubuntu.com-favicon.180.png",
+      "origin": "html",
+      "url": "https://assets.ubuntu.com/v1/f38b9c7e-COF%20apple-touch-icon.png",
+      "sizes": [180]
+    },
+    {
+      "file": "ubuntu.com-favicon.48.png",
+      "origin": "html",
+      "url": "https://ubuntu.com/static/favicons/COF-favicon-48x48.png?v=fa3c63f",
+      "sizes": [48]
+    },
+    {
+      "file": "ubuntu.com-favicon.32.png",
+      "origin": "html",
+      "url": "https://assets.ubuntu.com/v1/be7e4cc6-COF-favicon-32x32.png",
+      "sizes": [32]
+    },
+    {
+      "file": "ubuntu.com-favicon.16.png",
+      "origin": "html",
+      "url": "https://assets.ubuntu.com/v1/16c27f81-COF%20favicon-16x16.png",
+      "sizes": [16]
+    },
+    {
+      "file": "ubuntu.com-favicon.64.png",
+      "origin": "root",
+      "url": "https://ubuntu.com/favicon.png",
+      "sizes": [64]
+    },
+    {
+      "file": "ubuntu.com-gstatic.180.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fubuntu.com&size=256",
+      "sizes": [180]
+    },
+    {
+      "file": "ubuntu.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fubuntu.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "ubuntu.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fubuntu.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "ubuntu.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fubuntu.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "ubuntu.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fubuntu.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "ubuntu.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fubuntu.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

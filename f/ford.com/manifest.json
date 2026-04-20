@@ -1,0 +1,61 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T15:27:33Z",
+  "domain": "ford.com",
+  "icons": [
+    {
+      "file": "ford.com-favicon.180.jpg",
+      "origin": "html",
+      "url": "https://ford.com/acslibs/content/dam/na/ford/en_us/img/shared/favicon-180x180.png",
+      "sizes": [180],
+      "aliases": [
+        {
+          "origin": "html",
+          "url": "https://ford.com/acslibs/content/dam/na/ford/en_us/img/shared/shortcut-icon-180px.png"
+        }
+      ]
+    },
+    {
+      "file": "ford.com-favicon.48.jpg",
+      "origin": "html",
+      "url": "https://ford.com/acslibs/content/dam/na/ford/en_us/img/shared/favicon.png",
+      "sizes": [48]
+    },
+    {
+      "file": "ford.com-gstatic.180.jpg",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fford.com&size=256",
+      "sizes": [180]
+    },
+    {
+      "file": "ford.com-gstatic.128.jpg",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fford.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "ford.com-gstatic.64.jpg",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fford.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "ford.com-gstatic.48.jpg",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fford.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "ford.com-gstatic.32.jpg",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fford.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "ford.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fford.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T15:27:32Z",
+  "domain": "foxcorporation.com",
+  "icons": [
+    {
+      "file": "foxcorporation.com-favicon.svg",
+      "origin": "html",
+      "url": "https://www.foxcorporation.com/wp-content/themes/foxcorporation/images/icon/safari-pinned-tab.svg",
+      "sizes": [2000]
+    },
+    {
+      "file": "foxcorporation.com-favicon.180.png",
+      "origin": "html",
+      "url": "https://www.foxcorporation.com/wp-content/themes/foxcorporation/images/icon/apple-touch-icon.png",
+      "sizes": [180]
+    },
+    {
+      "file": "foxcorporation.com-favicon.32.png",
+      "origin": "html",
+      "url": "https://www.foxcorporation.com/wp-content/themes/foxcorporation/images/icon/favicon-32x32.png",
+      "sizes": [32]
+    },
+    {
+      "file": "foxcorporation.com-favicon.16.png",
+      "origin": "html",
+      "url": "https://www.foxcorporation.com/wp-content/themes/foxcorporation/images/icon/favicon-16x16.png",
+      "sizes": [16]
+    },
+    {
+      "file": "foxcorporation.com-favicon.80.png",
+      "origin": "root",
+      "url": "https://foxcorporation.com/favicon.ico",
+      "sizes": [80]
+    },
+    {
+      "file": "foxcorporation.com-gstatic.180.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ffoxcorporation.com&size=256",
+      "sizes": [180]
+    },
+    {
+      "file": "foxcorporation.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ffoxcorporation.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "foxcorporation.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ffoxcorporation.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "foxcorporation.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ffoxcorporation.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "foxcorporation.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ffoxcorporation.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "foxcorporation.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ffoxcorporation.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

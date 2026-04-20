@@ -1,0 +1,121 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T15:28:04Z",
+  "domain": "line.me",
+  "icons": [
+    {
+      "file": "line.me-favicon.250.png",
+      "origin": "html",
+      "url": "https://line.me/static/img/favicon.ico",
+      "sizes": [250],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://line.me/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "line.me-favicon.180.png",
+      "origin": "html",
+      "url": "https://line.me/static/img/apple-touch-icon-180x180.png",
+      "sizes": [180]
+    },
+    {
+      "file": "line.me-favicon.152.png",
+      "origin": "html",
+      "url": "https://line.me/static/img/apple-touch-icon-152x152.png",
+      "sizes": [152]
+    },
+    {
+      "file": "line.me-favicon.144.png",
+      "origin": "html",
+      "url": "https://line.me/static/img/apple-touch-icon-144x144.png",
+      "sizes": [144]
+    },
+    {
+      "file": "line.me-favicon.120.png",
+      "origin": "html",
+      "url": "https://line.me/static/img/apple-touch-icon-120x120.png",
+      "sizes": [120]
+    },
+    {
+      "file": "line.me-favicon.114.png",
+      "origin": "html",
+      "url": "https://line.me/static/img/apple-touch-icon-114x114.png",
+      "sizes": [114]
+    },
+    {
+      "file": "line.me-favicon.76.png",
+      "origin": "html",
+      "url": "https://line.me/static/img/apple-touch-icon-76x76.png",
+      "sizes": [76]
+    },
+    {
+      "file": "line.me-favicon.72.png",
+      "origin": "html",
+      "url": "https://line.me/static/img/apple-touch-icon-72x72.png",
+      "sizes": [72]
+    },
+    {
+      "file": "line.me-favicon.60.png",
+      "origin": "html",
+      "url": "https://line.me/static/img/apple-touch-icon-60x60.png",
+      "sizes": [60]
+    },
+    {
+      "file": "line.me-favicon.57.png",
+      "origin": "html",
+      "url": "https://line.me/static/img/apple-touch-icon-57x57.png",
+      "sizes": [57]
+    },
+    {
+      "file": "line.me-favicon.32.png",
+      "origin": "html",
+      "url": "https://line.me/static/img/favicon-32x32.png",
+      "sizes": [32]
+    },
+    {
+      "file": "line.me-favicon.16.png",
+      "origin": "html",
+      "url": "https://line.me/static/img/favicon-16x16.png",
+      "sizes": [16]
+    },
+    {
+      "file": "line.me-gstatic.180.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fline.me&size=256",
+      "sizes": [180]
+    },
+    {
+      "file": "line.me-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fline.me&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "line.me-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fline.me&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "line.me-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fline.me&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "line.me-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fline.me&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "line.me-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fline.me&size=16",
+      "sizes": [16]
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T15:29:08Z",
+  "domain": "threads.com",
+  "icons": [
+    {
+      "file": "threads.com-favicon.256.webp",
+      "origin": "html",
+      "url": "https://static.cdninstagram.com/rsrc.php/yc/r/yZx5Rl1g7WZ.webp",
+      "sizes": [256]
+    },
+    {
+      "file": "threads.com-favicon.180.webp",
+      "origin": "html",
+      "url": "https://static.cdninstagram.com/rsrc.php/yL/r/fn0k8lNUZ1y.webp",
+      "sizes": [180]
+    },
+    {
+      "file": "threads.com-favicon.152.webp",
+      "origin": "html",
+      "url": "https://static.cdninstagram.com/rsrc.php/yV/r/onrYgV8_zQr.webp",
+      "sizes": [152]
+    },
+    {
+      "file": "threads.com-favicon.144.webp",
+      "origin": "html",
+      "url": "https://static.cdninstagram.com/rsrc.php/y_/r/6jImFMpV3-K.webp",
+      "sizes": [144]
+    },
+    {
+      "file": "threads.com-favicon.120.webp",
+      "origin": "html",
+      "url": "https://static.cdninstagram.com/rsrc.php/yj/r/K0BW7YvYdmo.webp",
+      "sizes": [120]
+    },
+    {
+      "file": "threads.com-favicon.72.webp",
+      "origin": "html",
+      "url": "https://static.cdninstagram.com/rsrc.php/yw/r/GzxWfgRcaQO.webp",
+      "sizes": [72]
+    },
+    {
+      "file": "threads.com-favicon.57.webp",
+      "origin": "html",
+      "url": "https://static.cdninstagram.com/rsrc.php/y1/r/9SPDBMWFAmc.webp",
+      "sizes": [57]
+    },
+    {
+      "file": "threads.com-favicon.ico",
+      "origin": "html",
+      "url": "https://static.cdninstagram.com/rsrc.php/ye/r/lEu8iVizmNW.ico",
+      "sizes": [16, 32, 48],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://threads.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "threads.com-favicon.ico.48.png",
+      "origin": "html",
+      "url": "https://static.cdninstagram.com/rsrc.php/ye/r/lEu8iVizmNW.ico",
+      "sizes": [48],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://threads.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "threads.com-favicon.ico.32.png",
+      "origin": "html",
+      "url": "https://static.cdninstagram.com/rsrc.php/ye/r/lEu8iVizmNW.ico",
+      "sizes": [32],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://threads.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "threads.com-favicon.ico.16.png",
+      "origin": "html",
+      "url": "https://static.cdninstagram.com/rsrc.php/ye/r/lEu8iVizmNW.ico",
+      "sizes": [16],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://threads.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "threads.com-gstatic.256.jpg",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fthreads.com&size=256",
+      "sizes": [256]
+    },
+    {
+      "file": "threads.com-gstatic.128.jpg",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fthreads.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "threads.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fthreads.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "threads.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fthreads.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "threads.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fthreads.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "threads.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fthreads.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

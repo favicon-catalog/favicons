@@ -1,0 +1,55 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T15:28:53Z",
+  "domain": "similarweb.com",
+  "icons": [
+    {
+      "file": "similarweb.com-favicon.180.png",
+      "origin": "html",
+      "url": "https://static-us-east-1.similarcdn.com/build/20260420.master.294aaa6/dist/scripts/lite-app/assets/bf0781432ef84ce62b85.png",
+      "sizes": [180]
+    },
+    {
+      "file": "similarweb.com-favicon.32.png",
+      "origin": "html",
+      "url": "https://similarweb.com/favicon.ico",
+      "sizes": [32]
+    },
+    {
+      "file": "similarweb.com-gstatic.180.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fsimilarweb.com&size=256",
+      "sizes": [180]
+    },
+    {
+      "file": "similarweb.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fsimilarweb.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "similarweb.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fsimilarweb.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "similarweb.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fsimilarweb.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "similarweb.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fsimilarweb.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "similarweb.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fsimilarweb.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

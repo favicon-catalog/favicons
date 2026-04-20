@@ -1,0 +1,115 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T15:27:27Z",
+  "domain": "fifa.com",
+  "icons": [
+    {
+      "file": "fifa.com-favicon.svg",
+      "origin": "html",
+      "url": "https://fifa.com/safari-pinned-tab.svg?v=4742461cc2230e145036db1ff4c0ec90",
+      "sizes": [512]
+    },
+    {
+      "file": "fifa.com-favicon.180.png",
+      "origin": "html",
+      "url": "https://fifa.com/apple-touch-icon.png?v=a087933e3cf148cb71a96095c8aa2dac",
+      "sizes": [180]
+    },
+    {
+      "file": "fifa.com-favicon.ico",
+      "origin": "html",
+      "url": "https://fifa.com/favicon.ico?v=4c4914f90c578869e7375b03cf029202",
+      "sizes": [16, 32, 48],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://fifa.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "fifa.com-favicon.ico.48.png",
+      "origin": "html",
+      "url": "https://fifa.com/favicon.ico?v=4c4914f90c578869e7375b03cf029202",
+      "sizes": [48],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://fifa.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "fifa.com-favicon.32.png",
+      "origin": "html",
+      "url": "https://fifa.com/favicon-32x32.png?v=1ea068c804e8ba88b84f6e9598e3172d",
+      "sizes": [32]
+    },
+    {
+      "file": "fifa.com-favicon.ico.32.png",
+      "origin": "html",
+      "url": "https://fifa.com/favicon.ico?v=4c4914f90c578869e7375b03cf029202",
+      "sizes": [32],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://fifa.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "fifa.com-favicon.16.png",
+      "origin": "html",
+      "url": "https://fifa.com/favicon-16x16.png?v=7ee355e68b687435c3e5f74e2e831325",
+      "sizes": [16]
+    },
+    {
+      "file": "fifa.com-favicon.ico.16.png",
+      "origin": "html",
+      "url": "https://fifa.com/favicon.ico?v=4c4914f90c578869e7375b03cf029202",
+      "sizes": [16],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://fifa.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "fifa.com-gstatic.180.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ffifa.com&size=256",
+      "sizes": [180]
+    },
+    {
+      "file": "fifa.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ffifa.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "fifa.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ffifa.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "fifa.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ffifa.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "fifa.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ffifa.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "fifa.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ffifa.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

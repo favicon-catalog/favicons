@@ -1,0 +1,55 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T15:27:36Z",
+  "domain": "gemini.google.com",
+  "icons": [
+    {
+      "file": "gemini.google.com-favicon.512.png",
+      "origin": "html",
+      "url": "https://www.gstatic.com/lamda/images/gemini_sparkle_4g_512_lt_f94943af3be039176192d.png",
+      "sizes": [512]
+    },
+    {
+      "file": "gemini.google.com-favicon.svg",
+      "origin": "html",
+      "url": "https://www.gstatic.com/lamda/images/gemini_sparkle_aurora_33f86dc0c0257da337c63.svg",
+      "sizes": [192]
+    },
+    {
+      "file": "gemini.google.com-gstatic.256.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fgemini.google.com&size=256",
+      "sizes": [256]
+    },
+    {
+      "file": "gemini.google.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fgemini.google.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "gemini.google.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fgemini.google.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "gemini.google.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fgemini.google.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "gemini.google.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fgemini.google.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "gemini.google.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fgemini.google.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

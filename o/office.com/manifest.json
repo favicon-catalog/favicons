@@ -1,0 +1,51 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T15:28:31Z",
+  "domain": "office.com",
+  "icons": [
+    {
+      "file": "office.com-favicon.ico",
+      "origin": "html",
+      "url": "https://res.cdn.office.net/officehub/images/content/images/favicon_copilot-4370172aa6.ico",
+      "sizes": [48]
+    },
+    {
+      "file": "office.com-favicon.ico.48.png",
+      "origin": "html",
+      "url": "https://res.cdn.office.net/officehub/images/content/images/favicon_copilot-4370172aa6.ico",
+      "sizes": [48]
+    },
+    {
+      "file": "office.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Foffice.com&size=48",
+      "sizes": [48],
+      "aliases": [
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Foffice.com&size=64"
+        },
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Foffice.com&size=128"
+        },
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Foffice.com&size=256"
+        }
+      ]
+    },
+    {
+      "file": "office.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Foffice.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "office.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Foffice.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

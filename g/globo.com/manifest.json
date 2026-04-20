@@ -1,0 +1,91 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T15:27:41Z",
+  "domain": "globo.com",
+  "icons": [
+    {
+      "file": "globo.com-favicon.192.png",
+      "origin": "html",
+      "url": "https://s2-home-globo.glbimg.com/xmG336eFwj2EHo7Ei-N_2Tm_b0s=/192x192/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_9de6fd454d9849c8bee5b63069fbb074/internal_photos/bs/2022/1/9/3otXqRQnKU2P97PTBoMw/logo-1024.png",
+      "sizes": [192]
+    },
+    {
+      "file": "globo.com-favicon.114.png",
+      "origin": "html",
+      "url": "https://s2-home-globo.glbimg.com/PEOwVWl6xRD8I_sO0mJFg2WBBhE=/114x114/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_9de6fd454d9849c8bee5b63069fbb074/internal_photos/bs/2022/1/9/3otXqRQnKU2P97PTBoMw/logo-1024.png",
+      "sizes": [114]
+    },
+    {
+      "file": "globo.com-favicon.72.png",
+      "origin": "html",
+      "url": "https://s2-home-globo.glbimg.com/IWyuEOMJBhgB0DI5gl8qQoNpg9s=/72x72/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_9de6fd454d9849c8bee5b63069fbb074/internal_photos/bs/2022/1/9/3otXqRQnKU2P97PTBoMw/logo-1024.png",
+      "sizes": [72]
+    },
+    {
+      "file": "globo.com-favicon.57.png",
+      "origin": "html",
+      "url": "https://s2-home-globo.glbimg.com/dtOTO5FHz377XlrNVFqxdLbHSjM=/57x57/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_9de6fd454d9849c8bee5b63069fbb074/internal_photos/bs/2022/1/9/3otXqRQnKU2P97PTBoMw/logo-1024.png",
+      "sizes": [57]
+    },
+    {
+      "file": "globo.com-favicon.32.png",
+      "origin": "html",
+      "url": "https://s2-home-globo.glbimg.com/bPA252Z8GNzT17zZGDqIV3zZ5rg=/32x32/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_9de6fd454d9849c8bee5b63069fbb074/internal_photos/bs/2022/1/9/3otXqRQnKU2P97PTBoMw/logo-1024.png",
+      "sizes": [32]
+    },
+    {
+      "file": "globo.com-favicon.16.png",
+      "origin": "html",
+      "url": "https://s2-home-globo.glbimg.com/e7K-6j_YtJg4y47_wxZImqA_2qQ=/16x16/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_9de6fd454d9849c8bee5b63069fbb074/internal_photos/bs/2022/1/9/3otXqRQnKU2P97PTBoMw/logo-1024.png",
+      "sizes": [16]
+    },
+    {
+      "file": "globo.com-favicon.ico",
+      "origin": "root",
+      "url": "https://globo.com/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "globo.com-favicon.ico.16.png",
+      "origin": "root",
+      "url": "https://globo.com/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "globo.com-gstatic.192.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fglobo.com&size=256",
+      "sizes": [192]
+    },
+    {
+      "file": "globo.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fglobo.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "globo.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fglobo.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "globo.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fglobo.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "globo.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fglobo.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "globo.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fglobo.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T15:26:50Z",
+  "domain": "support.apple.com",
+  "icons": [
+    {
+      "file": "support.apple.com-favicon.ico",
+      "origin": "root",
+      "url": "https://support.apple.com/favicon.ico",
+      "sizes": [16, 32, 64]
+    },
+    {
+      "file": "support.apple.com-favicon.ico.64.png",
+      "origin": "root",
+      "url": "https://support.apple.com/favicon.ico",
+      "sizes": [64]
+    },
+    {
+      "file": "support.apple.com-favicon.ico.32.png",
+      "origin": "root",
+      "url": "https://support.apple.com/favicon.ico",
+      "sizes": [32]
+    },
+    {
+      "file": "support.apple.com-favicon.ico.16.png",
+      "origin": "root",
+      "url": "https://support.apple.com/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "support.apple.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fsupport.apple.com&size=64",
+      "sizes": [64],
+      "aliases": [
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fsupport.apple.com&size=128"
+        },
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fsupport.apple.com&size=256"
+        }
+      ]
+    },
+    {
+      "file": "support.apple.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fsupport.apple.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "support.apple.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fsupport.apple.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "support.apple.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fsupport.apple.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

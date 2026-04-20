@@ -1,0 +1,67 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T15:29:21Z",
+  "domain": "vk.com",
+  "icons": [
+    {
+      "file": "vk.com-favicon.512.png",
+      "origin": "html",
+      "url": "https://vk.com/images/icons/pwa/apple/default.png?15",
+      "sizes": [512]
+    },
+    {
+      "file": "vk.com-favicon.256.png",
+      "origin": "html",
+      "url": "https://vk.com/images/icons/favicons/fav_logo.ico?10",
+      "sizes": [256],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://vk.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "vk.com-favicon.32.png",
+      "origin": "html",
+      "url": "https://vk.com/images/icons/pwa/favicon_32.png?12",
+      "sizes": [32]
+    },
+    {
+      "file": "vk.com-gstatic.256.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fvk.com&size=256",
+      "sizes": [256]
+    },
+    {
+      "file": "vk.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fvk.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "vk.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fvk.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "vk.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fvk.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "vk.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fvk.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "vk.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fvk.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

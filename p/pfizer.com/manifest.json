@@ -1,0 +1,73 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T15:28:39Z",
+  "domain": "pfizer.com",
+  "icons": [
+    {
+      "file": "pfizer.com-favicon.svg",
+      "origin": "html",
+      "url": "https://pfizer.com/profiles/pfecpfizercomus_profile/themes/pfecpfizercomus/favicons/safari-pinned-tab.svg",
+      "sizes": [700]
+    },
+    {
+      "file": "pfizer.com-favicon.180.png",
+      "origin": "html",
+      "url": "https://pfizer.com/profiles/pfecpfizercomus_profile/themes/pfecpfizercomus/favicons/apple-touch-icon.png",
+      "sizes": [180]
+    },
+    {
+      "file": "pfizer.com-favicon.32.png",
+      "origin": "html",
+      "url": "https://pfizer.com/profiles/pfecpfizercomus_profile/themes/pfecpfizercomus/favicons/favicon-32x32.png",
+      "sizes": [32]
+    },
+    {
+      "file": "pfizer.com-favicon.16.166781c2.png",
+      "origin": "html",
+      "url": "https://www.pfizer.com/sites/default/files/custom-favicon/favicon.ico.png",
+      "sizes": [16]
+    },
+    {
+      "file": "pfizer.com-favicon.16.png",
+      "origin": "html",
+      "url": "https://pfizer.com/profiles/pfecpfizercomus_profile/themes/pfecpfizercomus/favicons/favicon-16x16.png",
+      "sizes": [16]
+    },
+    {
+      "file": "pfizer.com-gstatic.180.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fpfizer.com&size=256",
+      "sizes": [180]
+    },
+    {
+      "file": "pfizer.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fpfizer.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "pfizer.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fpfizer.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "pfizer.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fpfizer.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "pfizer.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fpfizer.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "pfizer.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fpfizer.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

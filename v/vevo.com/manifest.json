@@ -1,0 +1,75 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T15:29:18Z",
+  "domain": "vevo.com",
+  "icons": [
+    {
+      "file": "vevo.com-favicon.192.png",
+      "origin": "html",
+      "url": "https://static.wixstatic.com/media/08392a_787e7672e8ad418f9c09aa5e0d327932%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/08392a_787e7672e8ad418f9c09aa5e0d327932%7Emv2.png",
+      "sizes": [192],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://vevo.com/favicon.png"
+        },
+        {
+          "origin": "root",
+          "url": "https://vevo.com/favicon.ico"
+        },
+        {
+          "origin": "root",
+          "url": "https://vevo.com/favicon.svg"
+        }
+      ]
+    },
+    {
+      "file": "vevo.com-favicon.180.png",
+      "origin": "html",
+      "url": "https://static.wixstatic.com/media/08392a_787e7672e8ad418f9c09aa5e0d327932%7Emv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/08392a_787e7672e8ad418f9c09aa5e0d327932%7Emv2.png",
+      "sizes": [180]
+    },
+    {
+      "file": "vevo.com-favicon.32.png",
+      "origin": "html",
+      "url": "https://static.wixstatic.com/media/08392a_787e7672e8ad418f9c09aa5e0d327932%7Emv2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/08392a_787e7672e8ad418f9c09aa5e0d327932%7Emv2.png",
+      "sizes": [32]
+    },
+    {
+      "file": "vevo.com-gstatic.192.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fvevo.com&size=256",
+      "sizes": [192]
+    },
+    {
+      "file": "vevo.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fvevo.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "vevo.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fvevo.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "vevo.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fvevo.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "vevo.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fvevo.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "vevo.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fvevo.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

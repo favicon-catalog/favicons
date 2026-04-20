@@ -1,0 +1,97 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T15:27:20Z",
+  "domain": "dior.com",
+  "icons": [
+    {
+      "file": "dior.com-favicon.180.png",
+      "origin": "html",
+      "url": "https://dior.com/static/fashion/favicon/apple-touch-iconJWA.png",
+      "sizes": [180]
+    },
+    {
+      "file": "dior.com-favicon.ico",
+      "origin": "html",
+      "url": "https://dior.com/static/fashion/favicon/faviconJWA.ico",
+      "sizes": [16, 32, 48]
+    },
+    {
+      "file": "dior.com-favicon.ico.48.png",
+      "origin": "html",
+      "url": "https://dior.com/static/fashion/favicon/faviconJWA.ico",
+      "sizes": [48]
+    },
+    {
+      "file": "dior.com-favicon.ico.32.png",
+      "origin": "html",
+      "url": "https://dior.com/static/fashion/favicon/faviconJWA.ico",
+      "sizes": [32]
+    },
+    {
+      "file": "dior.com-favicon.ico.16.png",
+      "origin": "html",
+      "url": "https://dior.com/static/fashion/favicon/faviconJWA.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "dior.com-favicon.ec4869ed.ico",
+      "origin": "root",
+      "url": "https://dior.com/favicon.ico",
+      "sizes": [16, 32, 48]
+    },
+    {
+      "file": "dior.com-favicon.ico.48.ec4869ed.png",
+      "origin": "root",
+      "url": "https://dior.com/favicon.ico",
+      "sizes": [48]
+    },
+    {
+      "file": "dior.com-favicon.ico.32.ec4869ed.png",
+      "origin": "root",
+      "url": "https://dior.com/favicon.ico",
+      "sizes": [32]
+    },
+    {
+      "file": "dior.com-favicon.ico.16.ec4869ed.png",
+      "origin": "root",
+      "url": "https://dior.com/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "dior.com-gstatic.180.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdior.com&size=256",
+      "sizes": [180]
+    },
+    {
+      "file": "dior.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdior.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "dior.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdior.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "dior.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdior.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "dior.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdior.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "dior.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdior.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

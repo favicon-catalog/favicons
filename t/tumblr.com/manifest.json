@@ -1,0 +1,109 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T15:29:12Z",
+  "domain": "tumblr.com",
+  "icons": [
+    {
+      "file": "tumblr.com-favicon.867bdf8a.svg",
+      "origin": "html",
+      "url": "https://assets.tumblr.com/pop/manifest/safari-pinned-tab-ad5440dd.svg",
+      "sizes": [700]
+    },
+    {
+      "file": "tumblr.com-favicon.192.png",
+      "origin": "html",
+      "url": "https://assets.tumblr.com/pop/manifest/apple-touch-icon-f8ea2554.png",
+      "sizes": [192]
+    },
+    {
+      "file": "tumblr.com-favicon.svg",
+      "origin": "html",
+      "url": "https://assets.tumblr.com/pop/manifest/favicon-cfddd25f.svg",
+      "sizes": [128]
+    },
+    {
+      "file": "tumblr.com-favicon.ico",
+      "origin": "html",
+      "url": "https://assets.tumblr.com/pop/manifest/favicon-0e3d244a.ico",
+      "sizes": [16, 32, 48],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://tumblr.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "tumblr.com-favicon.ico.48.png",
+      "origin": "html",
+      "url": "https://assets.tumblr.com/pop/manifest/favicon-0e3d244a.ico",
+      "sizes": [48],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://tumblr.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "tumblr.com-favicon.ico.32.png",
+      "origin": "html",
+      "url": "https://assets.tumblr.com/pop/manifest/favicon-0e3d244a.ico",
+      "sizes": [32],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://tumblr.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "tumblr.com-favicon.ico.16.png",
+      "origin": "html",
+      "url": "https://assets.tumblr.com/pop/manifest/favicon-0e3d244a.ico",
+      "sizes": [16],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://tumblr.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "tumblr.com-gstatic.192.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ftumblr.com&size=256",
+      "sizes": [192]
+    },
+    {
+      "file": "tumblr.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ftumblr.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "tumblr.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ftumblr.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "tumblr.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ftumblr.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "tumblr.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ftumblr.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "tumblr.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ftumblr.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

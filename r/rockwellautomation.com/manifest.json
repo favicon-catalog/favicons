@@ -1,0 +1,61 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T15:28:47Z",
+  "domain": "rockwellautomation.com",
+  "icons": [
+    {
+      "file": "rockwellautomation.com-favicon.180.png",
+      "origin": "html",
+      "url": "https://rockwellautomation.com/etc.clientlibs/rockwell-aem-base/clientlibs/clientlib-base/resources/favicons/apple-touch-icon.png",
+      "sizes": [180]
+    },
+    {
+      "file": "rockwellautomation.com-favicon.32.png",
+      "origin": "html",
+      "url": "https://rockwellautomation.com/etc.clientlibs/rockwell-aem-base/clientlibs/clientlib-base/resources/favicons/favicon-32x32.png",
+      "sizes": [32]
+    },
+    {
+      "file": "rockwellautomation.com-favicon.16.png",
+      "origin": "html",
+      "url": "https://rockwellautomation.com/etc.clientlibs/rockwell-aem-base/clientlibs/clientlib-base/resources/favicons/favicon-16x16.png",
+      "sizes": [16]
+    },
+    {
+      "file": "rockwellautomation.com-gstatic.180.jpg",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Frockwellautomation.com&size=256",
+      "sizes": [180]
+    },
+    {
+      "file": "rockwellautomation.com-gstatic.128.jpg",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Frockwellautomation.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "rockwellautomation.com-gstatic.64.jpg",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Frockwellautomation.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "rockwellautomation.com-gstatic.48.jpg",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Frockwellautomation.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "rockwellautomation.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Frockwellautomation.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "rockwellautomation.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Frockwellautomation.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

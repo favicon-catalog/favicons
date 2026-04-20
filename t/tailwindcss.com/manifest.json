@@ -1,0 +1,131 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T15:29:03Z",
+  "domain": "tailwindcss.com",
+  "icons": [
+    {
+      "file": "tailwindcss.com-favicon.svg",
+      "origin": "html",
+      "url": "https://tailwindcss.com/favicons/safari-pinned-tab.svg?v=4",
+      "sizes": [260]
+    },
+    {
+      "file": "tailwindcss.com-favicon.180.png",
+      "origin": "html",
+      "url": "https://tailwindcss.com/favicons/apple-touch-icon.png?v=4",
+      "sizes": [180]
+    },
+    {
+      "file": "tailwindcss.com-favicon.ico",
+      "origin": "html",
+      "url": "https://tailwindcss.com/favicons/favicon.ico?v=4",
+      "sizes": [16, 32, 48],
+      "aliases": [
+        {
+          "origin": "html",
+          "url": "https://tailwindcss.com/favicon.ico?favicon.32781b0b.ico"
+        },
+        {
+          "origin": "root",
+          "url": "https://tailwindcss.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "tailwindcss.com-favicon.ico.48.png",
+      "origin": "html",
+      "url": "https://tailwindcss.com/favicons/favicon.ico?v=4",
+      "sizes": [48],
+      "aliases": [
+        {
+          "origin": "html",
+          "url": "https://tailwindcss.com/favicon.ico?favicon.32781b0b.ico"
+        },
+        {
+          "origin": "root",
+          "url": "https://tailwindcss.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "tailwindcss.com-favicon.32.png",
+      "origin": "html",
+      "url": "https://tailwindcss.com/favicons/favicon-32x32.png?v=4",
+      "sizes": [32]
+    },
+    {
+      "file": "tailwindcss.com-favicon.ico.32.png",
+      "origin": "html",
+      "url": "https://tailwindcss.com/favicons/favicon.ico?v=4",
+      "sizes": [32],
+      "aliases": [
+        {
+          "origin": "html",
+          "url": "https://tailwindcss.com/favicon.ico?favicon.32781b0b.ico"
+        },
+        {
+          "origin": "root",
+          "url": "https://tailwindcss.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "tailwindcss.com-favicon.16.png",
+      "origin": "html",
+      "url": "https://tailwindcss.com/favicons/favicon-16x16.png?v=4",
+      "sizes": [16]
+    },
+    {
+      "file": "tailwindcss.com-favicon.ico.16.png",
+      "origin": "html",
+      "url": "https://tailwindcss.com/favicons/favicon.ico?v=4",
+      "sizes": [16],
+      "aliases": [
+        {
+          "origin": "html",
+          "url": "https://tailwindcss.com/favicon.ico?favicon.32781b0b.ico"
+        },
+        {
+          "origin": "root",
+          "url": "https://tailwindcss.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "tailwindcss.com-gstatic.180.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ftailwindcss.com&size=256",
+      "sizes": [180]
+    },
+    {
+      "file": "tailwindcss.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ftailwindcss.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "tailwindcss.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ftailwindcss.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "tailwindcss.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ftailwindcss.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "tailwindcss.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ftailwindcss.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "tailwindcss.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ftailwindcss.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

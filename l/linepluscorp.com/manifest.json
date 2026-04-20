@@ -1,0 +1,49 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T15:28:01Z",
+  "domain": "linepluscorp.com",
+  "icons": [
+    {
+      "file": "linepluscorp.com-favicon.192.png",
+      "origin": "html",
+      "url": "https://vos.line-scdn.net/landpress-content-v2-3ub8nanc40829phmlme9ov4o/1708056773171.png",
+      "sizes": [192]
+    },
+    {
+      "file": "linepluscorp.com-gstatic.192.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Flinepluscorp.com&size=256",
+      "sizes": [192]
+    },
+    {
+      "file": "linepluscorp.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Flinepluscorp.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "linepluscorp.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Flinepluscorp.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "linepluscorp.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Flinepluscorp.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "linepluscorp.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Flinepluscorp.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "linepluscorp.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Flinepluscorp.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

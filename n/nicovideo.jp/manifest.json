@@ -1,0 +1,91 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T15:28:28Z",
+  "domain": "nicovideo.jp",
+  "icons": [
+    {
+      "file": "nicovideo.jp-favicon.144.png",
+      "origin": "html",
+      "url": "https://resource.video.nimg.jp/web/images/favicon_uni/144.png?re",
+      "sizes": [144]
+    },
+    {
+      "file": "nicovideo.jp-favicon.96.png",
+      "origin": "html",
+      "url": "https://resource.video.nimg.jp/web/images/favicon_uni/96.png?re",
+      "sizes": [96]
+    },
+    {
+      "file": "nicovideo.jp-favicon.48.png",
+      "origin": "html",
+      "url": "https://resource.video.nimg.jp/web/images/favicon_uni/48.png?re",
+      "sizes": [48]
+    },
+    {
+      "file": "nicovideo.jp-favicon.32.png",
+      "origin": "html",
+      "url": "https://resource.video.nimg.jp/web/images/favicon_uni/32.png?re",
+      "sizes": [32]
+    },
+    {
+      "file": "nicovideo.jp-favicon.ico",
+      "origin": "html",
+      "url": "https://resource.video.nimg.jp/web/images/favicon_uni/favicon.ico?re",
+      "sizes": [16]
+    },
+    {
+      "file": "nicovideo.jp-favicon.ico.16.png",
+      "origin": "html",
+      "url": "https://resource.video.nimg.jp/web/images/favicon_uni/favicon.ico?re",
+      "sizes": [16]
+    },
+    {
+      "file": "nicovideo.jp-favicon.0557913b.ico",
+      "origin": "root",
+      "url": "https://nicovideo.jp/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "nicovideo.jp-favicon.ico.16.0557913b.png",
+      "origin": "root",
+      "url": "https://nicovideo.jp/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "nicovideo.jp-gstatic.180.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fnicovideo.jp&size=256",
+      "sizes": [180]
+    },
+    {
+      "file": "nicovideo.jp-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fnicovideo.jp&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "nicovideo.jp-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fnicovideo.jp&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "nicovideo.jp-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fnicovideo.jp&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "nicovideo.jp-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fnicovideo.jp&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "nicovideo.jp-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fnicovideo.jp&size=16",
+      "sizes": [16]
+    }
+  ]
+}

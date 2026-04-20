@@ -1,0 +1,73 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T15:27:48Z",
+  "domain": "kaggle.com",
+  "icons": [
+    {
+      "file": "kaggle.com-favicon.ico",
+      "origin": "html",
+      "url": "https://kaggle.com/static/images/favicon.ico",
+      "sizes": [16, 32],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://kaggle.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "kaggle.com-favicon.ico.32.png",
+      "origin": "html",
+      "url": "https://kaggle.com/static/images/favicon.ico",
+      "sizes": [32],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://kaggle.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "kaggle.com-favicon.ico.16.png",
+      "origin": "html",
+      "url": "https://kaggle.com/static/images/favicon.ico",
+      "sizes": [16],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://kaggle.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "kaggle.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fkaggle.com&size=32",
+      "sizes": [32],
+      "aliases": [
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fkaggle.com&size=48"
+        },
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fkaggle.com&size=64"
+        },
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fkaggle.com&size=128"
+        },
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fkaggle.com&size=256"
+        }
+      ]
+    },
+    {
+      "file": "kaggle.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fkaggle.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

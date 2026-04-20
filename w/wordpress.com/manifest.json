@@ -1,0 +1,97 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T15:29:26Z",
+  "domain": "wordpress.com",
+  "icons": [
+    {
+      "file": "wordpress.com-favicon.114.png",
+      "origin": "html",
+      "url": "https://0.gravatar.com/blavatar/653166773dc88127bd3afe0b6dfe5ea7?s=114&amp;d=https%3A%2F%2Fs1.wp.com%2Fi%2Fwebclip.png",
+      "sizes": [114]
+    },
+    {
+      "file": "wordpress.com-favicon.ico",
+      "origin": "html",
+      "url": "https://s1.wp.com/i/favicon.ico?v=1713425267",
+      "sizes": [16, 32, 48],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://wordpress.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "wordpress.com-favicon.ico.48.png",
+      "origin": "html",
+      "url": "https://s1.wp.com/i/favicon.ico?v=1713425267",
+      "sizes": [48],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://wordpress.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "wordpress.com-favicon.ico.32.png",
+      "origin": "html",
+      "url": "https://s1.wp.com/i/favicon.ico?v=1713425267",
+      "sizes": [32],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://wordpress.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "wordpress.com-favicon.ico.16.png",
+      "origin": "html",
+      "url": "https://s1.wp.com/i/favicon.ico?v=1713425267",
+      "sizes": [16],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://wordpress.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "wordpress.com-gstatic.114.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fwordpress.com&size=128",
+      "sizes": [114],
+      "aliases": [
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fwordpress.com&size=256"
+        }
+      ]
+    },
+    {
+      "file": "wordpress.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fwordpress.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "wordpress.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fwordpress.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "wordpress.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fwordpress.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "wordpress.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fwordpress.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

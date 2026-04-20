@@ -1,0 +1,127 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T15:28:29Z",
+  "domain": "nike.com",
+  "icons": [
+    {
+      "file": "nike.com-favicon.192.png",
+      "origin": "html",
+      "url": "https://www.nike.com/android-icon-192x192.png",
+      "sizes": [192]
+    },
+    {
+      "file": "nike.com-favicon.152.52693ef8.png",
+      "origin": "html",
+      "url": "https://www.nike.com/apple-touch-icon-152x152-precomposed.png",
+      "sizes": [152]
+    },
+    {
+      "file": "nike.com-favicon.152.png",
+      "origin": "html",
+      "url": "https://www.nike.com/apple-touch-icon.png",
+      "sizes": [152]
+    },
+    {
+      "file": "nike.com-favicon.128.png",
+      "origin": "html",
+      "url": "https://www.nike.com/android-icon-128x128.png",
+      "sizes": [128]
+    },
+    {
+      "file": "nike.com-favicon.120.png",
+      "origin": "html",
+      "url": "https://www.nike.com/apple-touch-icon-120x120-precomposed.png",
+      "sizes": [120]
+    },
+    {
+      "file": "nike.com-favicon.76.png",
+      "origin": "html",
+      "url": "https://www.nike.com/apple-touch-icon-76x76-precomposed.png",
+      "sizes": [76]
+    },
+    {
+      "file": "nike.com-favicon.ico",
+      "origin": "html",
+      "url": "https://www.nike.com/favicon.ico?v=1",
+      "sizes": [16, 32, 48],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://nike.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "nike.com-favicon.ico.48.png",
+      "origin": "html",
+      "url": "https://www.nike.com/favicon.ico?v=1",
+      "sizes": [48],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://nike.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "nike.com-favicon.ico.32.png",
+      "origin": "html",
+      "url": "https://www.nike.com/favicon.ico?v=1",
+      "sizes": [32],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://nike.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "nike.com-favicon.ico.16.png",
+      "origin": "html",
+      "url": "https://www.nike.com/favicon.ico?v=1",
+      "sizes": [16],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://nike.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "nike.com-gstatic.192.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fnike.com&size=256",
+      "sizes": [192]
+    },
+    {
+      "file": "nike.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fnike.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "nike.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fnike.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "nike.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fnike.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "nike.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fnike.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "nike.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fnike.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

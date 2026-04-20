@@ -1,0 +1,67 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T15:29:30Z",
+  "domain": "ycombinator.com",
+  "icons": [
+    {
+      "file": "ycombinator.com-favicon.ico",
+      "origin": "html",
+      "url": "https://bookface-static.ycombinator.com/assets/ycdc/favicon-c8a914eeeba9fe6f7a863b35608b55aeedd7c1ff409c97b9ecb96b7a6c278d70.ico",
+      "sizes": [256],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://ycombinator.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "ycombinator.com-favicon.ico.256.png",
+      "origin": "html",
+      "url": "https://bookface-static.ycombinator.com/assets/ycdc/favicon-c8a914eeeba9fe6f7a863b35608b55aeedd7c1ff409c97b9ecb96b7a6c278d70.ico",
+      "sizes": [256],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://ycombinator.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "ycombinator.com-gstatic.256.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fycombinator.com&size=256",
+      "sizes": [256]
+    },
+    {
+      "file": "ycombinator.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fycombinator.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "ycombinator.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fycombinator.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "ycombinator.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fycombinator.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "ycombinator.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fycombinator.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "ycombinator.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fycombinator.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

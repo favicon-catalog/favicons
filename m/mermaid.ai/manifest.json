@@ -1,0 +1,57 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T15:28:06Z",
+  "domain": "mermaid.ai",
+  "icons": [
+    {
+      "file": "mermaid.ai-favicon.48.png",
+      "origin": "html",
+      "url": "https://mermaid.ai/img/favicon.ico",
+      "sizes": [48],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://mermaid.ai/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "mermaid.ai-favicon.128.png",
+      "origin": "root",
+      "url": "https://mermaid.ai/favicon.png",
+      "sizes": [128]
+    },
+    {
+      "file": "mermaid.ai-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fmermaid.ai&size=48",
+      "sizes": [48],
+      "aliases": [
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fmermaid.ai&size=64"
+        },
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fmermaid.ai&size=128"
+        },
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fmermaid.ai&size=256"
+        }
+      ]
+    },
+    {
+      "file": "mermaid.ai-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fmermaid.ai&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "mermaid.ai-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fmermaid.ai&size=16",
+      "sizes": [16]
+    }
+  ]
+}

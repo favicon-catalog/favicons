@@ -1,0 +1,49 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T15:28:43Z",
+  "domain": "prometheus.io",
+  "icons": [
+    {
+      "file": "prometheus.io-favicon.svg",
+      "origin": "html",
+      "url": "https://prometheus.io/icon.svg?7aa022e51797bcef",
+      "sizes": [113]
+    },
+    {
+      "file": "prometheus.io-gstatic.113.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fprometheus.io&size=128",
+      "sizes": [113],
+      "aliases": [
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fprometheus.io&size=256"
+        }
+      ]
+    },
+    {
+      "file": "prometheus.io-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fprometheus.io&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "prometheus.io-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fprometheus.io&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "prometheus.io-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fprometheus.io&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "prometheus.io-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fprometheus.io&size=16",
+      "sizes": [16]
+    }
+  ]
+}

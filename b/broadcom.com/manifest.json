@@ -1,0 +1,61 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T15:26:56Z",
+  "domain": "broadcom.com",
+  "icons": [
+    {
+      "file": "broadcom.com-favicon.96.png",
+      "origin": "html",
+      "url": "https://broadcom.com/favicon-96x96.png",
+      "sizes": [96]
+    },
+    {
+      "file": "broadcom.com-favicon.48.png",
+      "origin": "html",
+      "url": "https://broadcom.com/favicon-48x48.png",
+      "sizes": [48]
+    },
+    {
+      "file": "broadcom.com-favicon.32.png",
+      "origin": "html",
+      "url": "https://broadcom.com/favicon.png",
+      "sizes": [32]
+    },
+    {
+      "file": "broadcom.com-gstatic.96.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fbroadcom.com&size=128",
+      "sizes": [96],
+      "aliases": [
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fbroadcom.com&size=256"
+        }
+      ]
+    },
+    {
+      "file": "broadcom.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fbroadcom.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "broadcom.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fbroadcom.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "broadcom.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fbroadcom.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "broadcom.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fbroadcom.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

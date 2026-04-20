@@ -1,19 +1,19 @@
 {
   "manifest_version": 4,
-  "updated_at": "2026-04-19T18:32:08Z",
+  "updated_at": "2026-04-20T15:27:34Z",
   "domain": "gitlab.com",
   "icons": [
     {
-      "file": "gitlab.com-favicon.32.e86e54c2.png",
-      "origin": "root",
-      "url": "https://gitlab.com/favicon.png",
-      "sizes": [32]
-    },
-    {
       "file": "gitlab.com-favicon.32.png",
       "origin": "root",
-      "url": "https://gitlab.com/favicon.ico",
-      "sizes": [32]
+      "url": "https://gitlab.com/favicon.png",
+      "sizes": [32],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://gitlab.com/favicon.ico"
+        }
+      ]
     },
     {
       "file": "gitlab.com-gstatic.192.png",

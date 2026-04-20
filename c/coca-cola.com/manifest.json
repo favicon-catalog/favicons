@@ -1,0 +1,79 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T15:27:07Z",
+  "domain": "coca-cola.com",
+  "icons": [
+    {
+      "file": "coca-cola.com-favicon.svg",
+      "origin": "html",
+      "url": "https://www.coca-cola.com/onexp-theme/b1e00ef2800080dd78c6e3110d23bb9e41ff1940937147f87f2c38a79421101d/resources/favicons/safari-pinned-tab.svg",
+      "sizes": [700]
+    },
+    {
+      "file": "coca-cola.com-favicon.180.png",
+      "origin": "html",
+      "url": "https://www.coca-cola.com/onexp-theme/b1e00ef2800080dd78c6e3110d23bb9e41ff1940937147f87f2c38a79421101d/resources/favicons/apple-touch-icon.png",
+      "sizes": [180]
+    },
+    {
+      "file": "coca-cola.com-favicon.32.png",
+      "origin": "html",
+      "url": "https://www.coca-cola.com/onexp-theme/b1e00ef2800080dd78c6e3110d23bb9e41ff1940937147f87f2c38a79421101d/resources/favicons/favicon-32x32.png",
+      "sizes": [32]
+    },
+    {
+      "file": "coca-cola.com-favicon.16.png",
+      "origin": "html",
+      "url": "https://www.coca-cola.com/onexp-theme/b1e00ef2800080dd78c6e3110d23bb9e41ff1940937147f87f2c38a79421101d/resources/favicons/favicon-16x16.png",
+      "sizes": [16]
+    },
+    {
+      "file": "coca-cola.com-favicon.ico",
+      "origin": "root",
+      "url": "https://coca-cola.com/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "coca-cola.com-favicon.ico.16.png",
+      "origin": "root",
+      "url": "https://coca-cola.com/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "coca-cola.com-gstatic.180.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fcoca-cola.com&size=256",
+      "sizes": [180]
+    },
+    {
+      "file": "coca-cola.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fcoca-cola.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "coca-cola.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fcoca-cola.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "coca-cola.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fcoca-cola.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "coca-cola.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fcoca-cola.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "coca-cola.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fcoca-cola.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

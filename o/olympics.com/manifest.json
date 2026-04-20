@@ -1,0 +1,139 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-20T15:28:34Z",
+  "domain": "olympics.com",
+  "icons": [
+    {
+      "file": "olympics.com-favicon.310.png",
+      "origin": "html",
+      "url": "https://www.olympics.com/images/static/favicon/apple-touch-icon-310x310.png",
+      "sizes": [310]
+    },
+    {
+      "file": "olympics.com-favicon.152.png",
+      "origin": "html",
+      "url": "https://www.olympics.com/images/static/favicon/apple-touch-icon-152x152.png",
+      "sizes": [152]
+    },
+    {
+      "file": "olympics.com-favicon.150.png",
+      "origin": "html",
+      "url": "https://www.olympics.com/images/static/favicon/apple-touch-icon-150x150.png",
+      "sizes": [150]
+    },
+    {
+      "file": "olympics.com-favicon.144.png",
+      "origin": "html",
+      "url": "https://www.olympics.com/images/static/favicon/apple-touch-icon-144x144.png",
+      "sizes": [144]
+    },
+    {
+      "file": "olympics.com-favicon.120.png",
+      "origin": "html",
+      "url": "https://www.olympics.com/images/static/favicon/apple-touch-icon-120x120.png",
+      "sizes": [120]
+    },
+    {
+      "file": "olympics.com-favicon.114.png",
+      "origin": "html",
+      "url": "https://www.olympics.com/images/static/favicon/apple-touch-icon-114x114.png",
+      "sizes": [114]
+    },
+    {
+      "file": "olympics.com-favicon.96.fb92b92b.png",
+      "origin": "html",
+      "url": "https://www.olympics.com/images/static/favicon/apple-touch-icon-96x96.png",
+      "sizes": [96]
+    },
+    {
+      "file": "olympics.com-favicon.96.png",
+      "origin": "html",
+      "url": "https://www.olympics.com/images/static/favicon/favicon-96x96.png",
+      "sizes": [96],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://olympics.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "olympics.com-favicon.76.png",
+      "origin": "html",
+      "url": "https://www.olympics.com/images/static/favicon/apple-touch-icon-76x76.png",
+      "sizes": [76]
+    },
+    {
+      "file": "olympics.com-favicon.72.png",
+      "origin": "html",
+      "url": "https://www.olympics.com/images/static/favicon/apple-touch-icon-72x72.png",
+      "sizes": [72]
+    },
+    {
+      "file": "olympics.com-favicon.70.png",
+      "origin": "html",
+      "url": "https://www.olympics.com/images/static/favicon/apple-touch-icon-70x70.png",
+      "sizes": [70]
+    },
+    {
+      "file": "olympics.com-favicon.60.png",
+      "origin": "html",
+      "url": "https://www.olympics.com/images/static/favicon/apple-touch-icon-60x60.png",
+      "sizes": [60]
+    },
+    {
+      "file": "olympics.com-favicon.57.png",
+      "origin": "html",
+      "url": "https://www.olympics.com/images/static/favicon/apple-touch-icon-57x57.png",
+      "sizes": [57]
+    },
+    {
+      "file": "olympics.com-favicon.32.png",
+      "origin": "html",
+      "url": "https://www.olympics.com/images/static/favicon/apple-touch-icon-32x32.png",
+      "sizes": [32]
+    },
+    {
+      "file": "olympics.com-favicon.16.png",
+      "origin": "html",
+      "url": "https://www.olympics.com/images/static/favicon/apple-touch-icon-16x16.png",
+      "sizes": [16]
+    },
+    {
+      "file": "olympics.com-gstatic.96.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Folympics.com&size=128",
+      "sizes": [96],
+      "aliases": [
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Folympics.com&size=256"
+        }
+      ]
+    },
+    {
+      "file": "olympics.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Folympics.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "olympics.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Folympics.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "olympics.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Folympics.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "olympics.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Folympics.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}
