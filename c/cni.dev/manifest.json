@@ -1,0 +1,49 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-22T17:07:22Z",
+  "domain": "cni.dev",
+  "icons": [
+    {
+      "file": "cni.dev-favicon.900.png",
+      "origin": "html",
+      "url": "https://cni.dev/favicon.png",
+      "sizes": [900]
+    },
+    {
+      "file": "cni.dev-gstatic.256.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fcni.dev&size=256",
+      "sizes": [256]
+    },
+    {
+      "file": "cni.dev-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fcni.dev&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "cni.dev-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fcni.dev&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "cni.dev-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fcni.dev&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "cni.dev-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fcni.dev&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "cni.dev-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fcni.dev&size=16",
+      "sizes": [16]
+    }
+  ]
+}

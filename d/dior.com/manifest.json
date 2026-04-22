@@ -1,58 +1,28 @@
 {
   "manifest_version": 4,
-  "updated_at": "2026-04-20T16:37:26Z",
+  "updated_at": "2026-04-22T17:07:39Z",
   "domain": "dior.com",
   "icons": [
     {
-      "file": "dior.com-favicon.180.png",
-      "origin": "html",
-      "url": "https://dior.com/static/fashion/favicon/apple-touch-iconJWA.png",
-      "sizes": [180]
-    },
-    {
       "file": "dior.com-favicon.ico",
-      "origin": "html",
-      "url": "https://dior.com/static/fashion/favicon/faviconJWA.ico",
+      "origin": "root",
+      "url": "https://dior.com/favicon.ico",
       "sizes": [16, 32, 48]
     },
     {
       "file": "dior.com-favicon.ico.48.png",
-      "origin": "html",
-      "url": "https://dior.com/static/fashion/favicon/faviconJWA.ico",
+      "origin": "root",
+      "url": "https://dior.com/favicon.ico",
       "sizes": [48]
     },
     {
       "file": "dior.com-favicon.ico.32.png",
-      "origin": "html",
-      "url": "https://dior.com/static/fashion/favicon/faviconJWA.ico",
+      "origin": "root",
+      "url": "https://dior.com/favicon.ico",
       "sizes": [32]
     },
     {
       "file": "dior.com-favicon.ico.16.png",
-      "origin": "html",
-      "url": "https://dior.com/static/fashion/favicon/faviconJWA.ico",
-      "sizes": [16]
-    },
-    {
-      "file": "dior.com-favicon.ec4869ed.ico",
-      "origin": "root",
-      "url": "https://dior.com/favicon.ico",
-      "sizes": [16, 32, 48]
-    },
-    {
-      "file": "dior.com-favicon.ico.48.ec4869ed.png",
-      "origin": "root",
-      "url": "https://dior.com/favicon.ico",
-      "sizes": [48]
-    },
-    {
-      "file": "dior.com-favicon.ico.32.ec4869ed.png",
-      "origin": "root",
-      "url": "https://dior.com/favicon.ico",
-      "sizes": [32]
-    },
-    {
-      "file": "dior.com-favicon.ico.16.ec4869ed.png",
       "origin": "root",
       "url": "https://dior.com/favicon.ico",
       "sizes": [16]

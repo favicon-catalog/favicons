@@ -1,0 +1,71 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-22T17:11:04Z",
+  "domain": "yogiyo.co.kr",
+  "icons": [
+    {
+      "file": "yogiyo.co.kr-favicon.144.png",
+      "origin": "html",
+      "url": "https://www.yogiyo.co.kr/mobile/image/app_144x144.png",
+      "sizes": [144]
+    },
+    {
+      "file": "yogiyo.co.kr-favicon.128.png",
+      "origin": "html",
+      "url": "https://www.yogiyo.co.kr/mobile/image/app_128x128.png",
+      "sizes": [128]
+    },
+    {
+      "file": "yogiyo.co.kr-favicon.ico",
+      "origin": "html",
+      "url": "https://www.yogiyo.co.kr/mobile/image/favicon.ico",
+      "sizes": [16],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://yogiyo.co.kr/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "yogiyo.co.kr-favicon.ico.16.png",
+      "origin": "html",
+      "url": "https://www.yogiyo.co.kr/mobile/image/favicon.ico",
+      "sizes": [16],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://yogiyo.co.kr/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "yogiyo.co.kr-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fyogiyo.co.kr&size=16",
+      "sizes": [16],
+      "aliases": [
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fyogiyo.co.kr&size=32"
+        },
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fyogiyo.co.kr&size=48"
+        },
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fyogiyo.co.kr&size=64"
+        },
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fyogiyo.co.kr&size=128"
+        },
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fyogiyo.co.kr&size=256"
+        }
+      ]
+    }
+  ]
+}

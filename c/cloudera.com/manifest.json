@@ -1,0 +1,133 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-22T17:07:21Z",
+  "domain": "cloudera.com",
+  "icons": [
+    {
+      "file": "cloudera.com-favicon.192.png",
+      "origin": "html",
+      "url": "https://cloudera.com/etc.clientlibs/www/clientlibs/clientlib-siteroot/resources/css/assets/icons/favicon/android-chrome-192x192.png",
+      "sizes": [192]
+    },
+    {
+      "file": "cloudera.com-favicon.180.png",
+      "origin": "html",
+      "url": "https://cloudera.com/etc.clientlibs/www/clientlibs/clientlib-siteroot/resources/css/assets/icons/favicon/apple-touch-icon-180x180.png",
+      "sizes": [180]
+    },
+    {
+      "file": "cloudera.com-favicon.152.png",
+      "origin": "html",
+      "url": "https://cloudera.com/etc.clientlibs/www/clientlibs/clientlib-siteroot/resources/css/assets/icons/favicon/apple-touch-icon-152x152.png",
+      "sizes": [152]
+    },
+    {
+      "file": "cloudera.com-favicon.144.png",
+      "origin": "html",
+      "url": "https://cloudera.com/etc.clientlibs/www/clientlibs/clientlib-siteroot/resources/css/assets/icons/favicon/apple-touch-icon-144x144.png",
+      "sizes": [144]
+    },
+    {
+      "file": "cloudera.com-favicon.120.png",
+      "origin": "html",
+      "url": "https://cloudera.com/etc.clientlibs/www/clientlibs/clientlib-siteroot/resources/css/assets/icons/favicon/apple-touch-icon-120x120.png",
+      "sizes": [120]
+    },
+    {
+      "file": "cloudera.com-favicon.114.png",
+      "origin": "html",
+      "url": "https://cloudera.com/etc.clientlibs/www/clientlibs/clientlib-siteroot/resources/css/assets/icons/favicon/apple-touch-icon-114x114.png",
+      "sizes": [114]
+    },
+    {
+      "file": "cloudera.com-favicon.96.png",
+      "origin": "html",
+      "url": "https://cloudera.com/etc.clientlibs/www/clientlibs/clientlib-siteroot/resources/css/assets/icons/favicon/favicon-96x96.png",
+      "sizes": [96]
+    },
+    {
+      "file": "cloudera.com-favicon.76.png",
+      "origin": "html",
+      "url": "https://cloudera.com/etc.clientlibs/www/clientlibs/clientlib-siteroot/resources/css/assets/icons/favicon/apple-touch-icon-76x76.png",
+      "sizes": [76]
+    },
+    {
+      "file": "cloudera.com-favicon.72.png",
+      "origin": "html",
+      "url": "https://cloudera.com/etc.clientlibs/www/clientlibs/clientlib-siteroot/resources/css/assets/icons/favicon/apple-touch-icon-72x72.png",
+      "sizes": [72]
+    },
+    {
+      "file": "cloudera.com-favicon.60.png",
+      "origin": "html",
+      "url": "https://cloudera.com/etc.clientlibs/www/clientlibs/clientlib-siteroot/resources/css/assets/icons/favicon/apple-touch-icon-60x60.png",
+      "sizes": [60]
+    },
+    {
+      "file": "cloudera.com-favicon.57.png",
+      "origin": "html",
+      "url": "https://cloudera.com/etc.clientlibs/www/clientlibs/clientlib-siteroot/resources/css/assets/icons/favicon/apple-touch-icon-57x57.png",
+      "sizes": [57]
+    },
+    {
+      "file": "cloudera.com-favicon.32.png",
+      "origin": "html",
+      "url": "https://cloudera.com/etc.clientlibs/www/clientlibs/clientlib-siteroot/resources/css/assets/icons/favicon/favicon-32x32.png",
+      "sizes": [32]
+    },
+    {
+      "file": "cloudera.com-favicon.16.png",
+      "origin": "html",
+      "url": "https://cloudera.com/etc.clientlibs/www/clientlibs/clientlib-siteroot/resources/css/assets/icons/favicon/favicon-16x16.png",
+      "sizes": [16]
+    },
+    {
+      "file": "cloudera.com-favicon.ico",
+      "origin": "html",
+      "url": "https://cloudera.com/etc.clientlibs/www/clientlibs/clientlib-siteroot/resources/css/assets/icons/favicon/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "cloudera.com-favicon.ico.16.png",
+      "origin": "html",
+      "url": "https://cloudera.com/etc.clientlibs/www/clientlibs/clientlib-siteroot/resources/css/assets/icons/favicon/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "cloudera.com-gstatic.152.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fcloudera.com&size=256",
+      "sizes": [152]
+    },
+    {
+      "file": "cloudera.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fcloudera.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "cloudera.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fcloudera.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "cloudera.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fcloudera.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "cloudera.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fcloudera.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "cloudera.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fcloudera.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

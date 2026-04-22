@@ -1,0 +1,55 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-22T17:10:39Z",
+  "domain": "vcluster.com",
+  "icons": [
+    {
+      "file": "vcluster.com-favicon.256.png",
+      "origin": "html",
+      "url": "https://cdn.prod.website-files.com/68994d4ecac027f80ff70510/689d658c93c7d7e9b46e8994_Webclip.png",
+      "sizes": [256]
+    },
+    {
+      "file": "vcluster.com-favicon.32.png",
+      "origin": "html",
+      "url": "https://cdn.prod.website-files.com/68994d4ecac027f80ff70510/689d658a5ad5b31c1ff60a37_Favicon.png",
+      "sizes": [32]
+    },
+    {
+      "file": "vcluster.com-gstatic.256.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fvcluster.com&size=256",
+      "sizes": [256]
+    },
+    {
+      "file": "vcluster.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fvcluster.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "vcluster.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fvcluster.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "vcluster.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fvcluster.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "vcluster.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fvcluster.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "vcluster.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fvcluster.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

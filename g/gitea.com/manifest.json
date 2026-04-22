@@ -1,0 +1,55 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-22T17:07:58Z",
+  "domain": "gitea.com",
+  "icons": [
+    {
+      "file": "gitea.com-favicon.290.png",
+      "origin": "html",
+      "url": "https://gitea.com/gitea.png",
+      "sizes": [290]
+    },
+    {
+      "file": "gitea.com-favicon.180.png",
+      "origin": "html",
+      "url": "https://gitea.com/favicon.ico",
+      "sizes": [180]
+    },
+    {
+      "file": "gitea.com-gstatic.256.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fgitea.com&size=256",
+      "sizes": [256]
+    },
+    {
+      "file": "gitea.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fgitea.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "gitea.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fgitea.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "gitea.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fgitea.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "gitea.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fgitea.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "gitea.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fgitea.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

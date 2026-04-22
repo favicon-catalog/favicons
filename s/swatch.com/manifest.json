@@ -1,60 +1,60 @@
 {
   "manifest_version": 4,
-  "updated_at": "2026-04-20T16:39:34Z",
+  "updated_at": "2026-04-22T17:10:28Z",
   "domain": "swatch.com",
   "icons": [
     {
       "file": "swatch.com-favicon.196.png",
       "origin": "html",
-      "url": "https://swatch.com/on/demandware.static/Sites-swarp-AM-Site/-/default/dw4ac833c9/images/favicons/swatch/favicon-196x196.png",
+      "url": "https://swatch.com/on/demandware.static/Sites-swarp-AM-Site/-/default/dw136ab405/images/favicons/swatch/favicon-196x196.png",
       "sizes": [196]
     },
     {
       "file": "swatch.com-favicon.180.png",
       "origin": "html",
-      "url": "https://swatch.com/on/demandware.static/Sites-swarp-AM-Site/-/default/dw5dfc316a/images/favicons/swatch/favicon-180x180.png",
+      "url": "https://swatch.com/on/demandware.static/Sites-swarp-AM-Site/-/default/dw28533d71/images/favicons/swatch/favicon-180x180.png",
       "sizes": [180]
     },
     {
       "file": "swatch.com-favicon.167.png",
       "origin": "html",
-      "url": "https://swatch.com/on/demandware.static/Sites-swarp-AM-Site/-/default/dw28a68313/images/favicons/swatch/favicon-167x167.png",
+      "url": "https://swatch.com/on/demandware.static/Sites-swarp-AM-Site/-/default/dw81787c38/images/favicons/swatch/favicon-167x167.png",
       "sizes": [167]
     },
     {
       "file": "swatch.com-favicon.152.png",
       "origin": "html",
-      "url": "https://swatch.com/on/demandware.static/Sites-swarp-AM-Site/-/default/dwa568d636/images/favicons/swatch/favicon-152x152.png",
+      "url": "https://swatch.com/on/demandware.static/Sites-swarp-AM-Site/-/default/dwc727d111/images/favicons/swatch/favicon-152x152.png",
       "sizes": [152]
     },
     {
       "file": "swatch.com-favicon.96.png",
       "origin": "html",
-      "url": "https://swatch.com/on/demandware.static/Sites-swarp-AM-Site/-/default/dwcce076d5/images/favicons/swatch/apple-icon.png",
+      "url": "https://swatch.com/on/demandware.static/Sites-swarp-AM-Site/-/default/dwf1a1641c/images/favicons/swatch/apple-icon.png",
       "sizes": [96],
       "aliases": [
         {
           "origin": "html",
-          "url": "https://swatch.com/on/demandware.static/Sites-swarp-AM-Site/-/default/dwea4c821d/images/favicons/swatch/favicon-96x96.png"
+          "url": "https://swatch.com/on/demandware.static/Sites-swarp-AM-Site/-/default/dw9950f6f7/images/favicons/swatch/favicon-96x96.png"
         }
       ]
     },
     {
       "file": "swatch.com-favicon.32.png",
       "origin": "html",
-      "url": "https://swatch.com/on/demandware.static/Sites-swarp-AM-Site/-/default/dwcf98ffb2/images/favicons/swatch/favicon-32x32.png",
+      "url": "https://swatch.com/on/demandware.static/Sites-swarp-AM-Site/-/default/dw403ce547/images/favicons/swatch/favicon-32x32.png",
       "sizes": [32]
     },
     {
       "file": "swatch.com-favicon.16.gif",
       "origin": "html",
-      "url": "https://swatch.com/on/demandware.static/Sites-swarp-AM-Site/-/default/dw754fcea8/images/favicons/swatch/favicon-16x16.png",
+      "url": "https://swatch.com/on/demandware.static/Sites-swarp-AM-Site/-/default/dwebeef78f/images/favicons/swatch/favicon-16x16.png",
       "sizes": [16]
     },
     {
       "file": "swatch.com-favicon.svg",
       "origin": "html",
-      "url": "https://swatch.com/on/demandware.static/Sites-swarp-AM-Site/-/default/dwb757afc5/images/favicons/swatch/safari-pinned-tab.svg",
+      "url": "https://swatch.com/on/demandware.static/Sites-swarp-AM-Site/-/default/dwba9164fe/images/favicons/swatch/safari-pinned-tab.svg",
       "sizes": [16]
     },
     {

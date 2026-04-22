@@ -1,31 +1,19 @@
 {
   "manifest_version": 4,
-  "updated_at": "2026-04-20T16:38:20Z",
+  "updated_at": "2026-04-22T17:08:47Z",
   "domain": "librewiki.net",
   "icons": [
     {
       "file": "librewiki.net-favicon.ico",
-      "origin": "html",
-      "url": "https://image.librewiki.net/favicon.ico",
-      "sizes": [16],
-      "aliases": [
-        {
-          "origin": "root",
-          "url": "https://librewiki.net/favicon.ico"
-        }
-      ]
+      "origin": "root",
+      "url": "https://librewiki.net/favicon.ico",
+      "sizes": [16]
     },
     {
       "file": "librewiki.net-favicon.ico.16.png",
-      "origin": "html",
-      "url": "https://image.librewiki.net/favicon.ico",
-      "sizes": [16],
-      "aliases": [
-        {
-          "origin": "root",
-          "url": "https://librewiki.net/favicon.ico"
-        }
-      ]
+      "origin": "root",
+      "url": "https://librewiki.net/favicon.ico",
+      "sizes": [16]
     },
     {
       "file": "librewiki.net-gstatic.16.png",

@@ -1,0 +1,73 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-22T17:06:59Z",
+  "domain": "baemin.com",
+  "icons": [
+    {
+      "file": "baemin.com-favicon.180.png",
+      "origin": "html",
+      "url": "https://www.baemin.com/_next/static/media/favicon-180x180.7697ba01.png",
+      "sizes": [180]
+    },
+    {
+      "file": "baemin.com-favicon.ico",
+      "origin": "html",
+      "url": "https://www.baemin.com/_next/static/media/favicon.41582b85.ico",
+      "sizes": [100],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://baemin.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "baemin.com-favicon.ico.100.png",
+      "origin": "html",
+      "url": "https://www.baemin.com/_next/static/media/favicon.41582b85.ico",
+      "sizes": [100],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://baemin.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "baemin.com-gstatic.180.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fbaemin.com&size=256",
+      "sizes": [180]
+    },
+    {
+      "file": "baemin.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fbaemin.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "baemin.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fbaemin.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "baemin.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fbaemin.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "baemin.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fbaemin.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "baemin.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fbaemin.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

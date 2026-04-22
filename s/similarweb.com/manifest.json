@@ -1,12 +1,12 @@
 {
   "manifest_version": 4,
-  "updated_at": "2026-04-20T16:39:19Z",
+  "updated_at": "2026-04-22T17:10:12Z",
   "domain": "similarweb.com",
   "icons": [
     {
       "file": "similarweb.com-favicon.180.png",
       "origin": "html",
-      "url": "https://static-us-east-1.similarcdn.com/build/20260420.master.294aaa6/dist/scripts/lite-app/assets/bf0781432ef84ce62b85.png",
+      "url": "https://static-us-east-1.similarcdn.com/build/20260422.master.3e4a8b1/dist/scripts/lite-app/assets/bf0781432ef84ce62b85.png",
       "sizes": [180]
     },
     {

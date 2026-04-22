@@ -1,49 +1,61 @@
 {
   "manifest_version": 4,
-  "updated_at": "2026-04-20T16:37:46Z",
+  "updated_at": "2026-04-22T17:08:04Z",
   "domain": "cloud.google.com",
   "icons": [
     {
       "file": "cloud.google.com-favicon.192.png",
       "origin": "html",
-      "url": "https://www.gstatic.com/cgc/super_cloud.png",
+      "url": "https://www.gstatic.com/cgc/super_cloud_gradient.png",
       "sizes": [192]
     },
     {
       "file": "cloud.google.com-favicon.ico",
       "origin": "html",
-      "url": "https://www.gstatic.com/cgc/favicon.ico",
-      "sizes": [16, 32],
-      "aliases": [
-        {
-          "origin": "root",
-          "url": "https://cloud.google.com/favicon.ico"
-        }
-      ]
+      "url": "https://www.gstatic.com/cgc/favicon_gradient.ico",
+      "sizes": [16, 32, 48, 64]
+    },
+    {
+      "file": "cloud.google.com-favicon.ico.64.png",
+      "origin": "html",
+      "url": "https://www.gstatic.com/cgc/favicon_gradient.ico",
+      "sizes": [64]
+    },
+    {
+      "file": "cloud.google.com-favicon.ico.48.png",
+      "origin": "html",
+      "url": "https://www.gstatic.com/cgc/favicon_gradient.ico",
+      "sizes": [48]
     },
     {
       "file": "cloud.google.com-favicon.ico.32.png",
       "origin": "html",
-      "url": "https://www.gstatic.com/cgc/favicon.ico",
-      "sizes": [32],
-      "aliases": [
-        {
-          "origin": "root",
-          "url": "https://cloud.google.com/favicon.ico"
-        }
-      ]
+      "url": "https://www.gstatic.com/cgc/favicon_gradient.ico",
+      "sizes": [32]
     },
     {
       "file": "cloud.google.com-favicon.ico.16.png",
       "origin": "html",
-      "url": "https://www.gstatic.com/cgc/favicon.ico",
-      "sizes": [16],
-      "aliases": [
-        {
-          "origin": "root",
-          "url": "https://cloud.google.com/favicon.ico"
-        }
-      ]
+      "url": "https://www.gstatic.com/cgc/favicon_gradient.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "cloud.google.com-favicon.aa8277af.ico",
+      "origin": "root",
+      "url": "https://cloud.google.com/favicon.ico",
+      "sizes": [16, 32]
+    },
+    {
+      "file": "cloud.google.com-favicon.ico.32.aa8277af.png",
+      "origin": "root",
+      "url": "https://cloud.google.com/favicon.ico",
+      "sizes": [32]
+    },
+    {
+      "file": "cloud.google.com-favicon.ico.16.aa8277af.png",
+      "origin": "root",
+      "url": "https://cloud.google.com/favicon.ico",
+      "sizes": [16]
     },
     {
       "file": "cloud.google.com-gstatic.32.png",

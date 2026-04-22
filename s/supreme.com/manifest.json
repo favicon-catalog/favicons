@@ -1,19 +1,31 @@
 {
   "manifest_version": 4,
-  "updated_at": "2026-04-20T16:39:29Z",
+  "updated_at": "2026-04-22T17:10:22Z",
   "domain": "supreme.com",
   "icons": [
     {
       "file": "supreme.com-favicon.ico",
       "origin": "html",
-      "url": "https://supreme.com/favicon.ico",
-      "sizes": [196]
+      "url": "https://supreme.com/favicon.ico?favicon.0.rz6dx7gj4-i.ico",
+      "sizes": [196],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://supreme.com/favicon.ico"
+        }
+      ]
     },
     {
       "file": "supreme.com-favicon.ico.196.png",
       "origin": "html",
-      "url": "https://supreme.com/favicon.ico",
-      "sizes": [196]
+      "url": "https://supreme.com/favicon.ico?favicon.0.rz6dx7gj4-i.ico",
+      "sizes": [196],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://supreme.com/favicon.ico"
+        }
+      ]
     },
     {
       "file": "supreme.com-favicon.152.png",

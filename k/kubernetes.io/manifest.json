@@ -1,6 +1,6 @@
 {
   "manifest_version": 4,
-  "updated_at": "2026-04-20T16:38:15Z",
+  "updated_at": "2026-04-22T17:08:51Z",
   "domain": "kubernetes.io",
   "icons": [
     {
@@ -74,12 +74,6 @@
       "origin": "html",
       "url": "https://kubernetes.io/icons/favicon-64.png",
       "sizes": [64]
-    },
-    {
-      "file": "kubernetes.io-favicon.32.png",
-      "origin": "html",
-      "url": "https://kubernetes.io/icons/favicon-32.png",
-      "sizes": [32]
     },
     {
       "file": "kubernetes.io-favicon.16.png",

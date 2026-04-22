@@ -1,0 +1,103 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-22T17:09:03Z",
+  "domain": "merriam-webster.com",
+  "icons": [
+    {
+      "file": "merriam-webster.com-favicon.svg",
+      "origin": "html",
+      "url": "https://merriam-webster.com/favicon.svg",
+      "sizes": [512]
+    },
+    {
+      "file": "merriam-webster.com-favicon.144.png",
+      "origin": "html",
+      "url": "https://merriam-webster.com/apple-touch-icon.png",
+      "sizes": [144]
+    },
+    {
+      "file": "merriam-webster.com-favicon.30c9ffa0.svg",
+      "origin": "html",
+      "url": "https://merriam-webster.com/safari-pinned-tab.svg",
+      "sizes": [144]
+    },
+    {
+      "file": "merriam-webster.com-favicon.ico",
+      "origin": "html",
+      "url": "https://merriam-webster.com/favicon.ico",
+      "sizes": [16, 32, 48]
+    },
+    {
+      "file": "merriam-webster.com-favicon.ico.48.png",
+      "origin": "html",
+      "url": "https://merriam-webster.com/favicon.ico",
+      "sizes": [48]
+    },
+    {
+      "file": "merriam-webster.com-favicon.32.png",
+      "origin": "html",
+      "url": "https://merriam-webster.com/favicon-32x32.png",
+      "sizes": [32]
+    },
+    {
+      "file": "merriam-webster.com-favicon.ico.32.png",
+      "origin": "html",
+      "url": "https://merriam-webster.com/favicon.ico",
+      "sizes": [32]
+    },
+    {
+      "file": "merriam-webster.com-favicon.16.png",
+      "origin": "html",
+      "url": "https://merriam-webster.com/favicon-16x16.png",
+      "sizes": [16]
+    },
+    {
+      "file": "merriam-webster.com-favicon.ico.16.png",
+      "origin": "html",
+      "url": "https://merriam-webster.com/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "merriam-webster.com-favicon.144.04d4c9b0.png",
+      "origin": "root",
+      "url": "https://merriam-webster.com/favicon.png",
+      "sizes": [144]
+    },
+    {
+      "file": "merriam-webster.com-gstatic.256.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fmerriam-webster.com&size=256",
+      "sizes": [256]
+    },
+    {
+      "file": "merriam-webster.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fmerriam-webster.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "merriam-webster.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fmerriam-webster.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "merriam-webster.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fmerriam-webster.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "merriam-webster.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fmerriam-webster.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "merriam-webster.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fmerriam-webster.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

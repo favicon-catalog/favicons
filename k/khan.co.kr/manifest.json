@@ -1,34 +1,16 @@
 {
   "manifest_version": 4,
-  "updated_at": "2026-04-20T16:38:13Z",
+  "updated_at": "2026-04-22T17:08:37Z",
   "domain": "khan.co.kr",
   "icons": [
     {
-      "file": "khan.co.kr-favicon.114.png",
-      "origin": "html",
-      "url": "https://img.khan.co.kr/spko/icon/apple-touch-icon-precomposed-web.png",
-      "sizes": [114]
-    },
-    {
       "file": "khan.co.kr-favicon.ico",
-      "origin": "html",
-      "url": "https://img.khan.co.kr/spko/icon/favicon.ico",
-      "sizes": [16]
-    },
-    {
-      "file": "khan.co.kr-favicon.ico.16.png",
-      "origin": "html",
-      "url": "https://img.khan.co.kr/spko/icon/favicon.ico",
-      "sizes": [16]
-    },
-    {
-      "file": "khan.co.kr-favicon.14dd71e7.ico",
       "origin": "root",
       "url": "https://khan.co.kr/favicon.ico",
       "sizes": [16]
     },
     {
-      "file": "khan.co.kr-favicon.ico.16.14dd71e7.png",
+      "file": "khan.co.kr-favicon.ico.16.png",
       "origin": "root",
       "url": "https://khan.co.kr/favicon.ico",
       "sizes": [16]

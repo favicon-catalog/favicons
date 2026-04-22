@@ -1,12 +1,12 @@
 {
   "manifest_version": 4,
-  "updated_at": "2026-04-20T16:39:25Z",
+  "updated_at": "2026-04-22T17:10:17Z",
   "domain": "square.com",
   "icons": [
     {
       "file": "square.com-favicon.ico",
       "origin": "html",
-      "url": "https://pw-renderer-production-c.squarecdn.com/6d6a21f1ace5b8a7c93127a6f77087418f6ac596/_svelte/favicon.ico",
+      "url": "https://pw-renderer-production-c.squarecdn.com/5ccd5aa96788b3966cb82dac1beec2d06daaeaf0/_svelte/favicon.ico",
       "sizes": [16, 32],
       "aliases": [
         {
@@ -18,7 +18,7 @@
     {
       "file": "square.com-favicon.ico.32.png",
       "origin": "html",
-      "url": "https://pw-renderer-production-c.squarecdn.com/6d6a21f1ace5b8a7c93127a6f77087418f6ac596/_svelte/favicon.ico",
+      "url": "https://pw-renderer-production-c.squarecdn.com/5ccd5aa96788b3966cb82dac1beec2d06daaeaf0/_svelte/favicon.ico",
       "sizes": [32],
       "aliases": [
         {
@@ -30,7 +30,7 @@
     {
       "file": "square.com-favicon.ico.16.png",
       "origin": "html",
-      "url": "https://pw-renderer-production-c.squarecdn.com/6d6a21f1ace5b8a7c93127a6f77087418f6ac596/_svelte/favicon.ico",
+      "url": "https://pw-renderer-production-c.squarecdn.com/5ccd5aa96788b3966cb82dac1beec2d06daaeaf0/_svelte/favicon.ico",
       "sizes": [16],
       "aliases": [
         {

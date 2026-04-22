@@ -1,0 +1,67 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-22T17:07:15Z",
+  "domain": "centos.org",
+  "icons": [
+    {
+      "file": "centos.org-favicon.180.png",
+      "origin": "html",
+      "url": "https://www.centos.org/assets/icons/apple-touch-icon.png",
+      "sizes": [180]
+    },
+    {
+      "file": "centos.org-favicon.svg",
+      "origin": "html",
+      "url": "https://www.centos.org/assets/icons/favicon.svg",
+      "sizes": [160]
+    },
+    {
+      "file": "centos.org-favicon.32.png",
+      "origin": "html",
+      "url": "https://www.centos.org/assets/icons/favicon-32.png",
+      "sizes": [32]
+    },
+    {
+      "file": "centos.org-favicon.16.png",
+      "origin": "html",
+      "url": "https://www.centos.org/assets/icons/favicon-16.png",
+      "sizes": [16]
+    },
+    {
+      "file": "centos.org-gstatic.180.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fcentos.org&size=256",
+      "sizes": [180]
+    },
+    {
+      "file": "centos.org-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fcentos.org&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "centos.org-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fcentos.org&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "centos.org-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fcentos.org&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "centos.org-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fcentos.org&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "centos.org-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fcentos.org&size=16",
+      "sizes": [16]
+    }
+  ]
+}

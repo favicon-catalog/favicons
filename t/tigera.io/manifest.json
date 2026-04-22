@@ -1,0 +1,61 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-22T17:10:35Z",
+  "domain": "tigera.io",
+  "icons": [
+    {
+      "file": "tigera.io-favicon.300.png",
+      "origin": "html",
+      "url": "https://www.tigera.io/app/uploads/2026/01/Tigera-logo-2026-badge-orange-450x450-1-300x300.png?v=2",
+      "sizes": [300]
+    },
+    {
+      "file": "tigera.io-favicon.64.png",
+      "origin": "html",
+      "url": "https://www.tigera.io/app/uploads/2026/01/Tigera-logo-2026-badge-orange-450x450-1-64x64.png?v=2",
+      "sizes": [64],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://tigera.io/favicon.ico"
+        }
+      ]
+    },
+    {
+      "file": "tigera.io-gstatic.256.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ftigera.io&size=256",
+      "sizes": [256]
+    },
+    {
+      "file": "tigera.io-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ftigera.io&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "tigera.io-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ftigera.io&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "tigera.io-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ftigera.io&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "tigera.io-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ftigera.io&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "tigera.io-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Ftigera.io&size=16",
+      "sizes": [16]
+    }
+  ]
+}
