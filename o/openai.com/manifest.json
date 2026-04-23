@@ -1,31 +1,13 @@
 {
   "manifest_version": 4,
-  "updated_at": "2026-04-22T17:09:40Z",
+  "updated_at": "2026-04-23T18:26:27Z",
   "domain": "openai.com",
   "icons": [
     {
-      "file": "openai.com-favicon.ico",
+      "file": "openai.com-favicon.svg",
       "origin": "root",
-      "url": "https://openai.com/favicon.ico",
-      "sizes": [16, 32, 48]
-    },
-    {
-      "file": "openai.com-favicon.ico.48.png",
-      "origin": "root",
-      "url": "https://openai.com/favicon.ico",
-      "sizes": [48]
-    },
-    {
-      "file": "openai.com-favicon.ico.32.png",
-      "origin": "root",
-      "url": "https://openai.com/favicon.ico",
-      "sizes": [32]
-    },
-    {
-      "file": "openai.com-favicon.ico.16.png",
-      "origin": "root",
-      "url": "https://openai.com/favicon.ico",
-      "sizes": [16]
+      "url": "https://openai.com/favicon.svg",
+      "sizes": [180]
     },
     {
       "file": "openai.com-gstatic.180.png",

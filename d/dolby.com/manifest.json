@@ -1,14 +1,8 @@
 {
   "manifest_version": 4,
-  "updated_at": "2026-04-22T17:07:40Z",
+  "updated_at": "2026-04-23T18:24:52Z",
   "domain": "dolby.com",
   "icons": [
-    {
-      "file": "dolby.com-favicon.180.png",
-      "origin": "html",
-      "url": "https://dolby.com/apple-touch-icon.png",
-      "sizes": [180]
-    },
     {
       "file": "dolby.com-favicon.svg",
       "origin": "root",

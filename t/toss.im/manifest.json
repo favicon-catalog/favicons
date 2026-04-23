@@ -1,19 +1,31 @@
 {
   "manifest_version": 4,
-  "updated_at": "2026-04-22T17:10:33Z",
+  "updated_at": "2026-04-23T18:27:10Z",
   "domain": "toss.im",
   "icons": [
     {
       "file": "toss.im-favicon.ico",
       "origin": "html",
       "url": "https://static.toss.im/tds/favicon/favicon.ico",
-      "sizes": [16, 24, 32, 48, 64, 72, 96, 128, 256]
+      "sizes": [16, 24, 32, 48, 64, 72, 96, 128, 256],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://toss.im/favicon.ico"
+        }
+      ]
     },
     {
       "file": "toss.im-favicon.ico.256.png",
       "origin": "html",
       "url": "https://static.toss.im/tds/favicon/favicon.ico",
-      "sizes": [256]
+      "sizes": [256],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://toss.im/favicon.ico"
+        }
+      ]
     },
     {
       "file": "toss.im-favicon.196.png",
@@ -37,7 +49,13 @@
       "file": "toss.im-favicon.ico.128.png",
       "origin": "html",
       "url": "https://static.toss.im/tds/favicon/favicon.ico",
-      "sizes": [128]
+      "sizes": [128],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://toss.im/favicon.ico"
+        }
+      ]
     },
     {
       "file": "toss.im-favicon.120.png",
@@ -55,7 +73,13 @@
       "file": "toss.im-favicon.ico.96.png",
       "origin": "html",
       "url": "https://static.toss.im/tds/favicon/favicon.ico",
-      "sizes": [96]
+      "sizes": [96],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://toss.im/favicon.ico"
+        }
+      ]
     },
     {
       "file": "toss.im-favicon.72.png",
@@ -67,13 +91,25 @@
       "file": "toss.im-favicon.ico.72.png",
       "origin": "html",
       "url": "https://static.toss.im/tds/favicon/favicon.ico",
-      "sizes": [72]
+      "sizes": [72],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://toss.im/favicon.ico"
+        }
+      ]
     },
     {
       "file": "toss.im-favicon.ico.64.png",
       "origin": "html",
       "url": "https://static.toss.im/tds/favicon/favicon.ico",
-      "sizes": [64]
+      "sizes": [64],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://toss.im/favicon.ico"
+        }
+      ]
     },
     {
       "file": "toss.im-favicon.57.png",
@@ -91,7 +127,13 @@
       "file": "toss.im-favicon.ico.48.png",
       "origin": "html",
       "url": "https://static.toss.im/tds/favicon/favicon.ico",
-      "sizes": [48]
+      "sizes": [48],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://toss.im/favicon.ico"
+        }
+      ]
     },
     {
       "file": "toss.im-favicon.32.png",
@@ -103,13 +145,25 @@
       "file": "toss.im-favicon.ico.32.png",
       "origin": "html",
       "url": "https://static.toss.im/tds/favicon/favicon.ico",
-      "sizes": [32]
+      "sizes": [32],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://toss.im/favicon.ico"
+        }
+      ]
     },
     {
       "file": "toss.im-favicon.ico.24.png",
       "origin": "html",
       "url": "https://static.toss.im/tds/favicon/favicon.ico",
-      "sizes": [24]
+      "sizes": [24],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://toss.im/favicon.ico"
+        }
+      ]
     },
     {
       "file": "toss.im-favicon.16.png",
@@ -121,7 +175,13 @@
       "file": "toss.im-favicon.ico.16.png",
       "origin": "html",
       "url": "https://static.toss.im/tds/favicon/favicon.ico",
-      "sizes": [16]
+      "sizes": [16],
+      "aliases": [
+        {
+          "origin": "root",
+          "url": "https://toss.im/favicon.ico"
+        }
+      ]
     },
     {
       "file": "toss.im-gstatic.256.png",

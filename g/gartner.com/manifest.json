@@ -1,32 +1,8 @@
 {
   "manifest_version": 4,
-  "updated_at": "2026-04-22T17:07:57Z",
+  "updated_at": "2026-04-23T18:25:03Z",
   "domain": "gartner.com",
   "icons": [
-    {
-      "file": "gartner.com-favicon.ico",
-      "origin": "root",
-      "url": "https://gartner.com/favicon.ico",
-      "sizes": [16, 32, 48]
-    },
-    {
-      "file": "gartner.com-favicon.ico.48.png",
-      "origin": "root",
-      "url": "https://gartner.com/favicon.ico",
-      "sizes": [48]
-    },
-    {
-      "file": "gartner.com-favicon.ico.32.png",
-      "origin": "root",
-      "url": "https://gartner.com/favicon.ico",
-      "sizes": [32]
-    },
-    {
-      "file": "gartner.com-favicon.ico.16.png",
-      "origin": "root",
-      "url": "https://gartner.com/favicon.ico",
-      "sizes": [16]
-    },
     {
       "file": "gartner.com-gstatic.64.png",
       "origin": "gstatic",

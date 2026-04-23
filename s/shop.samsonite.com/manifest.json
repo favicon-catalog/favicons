@@ -1,36 +1,36 @@
 {
   "manifest_version": 4,
-  "updated_at": "2026-04-22T17:10:03Z",
+  "updated_at": "2026-04-23T18:26:43Z",
   "domain": "shop.samsonite.com",
   "icons": [
     {
       "file": "shop.samsonite.com-favicon.196.png",
       "origin": "html",
-      "url": "https://shop.samsonite.com/on/demandware.static/Sites-samsonite-Site/-/default/dw56f2cf82/images/favicons/favicon-196x196.png",
+      "url": "https://shop.samsonite.com/on/demandware.static/Sites-samsonite-Site/-/default/dw230e16c3/images/favicons/favicon-196x196.png",
       "sizes": [196]
     },
     {
       "file": "shop.samsonite.com-favicon.144.png",
       "origin": "html",
-      "url": "https://shop.samsonite.com/on/demandware.static/Sites-samsonite-Site/-/default/dwfce24b10/images/favicons/favicon-144x144.png",
+      "url": "https://shop.samsonite.com/on/demandware.static/Sites-samsonite-Site/-/default/dwab3e5082/images/favicons/favicon-144x144.png",
       "sizes": [144]
     },
     {
       "file": "shop.samsonite.com-favicon.128.png",
       "origin": "html",
-      "url": "https://shop.samsonite.com/on/demandware.static/Sites-samsonite-Site/-/default/dwed91c788/images/favicons/favicon-128.png",
+      "url": "https://shop.samsonite.com/on/demandware.static/Sites-samsonite-Site/-/default/dwaae2eff4/images/favicons/favicon-128.png",
       "sizes": [128]
     },
     {
       "file": "shop.samsonite.com-favicon.96.png",
       "origin": "html",
-      "url": "https://shop.samsonite.com/on/demandware.static/Sites-samsonite-Site/-/default/dw815edd81/images/favicons/favicon-96x96.png",
+      "url": "https://shop.samsonite.com/on/demandware.static/Sites-samsonite-Site/-/default/dwce7f90db/images/favicons/favicon-96x96.png",
       "sizes": [96]
     },
     {
       "file": "shop.samsonite.com-favicon.ico",
       "origin": "html",
-      "url": "https://shop.samsonite.com/on/demandware.static/Sites-samsonite-Site/-/default/dw31898e09/favicon.ico",
+      "url": "https://shop.samsonite.com/on/demandware.static/Sites-samsonite-Site/-/default/dwd95d5275/favicon.ico",
       "sizes": [16, 24, 32, 48, 64],
       "aliases": [
         {
@@ -42,7 +42,7 @@
     {
       "file": "shop.samsonite.com-favicon.ico.64.png",
       "origin": "html",
-      "url": "https://shop.samsonite.com/on/demandware.static/Sites-samsonite-Site/-/default/dw31898e09/favicon.ico",
+      "url": "https://shop.samsonite.com/on/demandware.static/Sites-samsonite-Site/-/default/dwd95d5275/favicon.ico",
       "sizes": [64],
       "aliases": [
         {
@@ -54,13 +54,13 @@
     {
       "file": "shop.samsonite.com-favicon.48.png",
       "origin": "html",
-      "url": "https://shop.samsonite.com/on/demandware.static/Sites-samsonite-Site/-/default/dw8ec48ab8/images/favicons/favicon-48x48.png",
+      "url": "https://shop.samsonite.com/on/demandware.static/Sites-samsonite-Site/-/default/dw1eca9e3b/images/favicons/favicon-48x48.png",
       "sizes": [48]
     },
     {
       "file": "shop.samsonite.com-favicon.ico.48.png",
       "origin": "html",
-      "url": "https://shop.samsonite.com/on/demandware.static/Sites-samsonite-Site/-/default/dw31898e09/favicon.ico",
+      "url": "https://shop.samsonite.com/on/demandware.static/Sites-samsonite-Site/-/default/dwd95d5275/favicon.ico",
       "sizes": [48],
       "aliases": [
         {
@@ -72,13 +72,13 @@
     {
       "file": "shop.samsonite.com-favicon.32.png",
       "origin": "html",
-      "url": "https://shop.samsonite.com/on/demandware.static/Sites-samsonite-Site/-/default/dwd68fbd26/images/favicons/favicon-32x32.png",
+      "url": "https://shop.samsonite.com/on/demandware.static/Sites-samsonite-Site/-/default/dw0f97b365/images/favicons/favicon-32x32.png",
       "sizes": [32]
     },
     {
       "file": "shop.samsonite.com-favicon.ico.32.png",
       "origin": "html",
-      "url": "https://shop.samsonite.com/on/demandware.static/Sites-samsonite-Site/-/default/dw31898e09/favicon.ico",
+      "url": "https://shop.samsonite.com/on/demandware.static/Sites-samsonite-Site/-/default/dwd95d5275/favicon.ico",
       "sizes": [32],
       "aliases": [
         {
@@ -90,13 +90,13 @@
     {
       "file": "shop.samsonite.com-favicon.28.png",
       "origin": "html",
-      "url": "https://shop.samsonite.com/on/demandware.static/Sites-samsonite-Site/-/default/dw9c9af7f8/images/favicons/favicon-28x28.png",
+      "url": "https://shop.samsonite.com/on/demandware.static/Sites-samsonite-Site/-/default/dwdee0fc29/images/favicons/favicon-28x28.png",
       "sizes": [28]
     },
     {
       "file": "shop.samsonite.com-favicon.ico.24.png",
       "origin": "html",
-      "url": "https://shop.samsonite.com/on/demandware.static/Sites-samsonite-Site/-/default/dw31898e09/favicon.ico",
+      "url": "https://shop.samsonite.com/on/demandware.static/Sites-samsonite-Site/-/default/dwd95d5275/favicon.ico",
       "sizes": [24],
       "aliases": [
         {
@@ -108,13 +108,13 @@
     {
       "file": "shop.samsonite.com-favicon.16.png",
       "origin": "html",
-      "url": "https://shop.samsonite.com/on/demandware.static/Sites-samsonite-Site/-/default/dwcb5f1525/images/favicons/favicon-16x16.png",
+      "url": "https://shop.samsonite.com/on/demandware.static/Sites-samsonite-Site/-/default/dwde8d0c1b/images/favicons/favicon-16x16.png",
       "sizes": [16]
     },
     {
       "file": "shop.samsonite.com-favicon.ico.16.png",
       "origin": "html",
-      "url": "https://shop.samsonite.com/on/demandware.static/Sites-samsonite-Site/-/default/dw31898e09/favicon.ico",
+      "url": "https://shop.samsonite.com/on/demandware.static/Sites-samsonite-Site/-/default/dwd95d5275/favicon.ico",
       "sizes": [16],
       "aliases": [
         {

@@ -1,8 +1,20 @@
 {
   "manifest_version": 4,
-  "updated_at": "2026-04-22T17:09:28Z",
+  "updated_at": "2026-04-23T18:26:10Z",
   "domain": "mk.co.kr",
   "icons": [
+    {
+      "file": "mk.co.kr-favicon.ico",
+      "origin": "html",
+      "url": "https://static.mk.co.kr/favicon_new.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "mk.co.kr-favicon.ico.16.png",
+      "origin": "html",
+      "url": "https://static.mk.co.kr/favicon_new.ico",
+      "sizes": [16]
+    },
     {
       "file": "mk.co.kr-gstatic.16.png",
       "origin": "gstatic",

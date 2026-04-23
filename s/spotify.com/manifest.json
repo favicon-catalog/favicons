@@ -1,44 +1,8 @@
 {
   "manifest_version": 4,
-  "updated_at": "2026-04-22T17:10:15Z",
+  "updated_at": "2026-04-23T18:26:56Z",
   "domain": "spotify.com",
   "icons": [
-    {
-      "file": "spotify.com-favicon.ico",
-      "origin": "html",
-      "url": "https://open.spotifycdn.com/cdn/images/favicon.0f31d2ea.ico",
-      "sizes": [16, 32, 48]
-    },
-    {
-      "file": "spotify.com-favicon.ico.48.png",
-      "origin": "html",
-      "url": "https://open.spotifycdn.com/cdn/images/favicon.0f31d2ea.ico",
-      "sizes": [48]
-    },
-    {
-      "file": "spotify.com-favicon.32.png",
-      "origin": "html",
-      "url": "https://open.spotifycdn.com/cdn/images/favicon32.b64ecc03.png",
-      "sizes": [32]
-    },
-    {
-      "file": "spotify.com-favicon.ico.32.png",
-      "origin": "html",
-      "url": "https://open.spotifycdn.com/cdn/images/favicon.0f31d2ea.ico",
-      "sizes": [32]
-    },
-    {
-      "file": "spotify.com-favicon.16.png",
-      "origin": "html",
-      "url": "https://open.spotifycdn.com/cdn/images/favicon16.1c487bff.png",
-      "sizes": [16]
-    },
-    {
-      "file": "spotify.com-favicon.ico.16.png",
-      "origin": "html",
-      "url": "https://open.spotifycdn.com/cdn/images/favicon.0f31d2ea.ico",
-      "sizes": [16]
-    },
     {
       "file": "spotify.com-favicon.128.png",
       "origin": "root",
@@ -46,19 +10,19 @@
       "sizes": [128]
     },
     {
-      "file": "spotify.com-favicon.b26b7e43.ico",
+      "file": "spotify.com-favicon.ico",
       "origin": "root",
       "url": "https://spotify.com/favicon.ico",
       "sizes": [16, 32]
     },
     {
-      "file": "spotify.com-favicon.ico.32.b26b7e43.png",
+      "file": "spotify.com-favicon.ico.32.png",
       "origin": "root",
       "url": "https://spotify.com/favicon.ico",
       "sizes": [32]
     },
     {
-      "file": "spotify.com-favicon.ico.16.b26b7e43.png",
+      "file": "spotify.com-favicon.ico.16.png",
       "origin": "root",
       "url": "https://spotify.com/favicon.ico",
       "sizes": [16]

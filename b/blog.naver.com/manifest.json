@@ -1,0 +1,49 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-23T18:26:14Z",
+  "domain": "blog.naver.com",
+  "icons": [
+    {
+      "file": "blog.naver.com-favicon.32.png",
+      "origin": "html",
+      "url": "https://ssl.pstatic.net/static/blog/icon/favicon.ico",
+      "sizes": [32]
+    },
+    {
+      "file": "blog.naver.com-favicon.32.ae40be34.png",
+      "origin": "root",
+      "url": "https://blog.naver.com/favicon.ico",
+      "sizes": [32]
+    },
+    {
+      "file": "blog.naver.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fblog.naver.com&size=32",
+      "sizes": [32],
+      "aliases": [
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fblog.naver.com&size=48"
+        },
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fblog.naver.com&size=64"
+        },
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fblog.naver.com&size=128"
+        },
+        {
+          "origin": "gstatic",
+          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fblog.naver.com&size=256"
+        }
+      ]
+    },
+    {
+      "file": "blog.naver.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fblog.naver.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

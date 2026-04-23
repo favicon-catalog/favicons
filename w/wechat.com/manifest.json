@@ -1,26 +1,8 @@
 {
   "manifest_version": 4,
-  "updated_at": "2026-04-22T17:10:50Z",
+  "updated_at": "2026-04-23T18:27:19Z",
   "domain": "wechat.com",
   "icons": [
-    {
-      "file": "wechat.com-favicon.180.png",
-      "origin": "html",
-      "url": "https://newres.wechat.com/t/fed_upload/08b92997-2415-408f-b706-442ed4ede518/OTE0YTAw.png",
-      "sizes": [180]
-    },
-    {
-      "file": "wechat.com-favicon.32.png",
-      "origin": "html",
-      "url": "https://newres.wechat.com/t/fed_upload/25d133b0-63d9-4102-857c-5cc84c752232/NTI4MWU5.ico",
-      "sizes": [32],
-      "aliases": [
-        {
-          "origin": "gstatic",
-          "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fwechat.com&size=32"
-        }
-      ]
-    },
     {
       "file": "wechat.com-favicon.ico",
       "origin": "root",
@@ -56,6 +38,12 @@
       "origin": "gstatic",
       "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fwechat.com&size=48",
       "sizes": [48]
+    },
+    {
+      "file": "wechat.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fwechat.com&size=32",
+      "sizes": [32]
     },
     {
       "file": "wechat.com-gstatic.16.png",

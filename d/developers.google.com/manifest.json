@@ -1,0 +1,73 @@
+{
+  "manifest_version": 4,
+  "updated_at": "2026-04-23T18:25:09Z",
+  "domain": "developers.google.com",
+  "icons": [
+    {
+      "file": "developers.google.com-favicon.180.png",
+      "origin": "html",
+      "url": "https://www.gstatic.com/devrel-devsite/prod/v579073a50c63499824df5a68b8922367066583d283ef78fdade1028efdb4ceb5/developers/images/touchicon-180-new.png",
+      "sizes": [180]
+    },
+    {
+      "file": "developers.google.com-favicon.24.png",
+      "origin": "html",
+      "url": "https://www.gstatic.com/devrel-devsite/prod/v579073a50c63499824df5a68b8922367066583d283ef78fdade1028efdb4ceb5/developers/images/favicon-new.png",
+      "sizes": [24]
+    },
+    {
+      "file": "developers.google.com-favicon.ico",
+      "origin": "root",
+      "url": "https://developers.google.com/favicon.ico",
+      "sizes": [16, 32]
+    },
+    {
+      "file": "developers.google.com-favicon.ico.32.png",
+      "origin": "root",
+      "url": "https://developers.google.com/favicon.ico",
+      "sizes": [32]
+    },
+    {
+      "file": "developers.google.com-favicon.ico.16.png",
+      "origin": "root",
+      "url": "https://developers.google.com/favicon.ico",
+      "sizes": [16]
+    },
+    {
+      "file": "developers.google.com-gstatic.180.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdevelopers.google.com&size=256",
+      "sizes": [180]
+    },
+    {
+      "file": "developers.google.com-gstatic.128.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdevelopers.google.com&size=128",
+      "sizes": [128]
+    },
+    {
+      "file": "developers.google.com-gstatic.64.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdevelopers.google.com&size=64",
+      "sizes": [64]
+    },
+    {
+      "file": "developers.google.com-gstatic.48.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdevelopers.google.com&size=48",
+      "sizes": [48]
+    },
+    {
+      "file": "developers.google.com-gstatic.32.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdevelopers.google.com&size=32",
+      "sizes": [32]
+    },
+    {
+      "file": "developers.google.com-gstatic.16.png",
+      "origin": "gstatic",
+      "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&url=https%3A%2F%2Fdevelopers.google.com&size=16",
+      "sizes": [16]
+    }
+  ]
+}

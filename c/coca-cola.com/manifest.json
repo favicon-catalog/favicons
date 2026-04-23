@@ -1,30 +1,30 @@
 {
   "manifest_version": 4,
-  "updated_at": "2026-04-22T17:07:24Z",
+  "updated_at": "2026-04-23T18:24:36Z",
   "domain": "coca-cola.com",
   "icons": [
     {
       "file": "coca-cola.com-favicon.svg",
       "origin": "html",
-      "url": "https://www.coca-cola.com/onexp-theme/88aff19051571e6670cdf026e84a98a5c9944747e1077f5b4baa43c1ed98048a/resources/favicons/safari-pinned-tab.svg",
+      "url": "https://www.coca-cola.com/onexp-theme/f83959790d80834eb586837ff907eb847ba7f08e3034d106b30235a6731e58f2/resources/favicons/safari-pinned-tab.svg",
       "sizes": [700]
     },
     {
       "file": "coca-cola.com-favicon.180.png",
       "origin": "html",
-      "url": "https://www.coca-cola.com/onexp-theme/88aff19051571e6670cdf026e84a98a5c9944747e1077f5b4baa43c1ed98048a/resources/favicons/apple-touch-icon.png",
+      "url": "https://www.coca-cola.com/onexp-theme/f83959790d80834eb586837ff907eb847ba7f08e3034d106b30235a6731e58f2/resources/favicons/apple-touch-icon.png",
       "sizes": [180]
     },
     {
       "file": "coca-cola.com-favicon.32.png",
       "origin": "html",
-      "url": "https://www.coca-cola.com/onexp-theme/88aff19051571e6670cdf026e84a98a5c9944747e1077f5b4baa43c1ed98048a/resources/favicons/favicon-32x32.png",
+      "url": "https://www.coca-cola.com/onexp-theme/f83959790d80834eb586837ff907eb847ba7f08e3034d106b30235a6731e58f2/resources/favicons/favicon-32x32.png",
       "sizes": [32]
     },
     {
       "file": "coca-cola.com-favicon.16.png",
       "origin": "html",
-      "url": "https://www.coca-cola.com/onexp-theme/88aff19051571e6670cdf026e84a98a5c9944747e1077f5b4baa43c1ed98048a/resources/favicons/favicon-16x16.png",
+      "url": "https://www.coca-cola.com/onexp-theme/f83959790d80834eb586837ff907eb847ba7f08e3034d106b30235a6731e58f2/resources/favicons/favicon-16x16.png",
       "sizes": [16]
     },
     {

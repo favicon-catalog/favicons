@@ -1,18 +1,18 @@
 {
   "manifest_version": 4,
-  "updated_at": "2026-04-22T17:11:06Z",
+  "updated_at": "2026-04-23T18:27:31Z",
   "domain": "yum.com",
   "icons": [
     {
       "file": "yum.com-favicon.ico",
       "origin": "html",
-      "url": "https://yum.com/wps/contenthandler/yumbrands/!ut/p/digest!UNgmXMcVa_XWcuX7jLRysA/dav/fs-type1/themes/yumdotcomtheme2019/images/favicon.ico",
+      "url": "https://yum.com/wps/contenthandler/yumbrands/!ut/p/digest!Vu71QQ1hcjDmQSaM7dL_0g/dav/fs-type1/themes/yumdotcomtheme2019/images/favicon.ico",
       "sizes": [32]
     },
     {
       "file": "yum.com-favicon.ico.32.png",
       "origin": "html",
-      "url": "https://yum.com/wps/contenthandler/yumbrands/!ut/p/digest!UNgmXMcVa_XWcuX7jLRysA/dav/fs-type1/themes/yumdotcomtheme2019/images/favicon.ico",
+      "url": "https://yum.com/wps/contenthandler/yumbrands/!ut/p/digest!Vu71QQ1hcjDmQSaM7dL_0g/dav/fs-type1/themes/yumdotcomtheme2019/images/favicon.ico",
       "sizes": [32]
     },
     {

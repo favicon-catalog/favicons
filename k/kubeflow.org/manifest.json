@@ -1,6 +1,6 @@
 {
   "manifest_version": 4,
-  "updated_at": "2026-04-22T17:08:42Z",
+  "updated_at": "2026-04-23T18:25:51Z",
   "domain": "kubeflow.org",
   "icons": [
     {
@@ -8,12 +8,6 @@
       "origin": "html",
       "url": "https://kubeflow.org/safari-pinned-tab.svg?v=2",
       "sizes": [700]
-    },
-    {
-      "file": "kubeflow.org-favicon.180.png",
-      "origin": "html",
-      "url": "https://kubeflow.org/apple-touch-icon.png?v=2",
-      "sizes": [180]
     },
     {
       "file": "kubeflow.org-favicon.ico",
